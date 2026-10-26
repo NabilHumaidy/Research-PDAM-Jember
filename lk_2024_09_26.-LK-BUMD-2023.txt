@@ -1,0 +1,3952 @@
+
+--P0--
+LAPORAN KEUANGAN
+Untuk tahun yang berakhir tanggal 31 Desember 2023
+dan
+LAPORAN AUDITOR INDEPENDEN
+PERUSAHAAN UMUM DAERAH AIR MINUM (PERUMDAM)
+TIRTA PANDALUNGAN 
+KABUPATEN JEMBER
+--P1--
+Halaman
+SURAT PERNYATAAN DIREKSI !
+LAPORAN KEUANGAN
+        Laporan Posisi Keuangan : 1-2
+        Laporan Laba Rugi : 3
+        Laporan Perubahan Ekuitas : 4
+        Laporan Arus Kas : 5
+CATATAN ATAS LAPORAN KEUANGAN
+        Gambaran Umum dan Organisasi : 6-20
+        Penjelasan Akun Neraca : 21-30
+        Penjelasan Akun Laba / Rugi : 31-35
+LAPORAN AUDITOR INDEPENDEN
+LAMPIRAN
+--P2--
+
+--P3--
+1. Laporan Keuangan Komparatif Tahun 2023 dan 2022
+2. Perhitungan Laba / ( Rugi ) Komparatif Tahun 2023 dan 2022
+3. Laporan Perubahan Ekuitas Tahun 2023 dan 2022
+4. Laporan Arus Kas Komparatif Tahun 2023 dan 2022
+5. Catatan Atas Laporan Keuangan
+TAHUN BUKU 2023
+LAPORAN KEUANGAN POKOK
+
+--P4--
+PERUSAHAAN UMUM DAERAH AIR MINUM ( PERUMDAM )
+TIRTA PANDALUNGAN KABUPATEN JEMBER
+Jl. Trunojoyo No.73 Jember. Kode Pos 68137 Telp. (0331) 483509, 485421
+ Fax.425482 E-mail : perumdam@tirtapandalungan.com
+.
+Catatan 2023 2022
+Rp. Rp.
+ASET
+ASET LANCAR
+  Kas dan Setara Kas 3.1 15,692,442,622       10,363,366,320     
+  Piutang Usaha 3.2 9,788,603,379         8,971,316,186       
+  Akuml Penyisihan Piutang Usaha 3.3 (3,094,870,012)       (2,329,388,603)      
+  Piutang Usaha Bersih 6,693,733,367         6,641,927,583       
+  Piutang Non Usaha 3.4 442,087,522            262,486,936          
+  Akuml Penyisihan Piutang Non Usaha -                              -                             
+  Piutang Non Usaha Bersih 442,087,522            262,486,936          
+  Persediaan 3.5 3,724,139,239         2,741,419,226       
+  Akumulasi Penurunan Nilai -                              -                             
+  Persediaan Bersih 3,724,139,239         2,741,419,226       
+  Pembayaran Dimuka 3.6 1,298,736,539         1,014,711,505       
+       Jumlah Aset Lancar 27,851,139,288       21,023,911,569     
+ASET TIDAK LANCAR
+  Penyertaan pada Unit AMDK Hazora 3.7 -                              1,347,184,172       
+  Aset Tetap 162,640,724,495     153,580,090,585   
+  Akumulasi Penyusutan Aset Tetap (101,401,806,261)   (91,794,266,566)    
+  Nilai Buku Aset Tetap 3.8 61,238,918,234       61,785,824,019     
+  Aset Tidak Berwujud 1,828,689,050         1,373,047,000       
+  Akumulasi Amortisasi (1,364,300,410)       (1,190,629,000)      
+  Nilai Buku Aset Tidak Berwujud 3.9 464,388,640            182,418,000          
+  Aset Dalam Penyelesaian 3.10 1,650,443,873         820,687,755          
+       Jumlah Aset Tidak Lancar 63,353,750,747       64,136,113,945     
+JUMLAH  ASET 91,204,890,035       85,160,025,514     
+LAPORAN POSISI KEUANGAN
+PER 31 DESEMBER 2023 DAN 2022
+U r a i a n
+1
+
+--P5--
+PERUSAHAAN UMUM DAERAH AIR MINUM ( PERUMDAM )
+TIRTA PANDALUNGAN KABUPATEN JEMBER
+Jl. Trunojoyo No.73 Jember. Kode Pos 68137 Telp. (0331) 483509, 485421
+ Fax.425482 E-mail : perumdam@tirtapandalungan.com
+Catatan 2023 2022
+Rp. Rp.
+LIABILITAS DAN EKUITAS
+LIABILITAS LANCAR
+  Utang Usaha 3.11 141,274,200           74,000,000            
+  Biaya Yang Masih Harus Dibayar 3.12 183,651,908           27,612,487            
+  Pendapatan Diterima Dimuka 3.13 74,700,000             305,887,950          
+  Utang Pajak 3.14 2,477,979,863        1,536,100,500       
+  Rupa rupa Kewajiban Lainnya 3.15 2,827,096,984        1,709,630,969       
+         Jumlah Liabilitas Lancar 5,704,702,955        3,653,231,906       
+LIABILITAS TIDAK LANCAR
+  Iuran Dapenma Pamsi 3.16 1,805,075,592        524,769,278          
+  Cadangan -                              -                         
+  Kewajiban Lainnya 3.17 4,688,441,242        3,526,531,848       
+         Jumlah Liabilitas Tidak Lancar 6,493,516,834        4,051,301,126       
+JUMLAH  LIABILITAS 12,198,219,790      7,704,533,032       
+EKUITAS
+  Modal Disetor Pemerintah Kabupaten 3.18 454,632,950           454,632,950          
+  Modal Disetor Pemerintah Pusat 3.19 68,382,000             68,382,000            
+  Modal Hibah 3.20 388,376,559           388,376,559          
+  Penyertaan Pemerintah Pusat 3.21 1,524,617,981        1,524,617,981       
+  Penyert Pem.Pusat JBL Jelas Statusnya3.22 35,978,476,752      35,978,476,752     
+  Penyert Pem.Prop. JBL Jelas Statusnya3.23 298,000,000           298,000,000          
+  Penyertaan Pemerintah Kabupaten 3.24 41,324,023,201      41,324,023,201     
+  Penyert Pem.Kabp. JBL Jelas Statusnya3.25 2,134,181,000        2,134,181,000       
+  Saldo Laba (Rugi) Ditahan 3.26 (10,850,132,197)     (9,100,487,770)      
+  Laba / (Rugi) Tahun Berjalan 3.27 7,686,111,999        4,385,289,809       
+         Jumlah Ekuitas 79,006,670,245      77,455,492,482     
+JUMLAH LIABILITAS DAN EKUITAS 91,204,890,035      85,160,025,514     
+2
+U r a i a n
+Lihat catatan atas laporan keuangan yang merupakan bagian yang tidak terpisahkan
+dari laporan keuangan secara keseluruhan
+LAPORAN POSISI KEUANGAN
+PER 31 DESEMBER 2023 DAN 2022  Lanjutan
+
+--P6--
+PERUSAHAAN UMUM DAERAH AIR MINUM ( PERUMDAM )
+TIRTA PANDALUNGAN KABUPATEN JEMBER
+Jl. Trunojoyo No.73 Jember. Kode Pos 68137 Telp. (0331) 483509, 485421
+ Fax.425482 E-mail : perumdam@tirtapandalungan.com
+Catatan 2023 2022
+Rp. Rp.
+PENDAPATAN USAHA
+  Pendapatan Air       55,129,541,835       45,613,933,183     
+  Pendapatan Non Air 4,026,643,970         3,302,184,358       
+         Jumlah Pendapatan Usaha 3.28 59,156,185,805       48,916,117,541     
+PENDAPATAN NON USAHA
+  Pendapatan Non Usaha 2,234,141,565         360,618,794          
+         Jumlah Pendapatan Non Usaha 3.29 2,234,141,565         360,618,794          
+  JUMLAH PENDAPATAN 61,390,327,370       49,276,736,335     
+BEBAN  USAHA 3.30
+  Beban Pegawai 16,227,499,564       14,696,125,196     
+  Beban Pemakaian Bahan Bakar 189,385,803            118,865,085          
+  Beban Listrik 5,297,246,599         4,914,396,979       
+  Beban Pemakaian Bahan Pembantu 4,758,697                1,537,272              
+  Beban Pemeliharaan 2,610,732,583         1,929,522,113       
+  Beban Air Baku 216,556,479            200,215,865          
+  Beban Penyusutan dan Amortisasi 9,781,211,105         8,871,073,364       
+  Beban Pemakaian Bahan Kimia 1,936,356,465         2,425,417,236       
+  Beban Pinjaman 275,000                   1,312,767              
+  Beban Penyisihan Piutang Rek.Air 765,481,409            1,077,452,886       
+  Beban Operasi lainnya 14,202,050,213       9,115,485,762       
+         Jumlah Beban Usaha 51,231,553,917       43,351,404,526     
+BEBAN NON USAHA 3.31
+  Beban Non Usaha 6,461,754                3,941,499              
+         Jumlah Beban Non Usaha 6,461,754                3,941,499              
+     JUMLAH  BEBAN 51,238,015,671       43,355,346,025     
+LABA / (RUGI) SEBELUM PAJAK 10,152,311,699       5,921,390,309       
+PAJAK PENGHASILAN 3.32 2,466,199,700         1,536,100,500       
+LABA BERSIH TAHUN BERJALAN 7,686,111,999         4,385,289,809       
+dari laporan keuangan secara keseluruhan
+3
+LAPORAN LABA / RUGI
+Untuk tahun yang berakhir 31 Desember 2023 dan 2022
+U r a i a n
+Lihat catatan atas laporan keuangan yang merupakan bagian yang tidak terpisahkan
+
+--P7--
+ PERUSAHAAN UMUM DAERAH AIR MINUM ( PERUMDAM )
+TIRTA PANDALUNGAN KABUPATEN JEMBER
+Jl. Trunojoyo No.73 Jember. Kode Pos 68137 Telp. (0331) 483509, 485421
+ Fax.425482 E-mail : perumdam@tirtapandalungan.com
+Penyertaan Penyertaan Penyertaan Akumulasi Jumlah
+Pemerintah Pemerintah Hibah Pemerintah YBJ Laba (Rugi) Ekuitas
+Kab.Jember Pusat Statusnya
+Saldo per 31 Desember  2021 41,778,656,151  1,592,999,981   388,376,559  38,410,657,752    (7,832,811,957)  74,337,878,486    
+Koreksi yang mempengaruhi Akumulasi Rugi Tahun Lalu -                          -                        -                     -                           (1,267,675,813)  (1,267,675,813)    
+Penambahan Penyertaan Pemerintah Kabupaten Jember -                          -                        -                     -                           -                         -                           
+Laba /( Rugi ) Tahun berjalan -                          -                        -                     -                           4,385,289,809   4,385,289,809      
+Saldo per 31 Desember  2022 41,778,656,151  1,592,999,981   388,376,559  38,410,657,752    (4,715,197,961)  77,455,492,482    
+Koreksi yang mempengaruhi Akumulasi Rugi Tahun Lalu -                          -                        -                     -                           (6,134,934,236)  (6,134,934,236)    
+Penambahan Penyertaan Pemerintah Kabupaten Jember -                          -                        -                     -                           -                         -                           
+Laba /( Rugi ) Tahun berjalan -                          -                        -                     -                           7,686,111,999   7,686,111,999      
+Saldo per 31 Desember  2023 41,778,656,151  1,592,999,981   388,376,559  38,410,657,752    (3,164,020,198)  79,006,670,245    
+4
+U r a i a n
+Lihat catatan atas laporan keuangan yang merupakan bagian tak terpisahkan dari laporan keuangan secara keseluruhan
+Untuk Tahun Yang Berakhir 31 Desember 2023
+LAPORAN PERUBAHAN EKUITAS
+
+--P8--
+PERUSAHAAN UMUM DAERAH AIR MINUM ( PERUMDAM )
+TIRTA PANDALUNGAN KABUPATEN JEMBER
+Jl. Trunojoyo No.73 Jember. Kode Pos 68137 Telp. (0331) 483509, 485421
+ Fax.425482 E-mail : perumdam@tirtapandalungan.com
+2023 2022
+Rp. Rp.
+I. ARUS KAS DARI AKTIVITAS OPERASIONAL
+   Laba / (Rugi) bersih 7,686,111,999            4,385,289,809          
+   Penyesuaian atas beban non kas
+    - Beban Penyisihan Piutang Rekening Air 765,481,409               1,077,452,886          
+    - Beban Penyusutan dan Amortisasi 9,781,211,105            8,871,073,364          
+   Laba (Rugi) sebelum perubahan Modal Kerja 18,232,804,513          14,333,816,060        
+   Perubahan Modal Kerja
+   1.Penurunan / (Kenaikan) Aset Lancar
+      - Piutang Usaha (817,287,193)             (2,037,392,728)         
+      - Piutang Non Usaha (179,600,586)             (22,312,811)              
+      - Persediaan (982,720,013)             134,648,153             
+      - Pembayaran Dimuka (284,025,034)             69,897,025               
+   2.Kenaikan / (Penurunan) Kewajiban
+      - Utang Usaha 67,274,200                 222,900,000             
+      - Utang Non Usaha -                                 -                            
+      - Biaya Yang Masih Harus Dibayar 156,039,421               3,700,635                 
+      - Pendapatan Diterima Dimuka (231,187,950)             (63,471,200)              
+      - Utang Pajak 941,879,363               747,851,500             
+      - Rupa-rupa Kewajiban Lainnya 1,117,466,015            39,576,395               
+     Jumlah Perubahan Modal Kerja ( 1 + 2 ) (212,161,777)             (904,603,031)            
+     Kas Bersih dari Aktivitas Operasional 18,020,642,736          13,429,213,029        
+II. ARUS KAS DARI AKTIVITAS INVESTASI
+    (Penambahan) / Pengurangan pada :
+    - Aset Tetap (9,060,633,910)          (5,678,061,923)         
+    - Aset Dalam Penyelesaian (829,756,118)             559,470,195             
+    - Aset Tidak Berwujud/Beban Ditangguhkan (455,642,050)             -                                
+    - Penyertaan pada Unit AMDK Hazora 1,347,184,172            (122,197,714)            
+    Kas Bersih dari Aktivitas Investasi (8,998,847,906)          (5,240,789,442)         
+III.ARUS KAS DARI AKTIVITAS PENDANAAN
+    Kenaikan (Penurunan) pada :
+    - Utang Dapenma Pamsi 1,280,306,314            (1,488,296,413)         
+    - Cadangan Dana 2,631,173,884            1,373,315,464          
+    - Pembayaran PAD tahun 2022 (1,250,000,000)          (1,000,000,000)         
+    - Pembayaran Jasa Produksi Th.2022 (219,264,490)             (105,639,651)            
+    - Saldo Rugi Tahun Lalu (1,749,644,427)          739,477,558             
+    - Pembagian Laba Tahun 2022 (4,385,289,809)          (2,112,793,021)         
+    Arus Kas bersih Aktivitas Pendanaan (3,692,718,528)          (2,593,936,064)         
+IV.KENAIKAN (PENURUNAN) KAS BERSIH  5,329,076,301            5,594,487,523          
+V. SALDO AWAL KAS DAN SETARA KAS 10,363,366,319          4,768,878,796          
+VI.SALDO AKHIR KAS DAN SETARA KAS 15,692,442,621          10,363,366,319        
+5
+U r a i a n
+Lihat catatan atas laporan keuangan yang merupakan bagian yang tidak terpisahkan
+dari laporan keuangan secara keseluruhan
+LAPORAN ARUS KAS
+Untuk tahun yang berakhir 31 Desember 2023 dan 2022
+
+--P9--
+6 
+ 
+ 
+ 
+ 
+PERUSAHAAN UMUM DAERAH AIR MINUM ( PERUMDAM )   
+ TIRTA PANDALUNGAN KABUPATEN JEMBER   
+ Jl.Trunojoyo No.73 Jember. Kode Pos 68137 Telp. (0331) 483509, 485421  
+  Fax.425482 E-mail : perumdam@tirtapandalungan.com       
+                
+  
+ 
+              
+5. Catatan atas Laporan Keuangan 
+5.1 Gambaran Umum dan Organisasi 
+5.1.1 Pendirian Perusahaan 
+Perusahaan Daerah Air Minum Kabupaten Jember (selanjutnya disebut PDAM Kabupaten 
+Jember), merupakan salah satu Badan Usaha Milik Daerah (BUMD) di lingkungan Pemerintah 
+Kabupaten Jember yang didirikan berdasarkan Peraturan Daerah Nomor 4 Tahun 1975 tanggal 
+26 Maret 1975 Tentang Pendirian Perusahaan Daerah Air Minum Kabupaten Daerah Tingkat II 
+Jember dan diundangkan dalam Lembaran Daerah Kabupaten Daerah Tingkat II Jember Tahun 
+1975 Seri C tanggal 20 Agustus 1975 Nomor 4, Perda Perusahaan telah mengalami perubahan. 
+ 
+Perda Perusahaan Daerah Air Minum Kabupaten Jember mengalami beberapa perubahan,  
+Terakhir berdasarkan Perda Nomor.3 Tahun 2022  tanggal 19 April 2022 tentang Perusahaan 
+Umum Daerah Air Minum Tirta Pandalungan Jember yang ditetapkan bahwa Perusahaan 
+Daerah Air Minum Kabupaten Tingkat II Jember yang didirikan dengan Peraturan Daerah 
+Nomor 4 Tahun 1975 tenta ng Perusahaan Daerah Air Minum Kabupaten Tingkat II Jember 
+beralih status badan hukumnya menjadi Perusahaan Umum Daerah Air Minum Tirta 
+Pandalungan Jember  yang selanjutnya disebut dengan PERUMDAM Tirta Pandalungan 
+Jember. 
+Besarnya Modal Dasar PERUMDAM Tirta Pandalungan Jember adalah sebesar 
+Rp200.000.000.000,00 (dua ratus milyar rupiah). 
+ 
+Kegiatan/bidang usaha pokok PERUMDAM Tirta Pandalungan Jember adalah menyediakan 
+air minum yang cukup dan sehat serta memenuhi syarat (tidak berwarna, tidak berasa dan tid ak 
+berbau) bagi masyarakat Kabupaten Jember. 
+ 
+5.1.2 Tujuan Pendirian Perusahaan 
+Tujuan Pendirian PERUMDAM Tirta Pandalungan Jember adalah turu t melaksanakan dan 
+menunjang kebijakan dan program  Pemerintah Daerah di bidang sos ial, ekonomi, dan 
+pembangunan daerah, terutama di bidang penyediaan barang dan/ atau jasa kepada masyarakat, 
+serta optimalisasi pemanfaatan sumber daya PERUMDAM untuk menghasilkan barang dan/ 
+atau jasa berdasarkan Tata Kelola Perusahaan yang baik.  
+PERUMDAM Tirta Pandalungan Jember juga melaksanakan fungsi-fungsi sebagai berikut : 
+a. Untuk menyediakan pelayanan kepada masyarakat sesuai dengan ruang lingkup usahanya; 
+b. Memberikan kontribusi pada pendapatan Asli Daerah; 
+c. Turut serta meningkatkan perekonomian Daerah. 
+
+--P10--
+7 
+ 
+ 
+5.1.3 Visi dan Misi Perusahaan 
+Visi PERUMDAM Tirta Pandalungan Jember 
+Mewujudkan PERUMDAM Tirta Pandalungan Jember yang terpercaya,  terdepan   dan 
+berdaulat.                                                             
+ 
+Misi PERUMDAM Tirta Pandalungan Jember 
+a. Membangun kepercayaan public dan stakeholder gengan peningkatan akselerasi 
+layanan.                                                                                         
+b. Mengoptimalkan kualitas dan kinerja perusahaan guna menambah daya saing 
+Kabupaten Jember untuk meningkatkan Pendapatan Asli Daerah. 
+c. Menguatkan pelestarian dan pengelolaan sumber daya air guna mendukung 
+pengembangan cakupan pelayanan yang berkelanjutan 
+ 
+. 
+3.1.4 Organisasi 
+Struktur organisasi dan Tata Kerja PERUMDAM Tirta Pandalungan Jember d itetapkan 
+berdasarkan surat Keputusan Direksi PERUMDAM Tirta Pandalungan Jember No 03 tahun 
+2022 tanggal 24 Oktober 2022, dengan susunan sebagai berikut: 
+ 
+         a. Susunan Direksi, Manager Divisi, Manager Divisi Area, serta Manager AMDK  sampai                                                 
+dengan tahun 2023 
+ adalah sebagai berikut : 
+No. Nama Jabatan Keterangan 
+1. Miftahur Ridho,S.E.I        Direktur Utama  Direksi ditetapkan 
+berdasarkan surat 
+Keputusan Bupati   
+Jember nomor :  
+188.45/362/1.12/ 
+2022 tanggal  15 
+Agustus 2022 
+Untuk Masa Bakti 
+Tahun 2022-2027                                                                   
+. 
+ 
+2. Yudho R Utomo,SH.MM Direktur Umum  
+3. Bagus Andi Puspito,ST    Direktur Teknik 
+4. Imron Cahyadi, SE       Kapala SPI             
+5. Jajang Rahmad H, SE ManagerSDM,Umum dan PJB    
+6. Sri Purnomo W, SE Manager Layanan Pelanggan Plt 
+7. Bagus Djati Santigi, SE Manager Keuangan            
+8. Rudi Hartono, ST . Manager Transmisi Distribusi 
+9. Sugeng Haryanto, ST Manager Produksi  Plt. 
+10. Andreas Warsito,ST.MM Manager Perencanaan Teknik 
+11. Eko Rakhmanto            Manager Area MAPAN  Plt. 
+12. Suroto              Manager Area TRAJEM       
+13. Slamet Budi Hartono, SE Manager Area GERBANG        
+14. Sony Indra.P. SP Manager AMDK   (Pj)            
+ 
+ 
+ 
+ 
+ 
+ 
+--P11--
+8 
+ 
+b.   Dewan Pengawas 
+Dewan Pengawas PERUMDAM Tirta Pandalungan Jember diteta pkan berdasarkan 
+Surat Keputusan Bupati Jember No.188.45/363/1.12/2022 tanggal 15 Agustus 2022  dan 
+Keputusan Dewan Pengawas  No.03/DP-PDAM/2022. Dengan susunan sebagai berikut. 
+ 
+No. Jabatan BP Jabatan dalam Dinas Instansi 
+1 
+2 
+3 
+Ketua 
+Sekretaris 
+Anggota 
+Ervan Setiawan,S.STP,MM 
+Khairil Anwar, M.Psi 
+Drs.Farid Wajdi 
+ 
+Sekretariat DP PDAM: 
+Sekretaris Sekretariat 
+Unsur Sekretariat 
+Unsur Sekretariat 
+Unsur Sekretariat 
+ 
+Dra.Diana Manfaati      
+Totok Sugiharto, SE 
+Wahyu Lestari Kurniasari 
+Jajang Rahmad H, SE    
+ 
+c    Pegawai 
+Jumlah pegawai perusahaan per 31 Desember 202 3 sebanyak 179  (seratus tujuh puluh 
+sembilan) orang. Adalah sebagai berikut : 
+No. Jabatan 
+Jumlah Pegawai 
+2023 2022 Tambah 
+(Kurang) 
+1 Direksi 3 3 - 
+2 Satuan Pengawas Intern       6  5 1 
+3 Div. SDM,Umum dan PBJ 12 9 3 
+4 Div. Layanan Pelanggan 7  7  -   
+5 Div. Keuangan                   20 19 1   
+6 Div. Trnsmisi & Distribusi         19 19 - 
+7 Div. Perencanaan Teknik 10 10 - 
+8 Div. Produksi                  41 42 (1)   
+9 Kantor Area Tanggul   4 8 (4) 
+10 Kantor Area Puger    6 8 (2) 
+11 Kantor Area Mangli   7 9 (2)   
+12 Kantor IKK Rambipuji 6 5 1 
+13 Kantor IKK Mumbulsari 3 3 - 
+14 Kantor IKK Jelbuk 3 6 (3) 
+15 Kantor IKK Panti   3 2 1 
+16 Kantor IKK Balung                 5 4 1 
+17 AMDK Hazora 3 3 -   
+18 Staf Ahli                   - - - 
+19 Monev dan Litbang 1 1 - 
+20 Gudang 3 3 - 
+21 Kendaraan Dinas dan Tangki  4 4 - 
+22 Aset dan Hukum 2 2 - 
+23 Unit Reaksi Cepat 7                     7  - 
+Jumlah 175 179 (4) 
+ 
+ 
+--P12--
+9 
+ 
+            Jumlah pegawai  pada tahun 2023 sebanyak 175 terjadi  pengurangan sebanyak 4 (empat)     
+            orang dibanding tahun 2022, hal ini disebabkan 2 (dua) orang meninggal dunia, 1 (satu)  
+            orang pension dan 1 (satu) orang mengundurkan diri. 
+             
+d. Kedudukan Perusahaan 
+Kedudukan perusahaan berkantor pusat di Jln Trunojoyo Nomor 73, Jember memiliki 
+tiga kantor cabang yaitu : 
+1. Kantor Cabang Mangli Area MAPAN           
+2. Kantor Cabang Rambipuji Area TRAJEM 
+3. Kantor Cabang  Puger Area GERBANG  dan 
+Satuan Pengawas Intern ( SPI ) 
+Jumlah Pelanggan posisi per 31 Desember 2023 sebanyak  44.029 
+ 
+e. Kapasitas Produksi dan Cakupan Pelayanan 
+Kapasitas produksi dan cakupan pelayanan PERUMDAM Tirta Pandalungan Jember 
+sampai saat ini sebagai berikut : 
+No. Uraian Satuan Jumlah 
+1. Kapasitas Terpasang Ltr/dtk 510,00 
+2. Kapasitas Produksi Ltr/dtk 495,90 
+3. Produksi Air m3 9.791.778 
+4. Distribusi Air m3 9.543.593 
+5. Air Terjual m3 7.560.828 
+6. Air Hilang dari Produksi m3 249.185 
+7. Air Hilang yang dapat Dipertanggungjawabkan m3 381.655 
+8. Air Hilang dari Distribusi m3 1.982.765 
+9. % Air Hilang Dari :   
+ Produksi (6:3) % 2,53% 
+ Distribusi (8:4) % 20,78% 
+10. Jumlah Penduduk Jiwa 2.584.233 
+11. Jumlah Penduduk Terlayani Jiwa 264.174 
+12. Jumlah Karyawan Jiwa 175 
+13. Jumlah Pelanggan SR 44.029 
+14. Jumlah Pelanggan Yang Ditera Meternya  SR 9.143 
+15. Jumlah Pengaduan Pelanggan SR 3.405 
+16.  Jumlah Penyelesaian Pengaduan Pelanggan SR 3.294 
+17. Pemakaian Air per Pelanggan m3/thn 171,72 
+18. Kecepatan Penyambungan Hari 6 
+19. Jumlah Kualitas Air yang Diuji Sampel 648 
+20. Jumlah Uji Kualitas Air yang Memenuhi Syarat Sampel 624 
+21. Jumlah Pelanggan Dilayani dengan Tekanan >0,7 Bar SR 35.359 
+22. Jumlah Meter Yg Diganti Tahun YBS Unit  4.539 
+23. Jumlah Pegawai Yg Ikut Diklat Jiwa 87 
+24. Jumlah Penduduk di Daerah Pelayanan Jiwa 1.032.013 
+25. Harga Jual Air + Beban Tetap Rp/m3 7.067 
+26. Harga Jual Air (Murni) Rp/m3 5.620 
+27. Harga Pokok Produksi Rp/m3 5.233 
+ 
+ 
+ 
+ 
+ 
+ 
+--P13--
+10 
+ 
+5.2 KEBIJAKAN AKUNTANSI 
+1. Asumsi Dasar Akuntansi 
+Asumsi Dasar Akuntansi yang berlaku adalah kelangsungan usaha dan akrual. 
+Kelangsungan usaha diart ikan bahwa suatu entitas melaku kan usaha secara 
+berkesinambungan tanpa maksud untuk dibubarkan. Dasar akuntansi yang digunakan dalam 
+perhitungan hasil usaha (Perhitungan Laba Rugi) periodik dan penentuan posisi keuangan 
+(Neraca) dilakukan atas dasar prinsip akrual.  
+ 
+Kebijakan akuntansi perusahaan berpedoman kepada St andar Akuntansi Keuangan Entitas 
+Tanpa Akuntabilitas Publik (SAK -ETAP) yang dikeluarkan oleh Ikatan Akuntansi 
+Indonesia dan Keputusan Menteri Negara Otonomi Daerah Nomor 8 Tahun 2000 tanggal 10 
+Agustus 2000 tentang “Pedoman Sistem Akuntansi Perusahaan Daerah Air Minum (PDAM) 
+sepanjang tidak bertentangan dengan SAK-ETAP. 
+ 
+Penyajian Laporan Keuangan 
+Laporan keuangan perusahaan merupakan bagian dari proses pelaporan keuangan. Laporan 
+Keuangan meliputi neraca, laporan laba rugi, laporan perubahan ekuitas, lapor an arus kas, 
+dan catatan atas laporan keuangan.  
+Laporan keuangan disusun dan disajikan dengan menggunakan prinsip dan praktek 
+akuntansi yang berlaku umum di Indonesia yang te rtuang dalam Standart Akuntansi 
+Keuangan Entitas Tanpa Akuntabilitas Publik (SAK-ETAP). 
+ 
+Dasar Pengukuran 
+Dasar pengukuran unsur – unsur dalam penyusunan laporan keuangan adalah biaya historis 
+dan nilai wajar. 
+ 
+Periode Akuntansi dan Mata Uang Pelaporan 
+Periode akuntansi perusahaan di mulai tanggal 1 Januari sampai dengan 31 Desember se tiap 
+tahunnya, Mata uang yang di gunakan untuk penyusunan laporan keuangan adalah mata 
+uang rupiah. 
+ 
+Aset Lancar 
+Suatu aset diklasifikasikan sebagai aset lancar, jika asset tersebut memenuhi salah satu dari 
+kriteria berikut: 
+a. Berupa kas atau setara kas yang penggunaannya tidak dibatasi; 
+b. Diperkirakan akan direalisasi atau dimiliki untuk dijual atau digunakan dalam jangka 
+waktu siklus operasi normal perusahaan; 
+c. Dimiliki untuk diperdagangkan atau untuk tujuan jangka pendek dan diharapkan akan 
+direalisir dalam jangka waktu 12 (dua belas) bulan dari tanggal neraca. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+--P14--
+11 
+ 
+2. Pokok – Pokok Kebijakan Akuntansi Yang Penting 
+ 
+a. Kas dan Setara Kas 
+Kas dan setara kas adalah mencakup kas, simpanan yang sewaktu – waktu dapat 
+dicairkan dan investasi li kuid jangka pendek (Deposit o atau Deposito Kapitalisasi) 
+dengan waktu jatuh tempo 3 (tiga) bulan atau kurang. 
+ 
+b. Piutang 
+Piutang terbagi atas: 
+- Piutang usaha yaitu piutang yang timbul dari transaksi penjualan air dan non air; 
+- Piutang penjualan air terdiri dari piutang air dan Administr asi yang mencakup 
+administrasi rekening dan dana perawatan meter; 
+- Piutang non usaha yaitu piutang yang timbul dari transaksi lainnya; 
+Misalnya : Piutang Pegawai. 
+Piutang usaha diakui dan dicatat pada saat terbitnya Daftar Rekening Ditagih (DRD) 
+Air dan Daftar Piutang / Tagihan Non Air, Piutang non usaha diakui dan dicatat apabila 
+ada kemungkinan bahwa manfaat ekonomi akan mengalir ke PERUMDAM Tirta 
+Pandalungan Jember dan mempunyai nilai yang dapat diukur dengan andal sebesar nilai 
+wajar yang dapat direalisasi. 
+ 
+Penyisihan Kerugian Piutang 
+- Piutang Usaha 
+Pada setiap tanggal pelaporan, harus dilakukan penyisihan kerugian piutang secara 
+kolektif / kelompok pelanggan (pe langgan rumah tangga, niaga, sos ial, industr i, 
+instansi pemerintah, dan lain lain), yang diben tuk untuk menutup kemungkinan 
+kerugian yang timbul. Besarnya penyisihan kerugian piutang ditentukan 
+berdasarkan rata rata piutang tak tertagih untuk tiga tahun terakhir pada masing - 
+masing kelompok. Penyisihan piutang tidak dilakukan terhadap piutang kepa da 
+seluruh Instansi Pemerintah. 
+- Piutang Non Usaha 
+Pada setiap tanggal pelaporan, harus dilakukan penyisihan kerugian piutang non 
+usaha secara individual, yang dibentuk untuk menutup kemungkinan kerugian 
+yang timbul. Besarnya penyisihan kerugian piutang non  usaha ditentukan 
+berdasarkan kemampuan membayar debitur. 
+ 
+- Piutang Tak Tertagih 
+Sesuai keputusan Menteri Negara Otonomi Daerah Nomor 8 Tahun 2000 tanggal 
+10 Agustus 2000 tentang Pedoman Akuntansi Perusahaan Daerah Air Minum 
+bahwa piutang tak tertagih adalah piutang yang berumur diatas 2 (dua) tahun dan 
+sudah dapat diusulkan kepada Badan Pengawas untuk dihapuskan. 
+ 
+ 
+ 
+ 
+ 
+. 
+ 
+--P15--
+12 
+ 
+c. Persediaan 
+Persediaan PERUMDAM Tirta Pandalungan Jember merupakan persediaan bahan atau 
+perlengkapan untuk digunakan dalam proses produksi atau pemberian jasa meliputi: 
+- Persediaan Bahan Kimia 
+- Persediaan Bahan Operasi Lainnya 
+- Persediaan Bahan ATK 
+- Persediaan Bahan Instalasi (pipa) 
+Persediaan diukur pada biaya perolehannya yang meliputi seluruh biaya pembelian dan 
+biaya yang dapat dibebankan se cara langsung serta biaya lainnya yang terjadi untuk 
+membawa persediaan ke kondisi dan lokasi sekarang. 
+1) Penurunan Nilai 
+Penurunan nilai persediaan dapat terjadi karena rusak atau usang. Jika suatu jenis 
+(atau kelompok jenis) dari persediaan menurun nilainy a, maka persediaan harus 
+diukur pada harga jual dikurangi biaya untuk menjual, serta mengakui kerugian 
+penurunan nilai dalam pos “kerugian penurunan nilai persediaan” dengan perkiraan 
+lawan (kredit) “akumulasi penurunan persediaan”.  
+ 
+2) Pemulihan Penurunan Nilai 
+Atas persediaan yang mengalami penurunan nilai pada tahun buku sebelumnya maka 
+harus dibuat penilaian baru atas harga jual dikurangi biaya u ntuk menyelesaikan dan 
+menjual dala setiap periode berikutnya. 
+Jika situasi pada periode sebelumnya yang menyeb abkan persediaan turun nilainya 
+tidak ada lagi atau adanya bukti nyata  kenaikan dari harga jual dikurangi biaya 
+untuk menjual karena perubahan kondisi ekonomi, maka dilakukan pemulihan 
+jumlah penurunan nilai sebelumnya (pemulihan dibatasi sebesar jumlah a wal 
+kerugian penurunan nilai) sehingga jumlah tercatat baru adalah nilai yang lebih 
+rendah antara harga perolehan dan harga jual dikurangi biaya untuk menjual yang 
+telah direvisi. Jika tidak terdapat kondisi atau kejadian yang signifikan yang dapat 
+mempengaruhi nilai persediaan maka dibuatkan pernyataan manajemen bahwa tidak 
+terdapat perubahan nilai persediaan pada saat akhir tahun buku. 
+ 
+Pengakuan Persediaan sebagai Beban atau Pengeluaran Barang Modal. 
+- Beberapa persediaan dapat dialokasikan ke asset lainnya, misalnya pipa, water meter, gate 
+valve dan lainnya yang digunakan sebagai komponen asset tetap yang dibangun sendiri. 
+Alokasi persediaan ke asset tetap/lain diakui sebagai beban selama umur manfaat asset 
+tersebut. 
+- Persediaan bahan operasi (bahan kimia /  BBM / operasi lainnya) yang digunakan dalam 
+proses produksi maka jumlah diakui sebagai beban periode dimana pendapatan yang 
+terkait diakui. Penggunaan persediaan bahan – instalasi kecuali water meter, untuk 
+pemeliharaan / penggantian IPA maupun jaringan t ransmisi dan distribusi juga diakui 
+sebagai beban periode berjalan.  
+ 
+ 
+ 
+ 
+ 
+--P16--
+13 
+ 
+- Penggunaan water meter untuk penggantian water meter pelanggan diakui sebagai Aset 
+Tetap, sisa nilai buku water meter yang diganti dicatat sebagai beban. Sedangkan 
+penggantian water meter karena sebab kerusakan / kelalaian oleh pelanggan dicatat 
+sebagai beban. Sedangkan penggantian water meter karena sebab kerusakan kelalaian oleh 
+pelanggan dicatat sebagai beban dan masuk dalam laporan laba rugi periode berjalan. 
+- Penggunaan persediaan  bahan instalasi untuk sumbangan langganan baru (water meter, 
+pipa, dan asesoris) dicatat sebagai penambahan asset tetap instalasi transmisi dan distribusi 
+dan mengurangi nilai persediaan. 
+- Alokasi persediaan ke asset tetap yang diakui sebagai beban selama umur manfaat asset 
+tersebut dan menambah nilai asset harus memenuhi kondisi sebagai berikut: 
+a. Memperpanjang umur ekonomis; 
+b. Meningkatkan kapasitas, mutu; 
+c. Atau meningkatkan standar kinerja. 
+Dalam menentukan biaya persediaan (kimia, bahan instalasi, bahan operasional lain maupun 
+ATK) menggunakan rumus biaya dengan metode pertama masuk keluar pertama (MPKP)/ 
+First In First Out (FIFO).  
+Metode Pencatatan yang dianut terhadap persediaan bahan operasi dan ATK menggunakan 
+metode Physical Inventory Method. Sedangkan persediaan bahan kimia, instalasi dan 
+persediaan suku cadang menggunakan metode perpetual. 
+d. Aset Tetap 
+Aset tetap adalah: 
+-   Dimiliki atau dikuasai untuk digunakan dalam proses produksi dan distribusi air atau 
+untuk tujuan administratif; 
+-   Diharapkan akan digunakan lebih dari satu periode / tahun buku. 
+Tanah dan bangunan harus dicatat secara terpisah, meskipun tanah dan bangunan tersebut 
+di peroleh secara bersa maan Aset Tetap tanah yang masih  tercatat dalam asset bangunan 
+harus dilakukan pemisahan nilai terlebih dahulu. 
+Pengukuran a set tetap pada pengakuan awal yang telah dilakukan sesuai Keputusan 
+Menteri Negara Otonomi Daerah Nomor 8 Tahun 2000 tidak perlu dilakukan koreksi.  
+ 
+Pengeluaran Setelah Pengakuan Awal 
+- Pengeluaran yang memperpanjang masa manfaatnya lebih dan satu tahun atau yang 
+memberi manfaa t ekonomi di masa yang akan datang dalam peningkatan kapas itas 
+atau peningkatan standart kinejar harus ditambahkan pada nilai as et tetap tersebut. 
+Pengeluaran tersebut dapat diklarifikasikan sebagai penambahan n ilai asset apabila 
+ada maksud manajemen dan penilaian dari pihak berkompeten; 
+- Pencatatan pengeluaran setelah pengakuan awal yang telah dilakukan sesuai 
+Keputusan Menteri Negara Otonomi Daerah Nomor 8 Tahun 2000 tidak perlu 
+dilakukan koreksi; 
+- Biaya pemeliha raan dan perbaikan a set sehari hari diakui sebagai beban dalam 
+pelaporan Laba-Rugi periode terjadinya. 
+ 
+ 
+ 
+ 
+ 
+--P17--
+14 
+ 
+Pengukuran Setelah Pengakuan Awal 
+- Seluruh aset tetap (termasuk asset tidak produktif) pada akhir tahun buku harus 
+dilakukan pengukuran setelah penga kuan awal sebesar biaya perolehan dikurang 
+akumulasi penyusutan dan akumulasi kerugian penurunan nilai; 
+- Aset yang tidak produktif yang saat ini disajikan pada pos asset lain lain harus 
+dilakukan penilaian dan disajikan pada pos asset tetap; 
+- Aset tetap dala m penyelesaian h arus dilaporkan terpisah dari a set tetap yang 
+beroperasi dan belum dapat disusutkan sampai a set tetap tersebut dinyatakan 
+beroperasi komersil. 
+ 
+Penyusutan 
+- Penyusutan dimulai ketika aset telah digunakan dan berakhir ketika asset dihentikan 
+pengakuannya. Penyu sutan tidak dihentikan ketika a set tidak digunakan atau 
+dihentikan penggunaan aktifnya (a set tidak produktif), kecuali asset tersebut telah 
+disusut secara penuh Beban penyusutan harus diakui dalam laporan Laba Rugi; 
+- Kelompok aset tetap yang telah disajikan berdasarkan masa manfaat sesuai Keputusan 
+Menteri Negara Otonomi Daerah Nomor 8 Tahun 2000 tidak perlu dikoreksi; 
+- Taruf dan metode penyusunan mengacu pada Surat Keputusan Menteri Keuangan; 
+- Pengelompokan a set tetap untuk keperluan penyusu tan ditentukan berdasarkan 
+kebijakan Direksi PERUMDAM Tirta Pandalungan Jember masing masing. 
+ 
+Kelompok Aset Tetap Tarif Penyusutan 
+I. Bukan Bangunan  
+- Golongan 1 50% dari nilai buku 
+- Golongan 2 25% dari nilai buku 
+- Golongan 3 12,5% dari nilai buku 
+- Golongan 4 10% dari nilai buku 
+II. Bangunan  
+- Permanen 5% dari nilai perolehan 
+- Bukan Permanen 10% dari nilai perolehan 
+ 
+Penurunan Nilai Aset Tetap 
+Pada setiap tanggal pelaporan harus dilakukan penilaian apakah terd apat indikasi 
+penurunan nilai a set. Jika terdapat i ndikasi tersebut, harus dilakukan estimasi nilai wajar 
+dikurangi dengan biaya untuk menjual a set tersebut. Penilaian asset bias secara individu 
+tetapi dalam kondisi tertentu harus diestimasi dalam kelompok aset. 
+ 
+Penurunan nilai atas a set tetap dilakukan j ika terdapat kondisi atau keadaan yang 
+signifikan yang mengakibatkan terjadinya penurunan nilai aset tetap, misalnya kebakaran, 
+rusak berat yang mengakibatkan aset tidak dapat digunakan atau sebab lainnya. 
+ 
+ 
+ 
+ 
+ 
+ 
+--P18--
+15 
+ 
+Pengukuran Nilai Wajar Dikurangi Biaya untuk Menjual 
+Nilai wajar dikurangi biaya untuk menjual adalah jumlah yang bias diperoleh dari 
+penjualan sebuah atau kelompok a set an tara pihak pihak yang berkeinginan melakukan 
+transaksi dengan wajar, dikurangi dengan biaya penjualan asset tersebut. 
+Jika tidak dapat mengestimasi nilai wajar a set tunggal, maka harus mengukur nilai wajar 
+dikurangi biaya menjual kelompok aset yang bersangkutan. 
+ 
+Cara Penentuan Nilai Wajar Dikurangi Biaya Untuk Menjual 
+Hirarki keandalan bukti dalam menentukan nilai wajar dikurangi biaya untuk menjual 
+sebagai 
+a. Harga sesuai perjanjian yang mengikat dalam transaksi antara pihak -pihak yang 
+berkeinginan melakukan transaksi dengan wajar, dan memperhitungkan biaya 
+tambahan yang dapat didistribusikan secara langsung dengan pelepasan aset; 
+b. Jika asset diperdagangkan di pasar aktif, maka nilai wajar dikurangi biaya untuk 
+menjual adalah harga penawaran kini ( current bid price) aset dikurangi dengan biaya 
+pelepasan; 
+c. Jika harga penawaran kini tidak tersedia, maka harga transaksi terkini bisa menjad i 
+dasar untuk mengestimasi nilai wajar dikurangi biaya untuk menjual. 
+d. Jika tidak terdapat perjanjian penjualan yang mengikat atau pasar aktif untuk suatu 
+aset, maka nilai wajar didasarkan pada informasi terbaik yang tersedia yang 
+menggambarkan jumlah yang bisa diperoleh PERUMDAM Tirta Pandalungan Jember 
+pada akhir periode setelah dikurangi biaya pelepasan jika nilai wajar dikurangi biaya 
+untuk menjual sebuah aset kurang dari jumlah terc atatnya, maka jumlah tercatat a set 
+tersebut harus diturunkan pada nilai wajar dikurangi biaya untuk menjual Penurunan 
+ini diakui dalam pos “Beban  Penurunan Nilai” PERUMDAM Tirta Pandalungan 
+Jember harus segera mengakui beban penurunan nilai dalam laporan laba rugi tahun 
+berjalan, sebagai “kelompok beban lain lain”. 
+Setelah be ban penurunan n ilai diakui, beban penyusutan a set untuk periode 
+mendatang harus disesuaikan setelah dikurangi dengan nilai residunya (jika ada) 
+selama sisa umur manfaat aset.  
+Kerugian Nilai    
+Pada setiap tanggal pelaporan, harus dilakukan penilaian apaka h terdapat indikasi bahwa 
+kerugian penurunan nilai yang telah diakui p ada periode sebelumnya untuk as et masih 
+ada atau berkurang. 
+Jika terdapat indikasi tersebut, maka harus dilakukan estimasi nilai wajar dikurangi biaya 
+untuk menjual aset tersebut. 
+Jika e stimasi nilai wajar dikurangi biaya untuk menjual melebihi jumlah tercata t aset, 
+maka jumlah tercatat aset tersebut dinaikan ke nilai wajar dikurangi biaya untuk menjual 
+Kenaikan tersebut adalah pemul ihan kerugian penurunan nilai a set tidak boleh melebihi 
+jumlah tercatat yang telah ditentukan yaitu nilai bersih penyusutan, tanpa kerugian 
+penurunan nilai yang diakui pada p eriode lalu. PERUMDAM Tirta Pand alungan Jember 
+harus mengakui segera pemulihan kerugian penurunan nilai dalam laporan laba rugi 
+sebagai “pendapatan lain lain” 
+.  
+ 
+--P19--
+16 
+ 
+Setelah pemulihan kerugian penurunan kerugian penurunan nilai diakui, beban 
+penyusutan a set untuk periode mandata ng harus disesuaikan untuk meng alokasikan 
+jumlah tercatat aset yang telah direvisi, dikurangi nilai residu (jika ada) selama sisa umur 
+manfaat aset. 
+ 
+ 
+Hal-hal yang harus diungkapkan untuk masing masing kelompok aset, sebagai : 
+1. Jumlah kerugian penurunan nilai yang diakui dalam laporan laba rugi selama periode 
+dan pos dalam laporan laba rugi dimana kerugian penurunan nilai tersebut termasuk 
+di dalamnya; 
+2. Jumlah dari pemulihan kerugian penurunan nilai yang diakui dalam laporan laba rugi 
+selama periode dan pos dalam laporan laba rugi Diana kerugian penurunan nilai 
+tersebut dipulihkan; 
+3. Dasar pengukuran yang digunakan untuk menentukan jumlah tercatat bruto. 
+4. Metode penyusutan yang digunakan; 
+5. Masa manfaat atau tarif penyusutan yang digunakan; 
+6. Jumlah tercatat bruto dan akumulasi penyusutan (termasuk dengan akumulasi 
+kerugian penurunan nilai) pada awal dan akhir periode. 
+7. Rekonsiliasi jumlah tercatat pada awal dan akhir periode yang menunjukan 
+- Penambahan; 
+- Pelepasan; 
+- Kerugian penurunan nilai yang diakui atau dipulihkan dalam laporan laba rugi; 
+- Penyusutan; 
+- Perubahan lainnya; 
+8. Keberadaan dan jumlah pembatasan atas hak milik dan a set tetap y ang dijaminkan 
+untuk utang; 
+9. Jumlah komitmen kontrak untuk memperoleh aset tetap; 
+- Amortisasi atas pengeluaran untuk memperoleh harta tak berwujud dan 
+pengeluaran lainnya termasuk biaya perpanjangan hak guna usaha, hak pakai, 
+muhibah (goodwill) yang mempunya i masa manfaat lebih dari 1 (satu) tahun yang 
+dipergunakan untuk mendapatkan, menagih, dan memelihara  penghasilan 
+dilakukan dalam bagian yang sa ma besar atau dalam bagian – bagian yang 
+menurun selama masa manfaat yang dihitung dengan cara menerapkan tarif 
+amortisasi atas pengeluaran tersebut atau atas nilai sisa buku dan pada akhir masa 
+manfaat diamortisasikan sekaligus dengan syarat dilakukan secara taat asas. 
+  
+- Amortisasi dimulai pada bulan dilakukannya Pengeluaran kecuali untuk bidang 
+usaha tertentu yang diatur lebih lanjut dengan peraturan Menteri Keuangan. 
+Untuk menghitung amortisasi, masa manfaat dan tarif amortisasi ditetapkan 
+sebagai berikut: 
+ 
+ 
+ 
+ 
+ 
+ 
+--P20--
+17 
+ 
+Kelompok 
+Harta 
+Berwujud 
+Masa Manfaat 
+Tarif Amortisasi Berdasarkan 
+Garis Lurus Saldo Menurun 
+Kelompok 1 4 Tahun 25,00% 50,00% 
+Kelompok 2 8 Tahun 12,50% 25,00% 
+Kelompok 3 16 Tahun 6,25% 12,50% 
+Kelompok 4 20 Tahun 5,00% 10,00% 
+ 
+e. Imbalan Pasca Kerja 
+Imbalan pasca kerja adalah imbalan kerja yang terutang dan akan diberikan kepada pegawai 
+dan Direksi setelah menyelesaikan masa kerjanya / pensiun. 
+Termasuk imbalan pasca kerja adalah: 
+1) Tunjangan pensiun pegawai / Direksi; 
+2) Uang jasa pengabdian Direksi / Dewan pengawas; 
+3) Asuransi Jiwa  
+ 
+Terdapat dua macam program untuk tunjangan pensiun pegawai / direksi 
+1) Program Iuran Pasti; 
+2) Program Imbalan / Manfaat Pasti Pada umumnya program untuk tunjangan pensiun  
+Pegawai / Direksi adalah Program Iuran Pasti Kewajiban PERUMDAM Tirta 
+Pandalungan Jember terbatas pada jumlah yang disepakati sebagai iuran kepada  
+Dapenma Pamsi atau Pihak ketiga lainnya. 
+ 
+Pengakuan dan pengukuran program iuran pasti yang dilakukan sesuai Keputusan Menteri 
+Negara Otonomi Daerah Nomor 8 T ahun 2000 telah sesuai dengan SA K-ETAP dan tidak 
+perlu dilakukan koresi. 
+Hal-hal yang harus diungkapkan dalam lapor an keuangan adalah jumlah biaya iuran pasti 
+untuk periode laporan dan jumlah yang diakui dalam laporan laba rugi sebagai beban untuk 
+program iuran pasti. 
+ 
+Pengakuan dan pengukuran imbalan kerja jangka pendek berupa: 
+1) Upah Pekerja; 
+2) Gaji (Pegawai / Direksi); 
+3) Uang Jasa Dewan Pengawas; 
+4) Tunjangan pangan pegawai; 
+5) Tunjangan kesehatan (Pegawai / Direksi / Dewan Pengawas); 
+6) Pembagian jasa produksi (Pegawai, Direksi, Dewan Pengawas). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+--P21--
+18 
+ 
+Yang telah dilakuk an sesuai Keputusan Menteri Nega ra Otonomi Daerah Nomor 8 Ta hun 
+2000 tidak perlu dilakukan koreksi. 
+Untuk jasa produksi adalh imbalan kerja yang memenuhi kriteria sebagai mana diatur dalam 
+SAK-ETAP. 
+1) PERUMDAM Tirta Pandalungan Je mber telah memiliki kewajiban hu kum atau 
+kewajiban konstruktif kini untuk melakukan pemb ayaran sebagai akibat peristiwa masa 
+lalu (ini berarti PERUMDAM Tirta Pandalungan Jember tidak memiliki alternatif 
+realistis lainnya kecuali untuk melakukan pembayaran); 
+ 
+2) Estimasi kewajiban yang andal dapat dilakukan; 
+ 
+3) PERUMDAM Tirta Pandalungan Jember dap at mengestimasi secara andal kewajiban 
+hukum atau kewajiban konstruktif pembagian jasa produksi jika, dan hanya jika: 
+- Bentuk formal pembagian jasa produksi tersebut memuat suatu formola untuk 
+menentukan jumlah imbalan; 
+- PERUMDAM Tirta Pandalungan Jember men entukan jumlah yang harus dibayar 
+sebelum laporan keuangan diotorisasi untuk terbit, atau; 
+- Praktek masa lalu memberikan bukti jelas mengenai kewajiban konstruktif 
+PERUMDAM Tirta Pandalungan Jember. 
+ 
+Sedangkan jasa produksi yang diatur dalam permendagri nom or 2 tahun 2007 pasal 40 
+bukan merupakan kriteria yang memenuhi SAK -ETAP Jasa produksi yang diatur dalam 
+permendagri Nomor 2 tahun 2007 diberikan dalam hal PERUMDAM Tirta Pandalungan 
+Jember memperoleh keuntungan, pegawai PERUMDAM Tirta Pan dalungan diberikan 
+bagian dari jasa produksi sesuai dengan kemampuan keuangan PERUMDAM Tirta, berarti 
+PERUMDAM Tirta Pandalungan Jember memiliki alternative realistis lain untuk tidak 
+melakukan pembayaran. 
+ 
+Uang Jasa Pengabdian Direksi 
+Sesuai permendagri nomor 2 tahun 2007 , Direksi / Dewan Pengawas setap akhir masa 
+jabatan dapat diberikan uang jasa pengabdian dengan syarat telah menjalankan tugasnnya 
+paling sedikit satu (satu) tahun, sehingga pada akhir tahun masa pertama masa jabatan 
+Direksi / Badan Pengawas, PERUMDAM Tirt a Pandalungan Jember mulai mengakui 
+adanya beban jasa pengabdian pada periode pelaporan. 
+ 
+PERUMDAM Tirta Pandalungan Jember juga membebankan uang jasa pengabdian kepada 
+pegawai pada saat pensiun selain imbalan pasca kerja Terhadap uang jasa pengabdian 
+kepada pegawai tersebut juga diakui sebagai beban pada periode pelaporan. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+--P22--
+19 
+ 
+Pesangon Pemutusan Kerja 
+Pesangon pemutusan kerja adalah imbalan kerja yang terutang akibat PERUMDAM Tirta 
+Pandalungan Jember memberhentikan pekerja sebelum pensiun normal dan pe gawai 
+menerima tawaran untuk mengu ndurkan diri dengan imbalan ter tentu. Pesangon pemutusan 
+kerja mengakui sebagai beban dalam laporan laba rugi periode terjadinya, karena tidak 
+memberikan manfaat ekonomi masa yang akan dating Pengukuran pesangon pemutusan 
+kerja pada estimasi terbaik besarnya pembayaran yang dibutuhkan pada tanggal pelaporan 
+untuk menyelesaikan kewajiban tersebut Pesangon pemutusan kerja yang terutang lebih dari 
+12 bulan setelah akhir periode pelaporan, nilainya harus diukur pada nilai kini terdiskonto. 
+ 
+ 
+f. Aset Tak Berwujud dan Amortisasi 
+Termasuk kelompok Aset Tak Berwu jud adalah biaya -biaya diluar a set tetap, yakni biaya 
+Pra Investasi, biaya -biaya lain dan sejenisnya termasuk selisih kurs yang timbul berkenaan 
+dengan adanya Kewajiban Jangka Panjang (IBRD) dala m valuta asing Amortisasi untuk 
+biaya yang dimaksud diatas sebesar 20% pertahun. 
+ 
+g. Bagian Utang Jangka Panjang Yang Jatuh Tempo 
+Kewajiban angsuran utang jangka panjang yang telah jatuh tempo akan tetapi belum dibayar 
+lunas, dipisahkan dar i kelompok Utang Jangka Panjang dan tersaji sebagai Kewajiban atau 
+Utang Lancar. 
+ 
+h. Kebijakan Pembagian Laba 
+Pembagian Laba Bersih setelah pajak berdasarkan Peraturan Daerah No 4 Tahun 1975 
+dengan rincian sebagai berikut: 
+- Pendapatan Asli Daerah (PAD)  55% 
+- Cadangan Umum    20% 
+- Dana Sosial dan Pendidikan  10% 
+- Sumbangan Dana Pensiun dan  5% 
+- Jasa Produksi    10% 
+ 
+i. Kekayaan Pemerintah Daerah 
+Kekayaan Pemerintah Daerah Kabupaten Jember yang diserahkan pengelolaannya kepada 
+PERUMDAM Tirta Pandalungan Jember dicatat s ebesar nilai kekayaan yang diserahkan 
+dan disajikan dalam akun ekuitas. 
+ 
+j. Pendapatan 
+Pengakuan Pendapatan: 
+Seluruh pendapatan baik pendapatan usaha maupun non usaha diakui pada saat terjadinya 
+transaksi dan atau pada saat masa presentasi dinikmati yaitu: 
+ 
+ 
+ 
+ 
+ 
+ 
+--P23--
+20 
+ 
+1. Pendapatan penjualan air dengan atau tanpa meter dibuku sebagai pendapatan pada saat 
+rekening air / DRDA di terbitkan pada bulan yang bersangkutan; 
+2. Pendapatan sambungan baru dan penjualan non air lainnya diakui dan dicatat 
+seluruhnya sebagai pendapatan  tahun berjalan Pendapatan ini diakui pada saat 
+terjadinya pembayaran jika calon pelanggan membayar kewajibannya secara tunai atau 
+pada saat dokumen tagihan diterbitkan sesuai tanggal jatuh tempo cicilan calon 
+pelanggan yang membayarkan dengan cicilan; 
+3. Pendapatan denda atas keterlambatan pembayaran atas rekening air ataupun 
+pelanggaran yang lain serta penjualan non air lainnya dicatat pada saat denda tersebut 
+diterima pembayarannya; 
+4. Pendapatan non usaha yang berupa bunga bank (deposito, jasa gro dll) diakui  dan 
+dicatat sebagai pendapatan saat diterima NK/RC dari Bank. 
+ 
+ 
+Pengungkapan 
+1. Kebijakan akuntansi yang diterapkan sebagai dasar pengakuan pendapatan. 
+2. Jumlah setiap kategori pendapatan yang diakui selama periode, termasuk pendapatan 
+- Pendapatan Usaha; 
+- Pendapatan non usaha; 
+- Jenis pendapatan signifikan lainnya. 
+ 
+k. Beban 
+ 
+Beban diakui, dicatat dan dilaporkan pada periode terjadinya transaksi untuk beban -beban 
+yang telah terjadi sebelum tanggal neraca, walaupun belum diketahui secara pasti 
+jumlahnya, dicatat dan dilaporkan dengan estimasi yang wajar. 
+ 
+l. Periode Laporan 
+Laporan Keuangan meliputi masa mulai 1 Januari sampai dengan 31 Desember setiap 
+tahunnya. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+--P24--
+PERUSAHAAN UMUM DAERAH AIR MINUM ( PERUMDAM )
+TIRTA PANDALUNGAN KABUPATEN JEMBER
+Jl.Trunojoyo No.73 Jember. Kode Pos 68137 Telp. (0331) 483509, 485421
+ Fax.425482 E-mail : perumdam@tirtapandalungan.com
+2023 2022
+Rp Rp
+5.3PENJELASAN AKUN NERACA DAN LABA RUGI
+A PENJELASAN AKUN NERACA
+3.1 KAS DAN SETARA KAS 15,692,442,621    10,363,366,320     
+Jumlah tersebut merupakan saldo kas dan setara kas per 31 Desember 2023 dan 2022 terinci sebagai berikut:
+1.1 Kas dan Bank
+Kas (Uang Tunai) 12,569,600           11,008,500            
+Giro Pada Bank Jatim No.Rek.0031010400 5,607,408,963      1,423,610,968       
+Giro Pada Bank Jatim No.Rek.0031004477 544,560,645         349,520,506          
+Giro Pada Bank Jatim (PMP) Rek.No. 0031011141 99,332,834           98,862,445            
+Giro Pada Bank Mandiri Rek.No 143 00 0006235 4 147,181,057         1,580,514,041       
+Giro Pada Bank BNI Rek.No. 0035590113 732,195,515         2,164,413,944       
+Giro Pada Bank BRI Rek.No. 002101000579306 42,483,290           1,246,608,601       
+Giro Pada Bank Bukopin Rek.No. 1000610328 4,487,275             4,847,275              
+Giro Pada Bank BTN 530,774,912         -                        
+Giro Pada Bank Jatim Syari'ah Rek.No. 6131010700 2,488,182,569      2,219,121,331       
+Tabungan Pada Simpeda Bank Jatim 204,492,560         151,720,292          
+Giro Pada Bank BCA No.Rek. 2006456666 227,229,636         79,999,119            
+Giro Pada BSI Rek.No. IDR 7215796412 11,887,247           12,015,381            
+Jumlah 10,652,786,102    9,342,242,403       
+1.2Investasi Jangka Pendek ( Deposito )
+Deposito Kapitalisasi di Bank BNI No.Rek. 0672603254 2,039,656,519      1,021,123,917       
+Deposito Kapitalisasi di Bank BSI 1,000,000,000      -                        
+Deposito di BRI 1,000,000,000      -                        
+Deposito Kapitalisasi di Bank Mandiri 1,000,000,000      -                        
+5,039,656,519      1,021,123,917       
+Jumlah 15,692,442,621    10,363,366,320     
+3.2 PIUTANG USAHA 9,788,603,379      8,971,316,186       
+2023 2022
+Piutang Rek Air Sosial Umum 1 43,009,722           39,443,910            
+Piutang Rek Air Sosial Umum 2 10,001,135           7,634,174              
+Piutang Rek Air Sosial Umum 3 16,192,812           17,342,964            
+Piutang Rek Air Sosial Khusus 1 66,302,042           65,710,051            
+Piutang Rek Air Sosial Khusus 2 32,291,018           28,672,480            
+Piutang Rek Air Rumah Tangga 1 1,037,810,117      929,560,560          
+Piutang Rek Air Rumah Tangga 2 4,847,608,820      4,421,675,738       
+Piutang Rek Air Rumah Tangga 3 1,506,449,558      1,470,569,985       
+Piutang Rek Air Pemerintah 491,579,327         465,070,145          
+Piutang Rek Air Niaga Kecil 817,308,121         716,142,026          
+Piutang Rek Air Niaga Sedang 773,934,050         637,497,392          
+Piutang Rek Air Niaga Besar 136,754,829         161,193,656          
+Piutang Rek Air Industri Kecil 1,811,828             3,253,105              
+Jumlah 9,781,053,379      8,963,766,186       
+Piutang Rek Non Air Sambungan Baru 7,550,000             7,550,000              
+Jumlah 9,788,603,379      8,971,316,186       
+No. KETERANGAN
+Saldo kas dan setera kas tersebut telah sesuai dengan berita acara pemeriksaan kas tanggal 31 Desember 2023
+dan rekening koran dari masing-masing bank serta sertifikat deposito per 31 Desember 2023.
+Jumlah Piutang Usaha tersebut merupakan Saldo Piutang Rekening Air dan Piutang Rekening Non Air Per 31
+Desember 2023 dan 2022 terinci sebagai berikut:
+Golongan Pelanggan
+21
+--P25--
+2023 2022
+Rp Rp
+3.3 AKUMULASI PENYISIHAN PIUTANG 3,094,870,012      2,329,388,603       
+Jumlah tersebut merupakan saldo Akumulasi Penyisihan Piutang per 31 Desember 2023 dan 2022 terinci sebagai berikut :
+- Penyisihan Piutang Rekening Air 3,094,870,012      2,329,388,603       
+- Penyisihan Piutang Rekening Non Air -                        -                        
+3,094,870,012      2,329,388,603       
+sebagaimana diatur dalam ketentuan SAK ETAP sebagai berikut :
+Piutang Air % Rata-Rata Penyisihan
+Tahun 2023 Piutang Tak Tertagih Piutang
+3 Tahun Tahun 2023
+31 Desember 2023
+Piut Rek Air Sosial Umum 1 43,009,722         10.74                    4,619,097              
+Piut Rek Air Sosial Umum 2 10,001,135         38.48                    3,848,837              
+Piut Rek Air Sosial Umum 3 16,192,812         18.80                    3,044,725              
+Piut Rek Air Sosial Khusus 1 66,302,042         27.84                    18,458,383            
+Piut Rek Air Sosial Khusus 2 32,291,018         5.16                      1,666,651              
+Piut Rek Air Rumah Tangga 1 1,037,810,117    51.63                    535,811,632          
+Piut Rek Air Rumah Tangga 2 4,847,608,820    32.92                    1,595,726,728       
+Piut Rek Air Rumah Tangga 3 1,506,449,558    21.05                    317,054,112          
+Piut Rek Air Pemerintah 491,579,327       -                        -                            
+Piut Rek Air Niaga Kecil 817,308,121       42.84                    350,112,955          
+Piut Rek Air Niaga Sedang 773,934,050       31.01                    239,983,006          
+Piut Rek Air Niaga Besar 136,754,829       17.71                    24,219,086            
+Piut Rek Air Industri Kecil 1,811,828           17.93                    324,803                 
+Jumlah 9,781,053,379    3,094,870,012       
+% Piutang % Piutang % Piutang % Rata² Piutang
+Golongan Pelanggan Tdk Tertagih Tdk Tertagih Tdk Tertagih Tdk Tertagih
+Tahun 2020 Tahun 2021 Tahun 2022 Tahun 2023
+Piut Rek Air Sosial Umum 1 7.71                       13.25                  11.26                    10.74                     
+Piut Rek Air Sosial Umum 2 27.36                     38.09                  50.00                    38.48                     
+Piut Rek Air Sosial Umum 3 -                         28.21                  28.20                    18.80                     
+Piut Rek Air Sosial Khusus 1 30.97                     32.29                  20.26                    27.84                     
+Piut Rek Air Sosial Khusus 2 6.16                       4.97                    4.36                      5.16                       
+Piut Rek Air Rumah Tangga 1 31.57                     56.96                  66.35                    51.63                     
+Piut Rek Air Rumah Tangga 2 28.53                     36.23                  33.99                    32.92                     
+Piut Rek Air Rumah Tangga 3 18.08                     23.32                  21.74                    21.05                     
+Piut Rek Air Pemerintah -                         -                      -                        -                        
+Piut Rek Air Niaga Kecil 37.77                     48.81                  41.93                    42.84                     
+Piut Rek Air Niaga Sedang 30.12                     32.68                  30.22                    31.01                     
+Piut Rek Air Niaga Besar 13.19                     23.17                  16.76                    17.71                     
+Piut Rek Air Industri Kecil 13.28                     32.82                  7.69                      17.93                     
+3.4 PIUTANG NON USAHA 442,087,522         262,486,936          
+Jumlah tersebut merupakan saldo Piutang Non Usaha per 31 Desember 2023 dan 2022  terinci sebagai berikut:
+- Piutang HIPPAM Darungan Tanggul 263,201,813         262,486,936          
+- Piutang PPN (Pajak Masukan) 2,620,978             -                            
+- Pend AMDK ybl diterima 22,506,000           -                            
+- Piutang AMDK 123,294,500         -                            
+- Piutang Non Usaha Lainnya 30,464,231           -                            
+Jumlah 442,087,522         262,486,936          
+No. KETERANGAN
+Perhitungan Penyisihan Piutang Rekening Air Tahun 2023 didasarkan atas Rata-rata Saldo Piutang 3 (tiga) 
+Golongan Pelanggan
+Perhitungan Rata-rata % Penyisihan Piutang 
+ 22
+--P26--
+2023 2022
+Rp Rp
+3.5 PERSEDIAAN 3,724,139,239      2,741,419,226       
+Jumlah tersebut merupakan saldo Persediaan per 31 Desember 2023 dan 2022 terinci sebagai berikut:
+- Bahan Operasi Kimia 59,027,940           66,733,875            
+- Bahan Bakar dan Pelumas 3,204,107             2,255,138              
+- Alat-alat Tulis 111,897,948         67,481,687            
+- Pipa - Pipa 2,900,976,304      2,074,155,591       
+- Meter Air 550,633,163         418,462,635          
+- Pompa dan Kelistrikan/Rupa-Rupa Bahan Instalasi 86,549,760           112,330,300          
+- Bahan Kemasan AMDK "Hazora" 11,850,017           -                        
+Jumlah 3,724,139,239      2,741,419,226       
+3.6 PEMBAYARAN DIMUKA 1,298,736,539      1,014,711,505       
+Jumlah tersebut merupakan biaya sewa Kantor Cabang PDAM serta sewa tanah sumber di Lingkungan 
+Kabupaten Jember dan setoran uang muka pajak PPh terinci sebagai berikut :
+- Sewa Kantor Tanggul, Jelbuk, Arjasa serta Tanah di Jember, Jubung, Panti dll273,795,539         285,329,905          
+- Uang Muka PPh Pasal 21 -                            -                            
+- Uang Muka PPh Pasal 25 1,024,941,000      729,381,600          
+- Uang Muka Lainnya -                            -                        
+Jumlah 1,298,736,539      1,014,711,505       
+3.7 PENYERTAAN PADA UNIT AMDK HAZORA -                            1,347,184,172       
+Mulai tanggal 01 Januari 2023 Unit AMDK Hazora dikelola dan menjadi bagian unit manajemen PDAM sesuai dengan
+Peraturan Direksi Perumdam Tirta Pandalungan Jember Nomor 03 Tahun 2022 tanggal 24 Oktober 2022 tentang
+Struktur Organisasi dan Tata Kerja Perusahaan Umum Air Minum Tirta Pandalungan Jember, yang sebelumnya 
+merupakan Unit tersendiri diluar manajemen PDAM.
+- Penyerahan Aset Awal Per 06 Januari 2018 -                            692,325,286          
+- Penambahan Modal tahun 2018 -                            298,930,000          
+- Sisa Hasil Usaha Operasional tahun 2018 -                            (19,416,241)          
+- Sisa Hasil Usaha Operasional tahun 2019 -                            206,175,156          
+- Penambahan Modal tahun 2020 -                            159,500,000          
+- Sisa Hasil Usaha Operasional tahun 2020 -                            49,994,492            
+- Sisa Hasil Usaha Operasional tahun 2021 -                            (162,522,235)        
+- Sisa Hasil Usaha Operasional tahun 2022 -                            122,197,714          
+Jumlah -                        1,347,184,172       
+3.8 ASET TETAP 61,238,918,234    61,785,824,019     
+Jumlah tersebut merupakan Nilai Buku Aset Tetap per 31 Desember 2023 dan 2022 terinci sebagai berikut :
+Nilai Akumulasi
+Jenis Aset Tetap Perolehan Penyusutan
+31 Desember 2022
+    - Tanah & Hak atas Tanah 1,833,065,953       -                               1,833,065,953          
+    - Instalasi Sumber 6,491,324,462       4,521,824,200         1,969,500,262          
+    - Instalasi Pompa 16,720,951,436     10,939,576,352       5,781,375,084          
+    - Instalasi Pengolahan 31,687,009,607     22,271,060,979       9,415,948,628          
+    - Instalasi Transmisi & Distribusi 93,179,933,049     55,485,533,574       37,694,399,474        
+    - Bangunan & Gedung 5,059,077,612       1,984,483,939         3,074,593,674          
+    - Peralatan dan Perlengkapan 1,002,629,565       718,052,388            284,577,177             
+    - Kendaraan Bermotor 2,544,987,350       2,506,909,162         38,078,188               
+    - Inventaris & Perabot Kantor 4,121,745,462       2,974,365,668         1,147,379,794          
+Jumlah  162,640,724,495   101,401,806,261     61,238,918,234        
+Nilai Buku
+No. KETERANGAN
+23
+--P27--
+2023 2022
+Rp Rp
+Nilai Akumulasi
+Jenis Aset Tetap Perolehan Penyusutan Nilai Buku
+31 Desember 2022
+    - Tanah & Hak atas Tanah 1,833,065,953       -                               1,833,065,953          
+    - Instalasi Sumber 5,977,408,564       4,261,927,597         1,715,480,967          
+    - Instalasi Pompa 15,592,723,175     10,147,784,598       5,444,938,577          
+    - Instalasi Pengolahan 30,578,796,053     20,491,336,878       10,087,459,175        
+    - Instalasi Transmisi & Distribusi 88,685,230,406     50,118,383,448       38,566,846,957        
+    - Bangunan & Gedung 4,761,772,612       1,733,645,547         3,028,127,066          
+    - Peralatan dan Perlengkapan 728,411,835          622,277,724            106,134,111             
+    - Kendaraan Dinas 1,951,674,350       1,884,176,725         67,497,625               
+    - Inventaris & Perabot Kantor 3,471,007,638       2,534,734,050         936,273,588             
+Jumlah 153,580,090,585   91,794,266,566       61,785,824,019        
+Mutasi penambahan dan pengurangan Aset Tetap Tahun 2023
+Saldo Saldo 
+1 Januari 2023 Penambahan Pengurangan 31 Desember 2023
+  - Tanah & Hak atas Tanah 1,833,065,953       -                         -                        1,833,065,953          
+  - Instalasi Sumber 5,977,408,564       513,915,898          -                        6,491,324,462          
+  - Instalasi Pompa 15,592,723,175     1,128,228,261       -                        16,720,951,436        
+  - Instalasi Pengolahan 30,578,796,053     1,108,213,554       -                        31,687,009,607        
+  - Instalasi Transmisi & Distribusi 88,685,230,406     4,494,702,643       -                        93,179,933,049        
+  - Bangunan & Gedung 4,761,772,612       297,305,000          -                        5,059,077,612          
+  - Peralatan dan Perlengkapan 728,411,835          274,217,730          -                        1,002,629,565          
+  - Kendaraan Bermotor 1,951,674,350       593,313,000          -                        2,544,987,350          
+  - Inventaris & Perabot Kantor 3,471,007,638       650,737,824          -                        4,121,745,462          
+Jumlah … 153,580,090,585   9,060,633,910       -                        162,640,724,495      
+Mutasi penambahan dan pengurangan Akumulasi Penyusutan Aset Tetap Tahun 2023
+Saldo Saldo 
+1 Januari 2023 Penambahan Pengurangan 31 Desember 2023
+    - Tanah & Hak atas Tanah -                      -                      -                        -                        
+    - Instalasi Sumber 4,261,927,597    259,896,603       -                        4,521,824,200          
+    - Instalasi Pompa 10,147,784,598  791,791,754       -                        10,939,576,352        
+    - Instalasi Pengolahan 20,491,336,878  1,779,724,101    -                        22,271,060,979        
+    - Instalasi Transmisi & Distribusi 50,118,383,448  5,367,150,126    -                        55,485,533,574        
+    - Bangunan & Gedung 1,733,645,547    250,838,392       -                        1,984,483,939          
+    - Peralatan dan Perlengkapan 622,277,724       95,774,664         -                        718,052,388             
+    - Kendaraan Bermotor 1,884,176,725    622,732,437       -                        2,506,909,162          
+    - Inventaris & Perabot Kantor 2,534,734,050    439,631,618       -                        2,974,365,668          
+Jumlah … 91,794,266,566  9,607,539,695    -                        101,401,806,261   
+3.9 ASET TIDAK BERWUJUD (BEBAN DITANGGUHKAN) 464,388,640         182,418,000          
+Jumlah tersebut adalah Nilai Buku Beban Ditangguhkan Per 31 Desember 2023 dan 2022 sebagai berkut
+- Pekerjaan penyusunan DED IKK Ajung PDAM 49,060,000           49,060,000            
+- Pekerjaan penyusunan DED pembangunan gedung divisi teknik 99,500,000           99,500,000            
+- Pembuatan pra FS IPA Tegal Besar II Kapasitas 100ltr/detik utk kelengkapan dokumen program NUWSP kemntrian PU PERA15,000,000           15,000,000            
+- Pembuatan DED SPAM IKK Panti (T1=100) 149,545,000         149,545,000          
+- Pembuatan DED Optimalisasi IPA Wirolegi Treatment selatan 2 (T1=100%) 54,945,000           54,945,000            
+- Pembuatan papan informasi kegiatan SR MBR th 2020 di 38 Kelurahan/Desa36,325,000           36,325,000            
+Jumlah dipindahkan 404,375,000         404,375,000          
+No. KETERANGAN
+Jenis Aset Tetap Mutasi Tahun 2023
+Jenis Aset Tetap Mutasi Tahun 2023
+24
+--P28--
+2023 2022
+Rp Rp
+Jumlah pindahan 404,375,000         404,375,000          
+- Bi Aplksi Sistem Infrmasi Pnjualn pd prngkt bergerak berbasis android 5,500,000             5,500,000              
+- Penyusunan UKL-UPL pmbngunan gdung unit prodksi AMDK Hazora (100%)17,100,000           17,100,000            
+- Pengadaan Jasa Pembuatan & Pmsngn Papan Nama Informasi Program Hibah MBR Kab.Jbr Tahun'1980,740,000           80,740,000            
+- Penyusunan Laporan DED SPAM IKK Ajung 195,800,000         195,800,000          
+- Penyusunan Laporan DED IPA TB 290,000,000         290,000,000          
+- Pemby bi ijin pemasg jar perpipaan dari sumur P.07 862,000                862,000                 
+- Perenc pembg gdg unit prod & kantor AMDK Hazora Jl Ikan Kakap 72,500,000           72,500,000            
+- Up Grade Aplks Non Air shbng kbjkan smbng baru dg sistem diangsr 3x 5,000,000             5,000,000              
+- Bi pmbtan & pmsngn papan nama infrmsi progrm hibah MBR thn'18' 55,770,000           55,770,000            
+- Pembuatan Aplikasi AMDK Hazora 15,000,000           15,000,000            
+- Pembuatan DED optimalisasi IPA Pakusari & Wiorlegi 194,500,000         194,500,000          
+- Bi Survailen  dlm rangka pemelih setifikat SNI AMDK 20,900,000           20,900,000            
+- Bi pengurusan Ijin NomorRegistrasi Produk (NRP) AMDK Hazora 7,500,000             7,500,000              
+- Bi pembuatan software sistem persediaan (termyn II) (2015) 7,500,000             7,500,000              
+- Jasa Sertifikasi Produk & pengujian SNI AMDK Hazora 14,985,000           -                        
+- Penyusunan RENBIS PERUMDAM TPJ tahun 2003-2027 86,580,000           -                        
+- Penyusunan FS SPAM Durjo 69,991,050           -                        
+- Jasa perencanaan DED IPA baru 30 L serta Uprating 50 L/D menjadi 135,806,000         -                        
+100 L/D.
+- Pembangunan Sistem Informasi Manajemen Kepegawaian (SIMPEG) 53,280,000           -                        
+Tahap 1
+- Penyusunan Rencana Pengamanan Air Minum (RPAM) PERUMDAM 95,000,000           -                        
+Tirta Pandalungan Jember.
+1,828,689,050      1,373,047,000       
+- Akumulasi Amortisasi (1,364,300,410)     (1,190,629,000)     
+ Nilai Buku Aset Tidak Berwujud 464,388,640         182,418,000          
+3.10ASET DALAM PENYELESAIAN 1,650,443,873      820,687,755          
+Jumlah tersebut merupakan saldo Aset Dalam Penyelesaian per 31 Desember 2023 dan 2022
+terinci sebagai berikut :
+- Pembayaran akta persesuaian (pecahan sertifikat a.n Buninten/Lengkong) 1,000,000             1,000,000              
+- Bi balik nama & legalisasi status IPA Ajung 52,716,000           52,716,000            
+- Angsuran Pemb tanah u/ renc pembgunan IPA Ajung 159,000,000         159,000,000          
+- Pelunasan Pemb tanah u/ renc pembgunan IPA Ajung 157,168,000         157,168,000          
+- Pelunasan Pemb tanah u/ renc pembgunan IPA Ajung 34,810,000           34,810,000            
+- Uang muka pemb tanah u/ renc pembgunan IPA Ajung 200,000,000         200,000,000          
+- Bi perikatan jual beli & pgurusan sertifikat tanah u/ renc. Lokasi 25,000,000           25,000,000            
+IPA Ajung
+- 92,400,000           92,400,000            
+- Pengadaan spare part pompa (T1=30%)                                    -                        15,390,000            
+- Pembuatan panel LVMD Hazora (T1=25%)                                     -                        7,940,396              
+- Pembuatan panel LVMDP di Ged Produksi Hazora (T2=70%)                                  -                        22,233,109            
+- Uang muka pembangunan Sistem Informasi Manajemen                        -                        13,320,000            
+Kepegawaian Tahap 1 (T1=25%)    
+- Pembangunan Sistem Informasi Meter & Billing Online (SIMBIO)       -                        13,736,250            
+tahap 1 (T1=25%)                     
+- Pekerjaan penyusunan Rencana Bisnis Perumdam T.P Kab Jember             -                        25,974,000            
+(T1=30%)            
+- Pembuatan unit produksi sumur bor di Jl Sentot P. (T1=25%) 90,290,750           -                        
+- Pembuatan unit produksi sumur bor di Jl Sentot P. (T2=30%) 108,348,900         -                        
+- Pembuatan unit produksi sumur bor di Jl Sentot P. (T3=40%) 144,465,200         -                        
+- Pengadaan pompa intake Grundfos Submersible Sewage Pump 52,281,000           -                        
+- untuk IPA Wirolegi (T1=30%) -                        
+Jumlah dipindahkan 1,117,479,850      820,687,755          
+No. KETERANGAN
+Pemb tanah sbr di Kel Kebonagung Kec Kaliwates seluas ± 616 m² 
+(Vc.04/12/2015)                                     
+25
+--P29--
+2023 2022
+Rp Rp
+Jumlah pindahan 1,117,479,850      820,687,755          
+- Pekerjaan interior & dekorasi kantor PERUMDAM TPJ (T1=25%) 46,148,250           -                        
+- Pekerjaan interior & dekorasi kantor PERUMDAM TPJ (T2=30%) 55,377,900           -                        
+- Pekerjaan interior & dekorasi kantor PERUMDAM TPJ (T3=40%) 73,837,200           -                        
+- Pekerjaan rehabilitasi bagian dalam gedung eks AMDK Hazora (T1=30%) 77,286,180           -                        
+- Pekerjaan rehabilitasi bagian dalam gedung eks AMDK Hazora (T2=30%) 77,286,180           -                        
+- Perbaikan mushola kantor pusat Perumdam T.P 113,085,000         -                        
+- Perbaikan ruang aula kantor pusat 50,795,000           -                        
+- Pekerjaan pembuatan aplikasi baca meter PERUMDAM TPJ (T1=95%) 39,148,313           -                        
+Jumlah 1,650,443,873      820,687,755          
+3.11UTANG USAHA 141,274,200         74,000,000            
+Jumlah tersebut merupakan saldo Utang Usaha Per 31 Desember 2023 dan 2022 terinci sebagai berikut:
+- -                            74,000,000            
+- Perbaikan kusen pintu & jendela bangunan operasional sumur bor P22 5,878,000             -                        
+Argopuro
+- Perbaikan & pengecatan reservoir Kaca Piring 15,889,000           -                        
+- Pengadaan pallet plastik 20 buah untuk AMDK Hazora & tandon 2000L 28,160,700           -                        
+20 bh untuk Divisi Trandist
+- Pengadaan CCTV outdoor 4 buah utk div Produksi 6,660,000             -                        
+- Pengadaan seragam dinas pegawai th 2023 84,686,500           -                        
+-
+Jumlah 141,274,200         74,000,000            
+3.12BIAYA YANG MASIH HARUS DIBAYAR 183,651,908         27,612,487            
+Jumlah tersebut merupakan saldo Biaya Yang Masih Harus Dibayar per 31 Desember 2023 dan 2022 terinci 
+sebagai berikut:
+- Biaya YMH Dibayar Pajak Air Permukaan (PAP) & Pajak Air Tanah (PAT) 18,053,783           27,612,487            
+- Pengadaan kalender 2024, pengurusan ijin SIPA dan jasa EO Malam 165,598,125         -                            
+Apresiasi Pelanggan
+Jumlah 183,651,908         27,612,487            
+3.13PENDAPATAN DITERIMA DIMUKA 74,700,000           305,887,950          
+Jumlah tersebut merupakan saldo Pendapatan Diterima Dimuka per 31 Desember 2023 dan 2022 terinci 
+sebagai berikut :
+- Titipan Sambungan Baru & Tertier 68,850,000           268,345,950          
+- Pendapatan Diterima Dimuka atas Sewa Lahan ATM 5,850,000             37,542,000            
+Jumlah 74,700,000           305,887,950          
+3.14UTANG PAJAK 2,477,979,863      1,536,100,500       
+Jumlah  tersebut adalah saldo utang pajak PPh Badan Pasal 25 tahun 2023 dan tahun 2022, jumlah tersebut 
+akan diperhitungkan dengan Uang Muka Pajak PPh psl.25 pada saat pembuatan SPT tahun pajak 2023
+- PPh Pasal 21 -                        -                        
+- PPh Pasal 25 2,466,199,700      1,536,100,500       
+- Hutang PPN (Pajak Keluaran) 11,780,163           -                        
+Jumlah 2,477,979,863      1,536,100,500       
+Pengadaan kendaraan dinas roda 3 Kaisar Triseda utk area Trajem & 
+Gerbang
+No. KETERANGAN
+26
+--P30--
+2023 2022
+Rp Rp
+3.15 RUPA-RUPA KEWAJIBAN LANCAR LAINNYA 2,827,096,984      1,709,630,969       
+Jumlah tersebut merupakan saldo Rupa-rupa Kewajiban Lancar Lainnya per 31 Desember 2023 dan 2022
+sebagai berikut:
+- Titipan rekening air HIPPAM Tanggul 327,714,632         476,694,872          
+- Titipan Lainnya 36,863,770           -                        
+- Iuran Dapenma Pamsi 1,707,335,640      1,011,381,964       
+- Rupa-rupa 755,182,942         221,554,133          
+Jumlah … 2,827,096,984      1,709,630,969       
+3.16 IURAN DAPENMA PAMSI 1,805,075,592      524,769,278          
+Jumlah tersebut merupakan Iuran Dapenma Pamsi berasal dari beban iuran masa lalu (Past Service Liability/ 
+PSL) yang harus dibayar oleh perusahaan berkenaan dengan program dana pensiun pegawai Perumdam 
+Tirta Pandalungan Jember dan diangsur selama 13 tahun.  
+Adapun saldo Iuran Dapenma Pamsi Per 31 Desember 2023 dan 31 Desember 2022 sebagai berikut :
+- Iuran Dapenma Pamsi 1,805,075,592      524,769,278          
+Jumlah 1,805,075,592      524,769,278          
+Jumlah kewajiban iuran berdasarkan Laporan Jasa Aktuaria Dapenma Pamsi Nomor 110/DP/KKA-TBA/II-2023 
+tanggal 16 Februari 2023 dengan tanggal perhitungan aktuaria per 31 Desember 2022 :
+- Kewajiban iuran /Defisit 4,028,529,629    
+- Telah dibayar 516,118,397       
+- Sisa Kewajiban iuran /Defisit 3,512,411,232    
+Jumlah kewajiban iuran Dapenma Pamsi secara keseluruhan sebagai berikut : 
+Kewajiban Iuran Kewajiban Iuran Kewajiban Iuran
+Uraian Jk Pendek Jk Panjang Dapenma Pamsi
+Per 31/12/2023 Per 31/12/2023 Per 31/12/2023
+- Rekap Defisit Solvabilitas (sisa 3 tahun) 1,377,032,088    66,549,950           1,443,582,038       
+- Rekap Defisit MKL-PSL (sisa 13 tahun) 316,868,556       1,726,976,502      2,043,845,058       
+- Rekap Defisit Pra-UU (sisa 2 tahun) 13,434,996         11,549,140           24,984,136            
+1,707,335,640    1,805,075,592      3,512,411,232       
+3.17 KEWAJIBAN LAINNYA 4,688,441,242      3,526,531,848       
+- Bagian Laba Pemda (55%) 4,688,441,242      3,526,531,848       
+4,688,441,242      3,526,531,848       
+Penyetoran Bagian Laba Pemerintah Daerah Kabupaten Jember dalam tahun 2023 sebagai berikut :
+- Saldo Bagian Laba Pemda Kab.Jember yang belum disetorkan 
+per 1 Januari 3,526,531,848      3,364,495,686       
+- Penambahan Bagian Laba Pemda (55% dari laba tahun 2022) 2,411,909,394      1,162,036,162       
+- Penyetoran Bagian Laba Pemda sebagai setoran PAD (1,250,000,000)     (1,000,000,000)     
+- Saldo Bagian Laba Pemda Kab.Jember yang belum disetorkan 
+per 31 Desember 2023 4,688,441,242      3,526,531,848       
+No. KETERANGAN
+Jumlah tersebut merupakan saldo Bagian Laba Pemerintah Daerah Kabupaten Jember per 31 Desember 2023 
+dan 2022  dengan alokasi sesuai Perda  No. 4 Tahun 1975 sebagai berikut :
+27
+--P31--
+2023 2022
+Rp Rp
+3.18 MODAL DISETOR PEMERINTAH KABUPATEN
+- Neraca Awal 15 Oktober 1980 454,632,950         454,632,950          
+3.19 MODAL DISETOR PEMERINTAH PUSAT
+- Neraca Awal 15 Oktober 1980 68,382,000           68,382,000            
+3.20 MODAL HIBAH 388,376,559         388,376,559          
+- PT.Puspa Teratai Indah Tahun 1989 50,000,000           50,000,000            
+- PT.Gunung Batu Utama Tahun 1988 161,153,750         161,153,750          
+- PT.Permata Citra Indah (Perum Dharma Alam) Th 2011 177,222,809         177,222,809          
+Jumlah … 388,376,559         388,376,559          
+3.21 PENYERTAAN PEMERINTAH PUSAT 1,524,617,981      1,524,617,981       
+Jumlah tersebut merupakan Penyertaan Pemerintah Pusat berupa bantuan sarana dan prasarana air bersih 
+ sebagai berikut:
+- Penyerahan Aset Proyek Dana DIP-APBN Tahun 1988 664,117,981         664,117,981          
+-
+860,500,000         860,500,000          
+Jumlah 1,524,617,981      1,524,617,981       
+3.22 PENYERTAAN PEMERINTAH PUSAT YANG BELUM JELAS 35,978,476,752    35,978,476,752     
+STATUSNYA
+Jumlah tersebut merupakan saldo Penyertaan Pemerintah Pusat Yang Belum Ditetapkan Statusnya berupa 
+aset saranadan prasarana penyediaan air bersih yang dikelola PDAM berasal dari Proyek PPSAB Jawa Timur 
+yang sampai tanggal 31 Desember 2022 secara  formal belum ditetapkan statusnya dan asetnya juga belum
+diserahterimakan kepada Perumdam Tirta Pandalungan Jember terinci sebagai berikut :
+a.Sampai dengan tahun 2000
+Berita  Acara  Serah  Terima   barang  dari  Pimpinan Proyek Penyediaan dan Pengelolaan  Air Bersih  No
+07. PBKL/ BASTR/PAB/ JTM / III /1997  tanggal  27 Maret 1997  berupa pompa, pipa dan accessories 
+dengan Nilai Rp28.706.212,00
+b.Tahun 2008
+Berita  Acara  Serah Terima dari Kepala  Satuan  Kerja  Pengembangan  Kinerja Pengelolaan Air  Minum 
+Jawa Timur  No : 17 / BAST / PK. PAM. JT / 2007 tanggal 28 Desember 2007 berupa  rumah panel,sumur 
+bor pengadaan dan pemasangan pompa serta pagar BRC  di Jalan Kepodang Desa Bintoro Kecamatan 
+Patrang Jember senilai Rp317.947.340,00
+c.Tahun 2009
+Berita  Acara  Serah Terima  dari  Kepala  Satuan  Kerja Pengembangan Kinerja  Pengelolaan Air Minum  
+Jawa Timur  Nomor 27/BAST/PK.PAM.JT/2008  tanggal 15 Desember 2008 berupa;brondcaptering,sumur 
+pompa, water meter induk dan lain-lain  senilai Rp728.081.200,00
+d.Tahun 2011
+- Berita  Acara  Serah  Terima dari  Kepala  Satuan Kerja Pengembangan Kinerja Pengelolaan  Air  Minum  
+Jawa Timur Nomor BA No.01/BAST/PK-PAM.JT/2010  tanggal10 Nopember 2010 berupa pipa distribusi di  
+Perumahan Graha Citra Mas, Bumi  Tegal  Besar  yang didanai dari APBN sebesar Rp592.831.800,00
+- Berita  Acara SerahTerima  dari  Kepala Satuan Kerja Pengembangan  Kinerja   Pengelolaan   Air   Minum 
+Jawa Timur Nomor No09/BAST/PK-PAMJT/2011 tanggal 29  Desember 2011 berupa Instalasi Pengolahan 
+Tegal Gede dan Instalasi Pengolahan Air PPI  Kecamatan  Puger yg   berlokasi   di   Kecamatan   Balung 
+sebesar Rp20.165.510.200,00
+No. KETERANGAN
+Penyerahan Aset Proyek Bantuan Prasarana Dasar Pemukiman 
+(BPDP) TA 1997/1998
+Modal Hibah tersebut berupa Nilai Aset Jaringan Perpipaan dilingkungan Perumahan yang diserahkan sebagai 
+Hibah oleh Pihak ketiga kepada PDAM Jember, terdiri dari :
+28
+--P32--
+2023 2022
+Rp Rp
+e.Tahun 2013
+Berita  Acara  Serah  Terima  dari  Kepala  Satuan  Kerja  Pengembangan Kinerja  Pengelolaan Air Minum 
+Jawa Timur Nomor No.01/BAST/PK-PAMJT/2013 tanggal 30 Desember2013  berupa Instalasi Pengolahan 
+Air IKK  Pakusari,  Instalasi  Transmisi  Distribusi   IKK   Pakusari,  Instalasi  Transmisi  Distribusi   IKK   
+Puger ,Instalasi Transmisi  Distribusi  Rusunawa Unej (2 lokasi) sebesar Rp10.651.303.300,00
+f. Tahun 2014
+Berita  Acara  Serah  Terima  dari  Kepala  Satuan  Kerja  Pengembangan Kinerja  Pengelolaan Air Minum 
+Jawa Timur Nomor  No.01.4/BAST/PKPAM-JT/2014  tanggal 30 Desember 2014  berupa Instalasi Transmisi dan
+Distribusi serta Perlintasan sungai (jembatan pipa) IKK Patrang Kab Jember sebesar Rp1.129.980.000,00 
+g.Tahun 2015
+Berita  Acara  Serah  Terima  dari  Kepala  Satuan  Kerja  Pengembangan Kinerja  Pengelolaan Air Minum 
+Jawa Timur Nomor No. 08 /BAST/PKPAM-JT/2015 tanggal 30 Desember 2015 berupa Instalasi Transmisi 
+Distribusi dan Perlintasan sungai  (jembatan pipa)  IKKPakusari Kab Jember sebesar Rp2.364.116.700,00 
+3.23 PENYERTAAN PEMERINTAH PROPINSI YANG BLM JELAS 298,000,000         298,000,000          
+STATUSNYA
+3.24 PENYERTAAN PEMERINTAH KABUPATEN 41,324,023,201    41,324,023,201     
+- Pelimpahan dari PMP tahun 1983 1,166,000,000      1,166,000,000       
+- Penambahan Modal tahun 1994 185,000,000         185,000,000          
+- Penghibahan Status Aset Proyek PAB Tahun 1989 483,864,581         483,864,581          
+- Penghibahan Status Aset Proyek PAB Tahun 1997 1,489,158,620      1,489,158,620       
+- Penambahan Modal u/ Pembuatan IPA Tegal Besar TA 2004 5,000,000,000      5,000,000,000       
+- Penambahan Modal u/ Pembuatan IPA Tegal Besar TA 2005 1,000,000,000      1,000,000,000       
+- Penambahan Penyertaan Modal Pemerintah TA 2018 7,000,000,000      7,000,000,000       
+- Penambahan Penyertaan Modal Pemerintah TA 2019 10,000,000,000    10,000,000,000     
+- Penambahan Penyertaan Modal Pemerintah TA 2020 15,000,000,000    15,000,000,000     
+Jumlah … 41,324,023,201    41,324,023,201     
+Jumlah tersebut merupakan saldo Penyertaan Pemerintah Kabupaten Yang Belum Ditetapkan Statusnya berupa 
+aset sarana dan prasarana penyediaan air bersih yang dikelola PDAM ygsampai  tanggal  31 Desember 2021  
+secara formal belum diserahterimakan kepada Perumdam Tirta Pandalungan Jember terinci sebagai berikut :
+      a.  ProyekBantuan Pengembangan Pengelolaan Air Minum PDAM JemberAPBD 1999/2000 (ProyekLegung II)
+ berupa instalasi sumber dan instalasi trans dan dist air senilai Rp1.069.941.000,00
+      b.  Proyek Legung I yang dikerjakan oleh Dinas Pekerjaan Umum Daerah Tingkat II Jember  TA  1998/1999  
+ berupa instalasi sumber dan instalasi trans & distr senilai Rp252.052.000,00
+      c.   Pembuatan resevoir di Jl. Semeru, serta jaringan pipa trans dan distr yg dikerjakan oleh Dinas Pekerjaan 
+Umum Tingkat II Jember TA 2000 senilai Rp224.188.000,00
+      d.    Berita  Acara dari Dinas PU Cipta Karya dan  Tata  Ruang  atas Penyerahan Kegiatan Penyediaan sarana 
+ dan Prasarana  Air  Bersih Pedesaan  Dana  DAU  TA 2009  Nomor 800 / 02/ BA.Pen/ AB/ 35.09.416/2010  
+ 04  Maret  2010  berupa Pengembangan  Sistim  Distribusi  Air  Minum  di Jalan  M.Yamin,  Lingkungan 
+ Tumpeng Kel Tegal Besar, Kec Kaliwates senilai Rp588.000.000,00
+No. KETERANGAN
+Jumlah tersebut merupakan saldo Penyertaan Pemerintah Propinsi Yang Belum Ditetapkan Statusnya berupa  
+Proyek Tahun 2001 di  Watu Remuk yang  dikerjakan oleh Dinas Cipta Karya Tingkat I  Jawa Timur TA 2000    
+antara lain  :   Pemasangan Jaringan pipa transmisi dan distribusi, brondcaptering  senilai Rp298.000.000,00
+Jumlah tersebut merupakan saldo Penyertaan Pemerintah Kabupaten Jember berupa bantuan sarana dan 
+prasarana air bersih dan modal keuangan, terinci sebagai berikut :
+29
+--P33--
+2023 2022
+Rp Rp
+3.26SALDO LABA/(RUGI) DITAHAN (10,850,132,197)   (9,100,487,770)     
+Jumlah  tersebut adalah Akumulasi saldo laba rugi tahun lalu sampai  dengan  31 Desember 2023 dan 2022
+sebagai berikut :
+- Kerugian tahun 1980 s/d 1990 (1,665,506,618)     (1,665,506,618)     
+- kekurangan Kerugian tahun 1980 s/d 1990 (66,701,000)          (66,701,000)          
+- Kerugian tahun buku 1991 s/d 1995 (868,486,648)        (868,486,648)        
+- kekurangan Perhitungan Kerugian s/d 1995 (142,734,000)        (142,734,000)        
+- Kerugian tahun buku 1996 s/d 1999 (2,155,117,811)     (2,155,117,811)     
+- Laba tahun buku 2000 22,938,973           22,938,973            
+- Laba tahun buku 2001 83,675,307           83,675,307            
+- Pembagian Laba Tahun 2000 - 2001 (69,299,827)          (69,299,827)          
+- Laba tahun buku 2002 53,873,825           53,873,825            
+- Pembagian Laba Tahun 2002 (37,655,009)          (37,655,009)          
+- Rugi tahun buku 2003 (162,684,964)        (162,684,964)        
+- Rugi tahun buku 2004 (223,076,285)        (223,076,285)        
+- Rugi tahun buku 2005 (732,563,193)        (732,563,193)        
+- Koreksi Audit KAP 20,756,930           20,756,930            
+- Rugi tahun buku 2006 (2,192,448,176)     (2,192,448,176)     
+Koreksi oleh KAP atas Akumulasi Rugi Th 2007 131,922,167         131,922,167          
+Laba tahun buku 2007 146,268,239         146,268,239          
+- Koreksi audit atas kesalh perhit penyusutan th 2008 (269,163,570)        (269,163,570)        
+- Koreksi Laba Th.2008 atas kesalh perlakuan akuntansi Samb 1,382,397,175      1,382,397,175       
+Baru, AT Habis Masa Manfaat serta bunga & denda pinjaman
+P3KT dan IBRD
+- Koreksi Pajak Tangguhan  1,356,313,308      1,356,313,308       
+- Laba tahun buku 2010 346,308,125         346,308,125          
+- Koreksi Cadangan Dana Meter tahun 2011 251,515,253         251,515,253          
+- Koreksi Pendapatan Pajak Tangguhan tahun 2011 23,325,185           23,325,185            
+- Laba tahun buku 2011 247,446,505         247,446,505          
+- Koreksi atas Beban Iuran PSL Dapenma Pamsi (2,625,483,906)     (2,625,483,906)     
+- Koreksi atas Beban Iuran PSL Dapenma Pamsi tahun 2012 (5,629,360,747)     (5,629,360,747)     
+- Koreksi atas Beban Jasa & Purna Tugas Peg Pensiun 2014 (792,085,953)        (792,085,953)        
+- Lebih dibuku atas Beban Jasa & Purna Tugas Peg Pensiun 2014 12,878,953           12,878,953            
+- Beban Jasa & Purna Tugas Peg Pensiun 2015 (665,865,000)        (665,865,000)        
+- Koreksi atas Beban Iuran PSL Dapenma Pamsi tahun 2013 (1,937,332,423)     (1,937,332,423)     
+- Alokasi Laba tahun buku s/d 2013 409,583,861         409,583,861          
+- Koreksi atas Beban Iuran PSL Dapenma Pamsi 857,728,611         857,728,611          
+- Koreksi kurang dibuku atas Beban Jasa & Purna Tugas Peg Pensiun 2015 (110,887,366)        (110,887,366)        
+- Alokasi Laba tahun buku s/d 2014 278,442,922         278,442,922          
+- Beban Jasa & Purna Tugas Peg Pensiun 2016 (487,974,000)        (487,974,000)        
+- Koreksi kurang dibuku atas PPh Pasal 25 th 2013 dan 2014 (905,060)               (905,060)               
+- Alokasi Laba tahun buku s/d 2015 706,027,620         706,027,620          
+- Koreksi kurang dibuku atas Beban Jasa & Purna Tugas Peg Pensiun 2016 7,036,800             7,036,800              
+- Penghapusan Hutang Bunga dan Denda 7,895,043,220      7,895,043,220       
+- Beban Jasa & Purna Tugas Peg Pensiun 2017 (567,132,000)        (567,132,000)        
+- Koreksi atas Beban Iuran PSL Dapenma Pamsi th 2015 & 2016 (6,393,223,038)     (6,393,223,038)     
+- Koreksi kurang dibuku atas Beban Jasa & Purna Tugas Peg Pensiun 2017 (35,969,200)          (35,969,200)          
+- Koreksi atas Beban Iuran PSL Dapenma Pamsi th 2017 996,893,964         996,893,964          
+- Alokasi Laba tahun buku 2016 547,927,065         547,927,065          
+- Alokasi Laba tahun buku 2017 461,776,200         461,776,201          
+- Alokasi Laba tahun buku 2018 553,984,424         553,984,424          
+- Koreksi atas Beban Iuran PSL Dapenma Pamsi krn Perubahan PHDP th 2019 ....…………………………..........(1,269,883,165)     (1,269,883,165)     
+- Penyesuaian Pembulatan tahun 2019  1                           1                            
+- Alokasi Laba tahun buku 2019 1,171,929,325      1,171,929,325       
+- Alokasi Laba tahun buku 2020 1,189,940,024      1,189,940,024       
+- Penyesuaian Pembulatan tahun 2020 -                        -                        
+Jumlah dipindahkan (9,945,604,979)     (9,945,604,978)     
+No. KETERANGAN
+30
+--P34--
+2023 2022
+Rp Rp
+Jumlah pindahan (9,945,604,979)     (9,945,604,978)     
+- Alokasi Laba tahun buku 2021 845,117,208         845,117,208          
+- Penyesuaian Pembulatan tahun 2021 -                            -                        
+- Alokasi Laba tahun buku 2022 1,534,851,433      
+- Koreksi Beban Iuran PSL Dapenma Pamsi per 31 Desember 2022 (3,503,760,351)     
+- Koreksi Alokasi Laba per 31 Desember 2023 219,264,491         
+-
+Jumlah (10,850,132,197)   (9,100,487,770)     
+3.27LABA/(RUGI) TAHUN BERJALAN 7,686,111,999      4,385,289,809
+Jumlah tersebut merupakan Laba/(Rugi) Tahun Berjalan dalam periode tahun 2023 dan 2022 sebagai berikut:
+- Pendapatan 61,390,327,370    49,276,736,335     
+- Beban 51,238,015,671    43,355,346,026     
+- Laba/(Rugi) Sebelum Pajak 10,152,311,699    5,921,390,309       
+- Pajak Penghasilan 2,466,199,700      1,536,100,500       
+- Laba/(Rugi) Tahun Berjalan 7,686,111,999      4,385,289,809       
+No. KETERANGAN
+31
+--P35--
+PERUSAHAAN UMUM DAERAH AIR MINUM ( PERUMDAM )
+TIRTA PANDALUNGAN KABUPATEN JEMBER
+Jl.Trunojoyo No.73 Jember. Kode Pos 68137 Telp. (0331) 483509, 485421
+ Fax.425482 E-mail : perumdam@tirtapandalungan.com
+2023 2022
+Rp Rp
+B. PENJELASAN AKUN LABA  - RUGI
+3.28 PENDAPATAN  USAHA 59,156,185,805     48,916,117,541  
+Jumlah tersebut merupakan pendapatan usaha dalam tahun 2023 dan 2022 terinci sebagai berikut :
+- Pendapatan Air 55,129,541,835     45,613,933,183  
+- Pendapatan Non Air 4,026,643,970       3,302,184,358    
+59,156,185,805     48,916,117,541  
+PENDAPATAN AIR 55,129,541,835     45,613,933,183  
+Merupakan Penjualan Air berdasarkan Rekening yang diterbitkan selama tahun 2023 dan 2022 yang 
+terinci sebagai berikut :
+- Penjualan Air dengan Meter 42,494,502,421     34,673,981,183  
+- Beban Tetap Jasa Administrasi & Air Lainnya 10,857,900,000     10,721,315,000  
+- AMDK Hazora 1,514,464,414       -                      
+- Lainnya/ Tanki Air 262,675,000          218,637,000       
+Jumlah 55,129,541,835     45,613,933,183  
+Rincian pendapatan penjualan air berdasarkan golongan pelanggan sebagai berikut :
+          G o l o n g a n Pemakaian Air Penjualan Air Pemakaian Air Penjualan Air
+Liter Rp Liter Rp
+Sosial Umum 1 101,901,761      329,913,521       108,605,320          291,875,949       
+Sosial Umum 2 8,096,012          28,510,159         11,177,419            32,116,937         
+Sosial Umum 3 26,230,467        102,479,663       26,918,659            87,234,743         
+Sos khusus 1 87,462,419        489,996,991       86,126,364            402,191,275       
+Sos khusus 2 41,012,968        266,859,353       48,880,233            1,579,662,137    
+Rumah Tangga 1 458,738,515      1,783,621,727    499,528,969          270,429,195       
+Rumah Tangga 2 4,066,865,156   19,930,271,043  4,037,810,856       16,369,090,705  
+Rumah Tangga 3 1,439,768,411   8,680,716,478    1,456,634,635       2,405,425,631    
+Pemerintah 268,146,222      2,577,968,967    261,926,310          19,762,234         
+Niaga Kecil 450,345,451      3,207,300,624    410,223,696          2,944,930,273    
+Niaga Sedang 482,473,331      3,947,242,602    444,094,937          2,059,770,417    
+Niaga Besar 109,289,794      1,130,072,201    116,132,394          7,219,665,120    
+Industri Kecil 2,814,895          19,549,092         3,207,330              991,826,567       
+Tanki 7,743,000          262,675,000       8,223,000              218,637,000       
+AMDK "Hazora" 3,235,000          1,514,464,414    -                             -                          
+Beban Tetap Jasa Adm dll. -                         10,857,900,000  -                             10,721,315,000  
+          Jumlah ….. 7,554,123,402   55,129,541,835  7,519,490,122       45,613,933,183  
+PENDAPATAN NON AIR 4,026,643,970       3,302,184,358    
+Jumlah tersebut merupakan Pendapatan Non Air yang diterima dalam tahun 2023 dan 2022 terdiri dari :
+- Pendapatan Sambungan Baru 2,113,015,365       1,478,877,499    
+- Jasa Penyambungan Kembali 901,307,895          930,325,000       
+- Denda terlambat 568,241,063          556,515,059       
+- Lainnya 444,079,647          336,466,800       
+Jumlah 4,026,643,970       3,302,184,358    
+No. KETERANGAN
+Tahun 2023 Tahun 2022
+32
+--P36--
+2023 2022
+Rp Rp
+3.29 PENDAPATAN NON USAHA 2,234,141,565       360,618,794       
+Jumlah tersebut merupakan Pendapatan Non Usaha yang diterima dalam tahun 2023 dan 2022 yaitu
+- Pendapatan Bunga Deposito 18,532,602            8,263,820           
+- Pendapatan Bunga Jasa Giro 126,992,523          55,104,855         
+- Pendapatan Penjualan Barang Bekas 15,500,000            10,824,000         
+- Pendapatan Piutang yang Disisihkan 13,964,549            13,790,162         
+- Pendapatan Bunga dari Tab Bank Niaga & Simpeda 1,387,268              922,702              
+- Rupa-rupa Pendapatan Lainnya 2,057,764,623       271,713,255       
+Jumlah … 2,234,141,565       360,618,794       
+3.30 BEBAN USAHA 51,231,553,917     43,351,404,526  
+Terinci sebagai berikut :
+1. Beban Pegawai 16,227,499,564     14,696,125,196  
+Jumlah tersebut merupakan beban pegawai selama tahun 2023 dan 2022 terdiri dari :
+- Beban Gaji Pegawai Sumber 2,979,767,494       3,068,186,221    
+- Beban Gaji Pegawai Pengolahan 1,545,957,826       1,329,362,077    
+- Beban Gaji Pegawai Trans & Distr 2,119,003,208       2,067,864,220    
+- Beban Gaji Pegawai Adm Umum 3,216,813,618       3,600,238,225    
+- Beban Gaji Pegawai AMDK 184,911,764          -                      
+- Beban Gaji Direksi 1,322,289,417       580,544,346       
+- Beban Kesejahteraan Pegawai Sumber 1,161,721,451       1,113,895,153    
+- Beban Kesejahteraan Pegawai Pengolahan 604,717,406          423,536,555       
+- Beban Kesejahteraan Pegawai Trans & Distr 824,154,211          722,026,360       
+- Beban Kesejahteraan Pegawai Adm Umum 1,329,848,711       1,224,562,654    
+- Beban Kesejahteraan Direksi 416,886,933          169,696,150       
+- Beban Pakaian Dinas Pegawai Adm Umum 84,686,500            38,961,000         
+- Beban Pengobatan Pegawai/Program BPJS 366,711,358          311,668,635       
+- Beban Pendidikan & Latihan Pegawai 70,029,667            45,583,600         
+Jumlah  16,227,499,564     14,696,125,196  
+2. Beban Pemakaian Bahan Bakar 189,385,803          118,865,085       
+       Jumlah tersebut terdiri dari :Jumlah tersebut merupakan beban pemakaian bahan bakar selama tahun 2023 dan 2022 terdiri :
+- Beban Bahan Bakar Sumber 71,431,000            57,243,500         
+- Beban Bahan Bakar Pengolahan 13,297,483            32,450,000         
+- Beban Bahan Bakar Kendaraan Dinas 69,296,320            29,171,585         
+- Beban Bahan Bakar Kendaraan Dinas AMDK 35,361,000            -                      
+Jumlah  189,385,803          118,865,085       
+3. Beban Listrik 5,297,246,599       4,914,396,979    
+Jumlah tersebut merupakan beban listrik selama tahun 2023 dan 2022 terdiri dari :
+- Beban Listrik Sumber 2,745,829,067       2,544,305,308    
+- Beban Listrik Pengolahan 2,412,930,131       2,233,803,936    
+- Beban Listrik dan  Air Kantor 138,487,401          136,287,735       
+Jumlah  5,297,246,599       4,914,396,979    
+No. KETERANGAN
+33
+--P37--
+2023 2022
+Rp Rp
+4. Beban Pemakaian Bahan Pembantu 4,758,697              1,537,272           
+Jumlah tersebut merupakan beban pemakaian bahan pembantu selama tahun 2023 dan 2022 yaitu
+- Beban Pemakaian Bahan Pembantu Sumber 1,571,559              1,157,053           
+- Beban Pemakaian Bahan Pembantu Pengolahan 3,187,138              380,219              
+Jumlah  4,758,697              1,537,272           
+5. Beban Pemeliharaan 2,610,732,583       1,929,522,113    
+Jumlah tersebut merupakan beban pemeliharaan selama tahun 2023 dan 2022 terdiri dari :
+- Beban Pemeliharaan Instalasi Sumber 206,436,238          327,362,409       
+- Beban Pemeliharaan Instalasi Pengolahan 362,225,851          363,353,501       
+- Beban Pemeliharaan Instalasi Pengolahan AMDK 54,495,369            -                          
+- Beban Pemeliharaan Instalasi Trans & Distr 1,580,445,312       983,682,203       
+- Beban Pemeliharaan Instalasi Umum 382,320,413          255,124,000       
+- Beban Pemeliharaan Instalasi Umum AMDK 24,809,400            -                      
+Jumlah  2,610,732,583       1,929,522,113    
+6.  Beban Air Baku / Curah 216,556,479          200,215,865       
+Jumlah tersebut merupakan retribusi pemakaian air baku selama tahun 2023 dan 2022 terdiri dari :
+       - Beban Air Baku / Curah- Beban Air Baku / Curah 216,556,479          200,215,865       
+Jumlah  216,556,479          200,215,865       
+7. Beban Penyusutan dan Amortisasi 9,781,211,105       8,871,073,364    
+Jumlah tersebut merupakan beban penyusutan aset tetap selama tahun 2023 dan 2022 terdiri dari :
+- Beban Penyusutan Instalasi Sumber 1,051,688,357       926,610,774       
+- Beban Penyusutan Instalasi Pengolahan 1,779,724,101       1,386,246,507    
+- Beban Penyusutan Instalasi Trans & Distr 5,367,150,126       5,496,081,177    
+- Beban Penyusutan Instalasi Umum 1,408,977,111       794,705,506       
+9,607,539,695       8,603,643,964    
+- Beban Amortisasi 173,671,410          267,429,400       
+Jumlah  9,781,211,105       8,871,073,364    
+8. Beban Pemakaian Bahan Kimia 1,936,356,465       2,425,417,236    
+Jumlah tersebut merupakan beban pemakaian bahan kimia selama tahun 2023 dan 2022 terdiri dari :
+- Beban Pemakaian Bahan Kimia 1,936,356,465       2,425,417,236    
+Jumlah  1,936,356,465       2,425,417,236    
+9. Beban Bunga Pinjaman 275,000                 1,312,767           
+Jumlah tersebut merupakan beban bunga pinjaman selama tahun 2023 dan 2022 terdiri dari :
+- Beban Bunga Kredit / Leasing pembelian kendaraan R-4 275,000                 1,312,767           
+Jumlah 275,000                 1,312,767           
+10. Beban Penyisihan/Penghapusan Piutang 765,481,409          1,077,452,886    
+Jumlah tersebut merupakan beban penyisihan / penghapusan piutang selama tahun 2023 dan 2022 terdiri dari :
+- Beban Penyisihan Piutang Rek Air & Non Air 765,481,409          1,077,452,886    
+Jumlah 765,481,409          1,077,452,886    
+No. KETERANGAN
+34
+--P38--
+2023 2022
+Rp Rp
+11. Beban Operasi Lainnya 14,202,050,213     9,115,485,762    
+Jumlah tersebut merupakan beban operasi lainnya selama tahun 2023 dan 2022 terdiri dari :
+- Beban Operasi Sumber, Pengolahan & Trans-Distr Lainnya 2,709,441,179       2,394,052,406    
+- Beban Operasi Pengolahan AMDK 2,180,117,677       -                          
+- Beban Alat Tulis, Telepon, Rapat, Cleaning Service Kantor dll 949,246,489          483,309,016       
+- Beban ATK dan Cetakan AMDK 14,745,225            -                          
+- Beban Pengawasan, Pembacaan Meter, Penagihan dll 4,274,944,515       3,945,853,240    
+- Beban Survey dan Penelitian 644,368,535          137,046,380       
+- Beban Promosi dan Iklan 45,574,000            30,452,500         
+- Beban Iuran Anggota Perpamsi & Langganan Koran 53,963,400            17,715,000         
+- Beban Honorarium dan THR Badan Pengawas 372,637,500          244,650,000       
+- Beban Perjalanan Dinas 494,784,400          102,540,000       
+- Beban Jasa Profesional 33,300,000            39,374,300         
+- Beban Sewa dan Asuransi 162,309,991          81,119,625         
+- Beban Sewa AMDK 3,500,000              -                          
+- Beban Pajak Pemerintah Daerah 174,982,674          55,145,636         
+- Beban Rupa-Rupa 1,998,950,878       1,584,227,659    
+- Beban Rupa-Rupa AMDK 89,183,750            -                          
+Jumlah … 14,202,050,213     9,115,485,762    
+Jumlah Beban Usaha 51,231,553,917     43,351,404,526  
+3.31 BEBAN NON USAHA 6,461,754              3,941,499           
+Jumlah tersebut terdiri atas :
+- Beban Non Usaha 6,461,754              3,941,499           
+Jumlah 6,461,754              3,941,499           
+No. KETERANGAN
+35
+--P39--
+3.32 PAJAK PENGHASILAN
+A. Laba Komersial Tahun 2022 10,152,311,699  
+B. Koreksi Fiskal Positif :
+     1.  BPJS Kesehatan 366,711,358          
+     2.  Sanksi Administrasi 15,786,687            
+     3.  Makan Minum, Sumbangan dll 56,620,159            
+     4.  Biaya Penyisihan Piutang 765,481,409          
+1,204,599,613    
+11,356,911,312  
+C. Koreksi Fiskal Negatif
+     1.  Bunga Tabungan/Giro (Netto) 146,912,393          
+     2.  Penghapusan Piutang -                             
+146,912,393       
+D. Laba (Rugi) Fiskal Tahun Buku 2022 11,209,998,920  
+E. Pembulatan -                          
+F. Akumulasi Kerugian Fiskal s/d Tahun Buku 2021 -                          
+G. Laba Fiskal Tahun Buku s/d tahun 2022 11,209,998,920  
+H. Pajak Penghasilan Badan Pasal 25 2,466,199,700    
+Omzet Tahun buku 2023 59,156,185,805  
+Catatan : Perhitungan Pajak Penghasilan Badan Tahun 2022
+1. Tarip Pajak          22 %  x 11,209,998,920  2,466,199,762    
+2. Pembulatan (62)                      
+3. Hutang Pajak PPh Pasal 25 …………………………… 2,466,199,700    
+Perhitungan kekurangan PPh Pasal 25
+,- Pajak Penghasilan Badan Terutang 2,466,199,700    
+,- Pajak Penghasilan Badan yang telah disetor (Uang Muka Pajak Tahun 2023) 1,024,941,000    
+,- Pajak Penghasilan Badan yang masih harus dibayar 1,441,258,700    
+PERHITUNGAN  FISKAL
+PPh Pasal 29 PERUSAHAAN UMUM DAERAH AIR MINUM
+TIRTA PANDALUNGAN KABUPATEN JEMBER
+TAHUN PAJAK 2023
+36
+--P40--
+
+--P41--
+
+--P42--
+
+--P43--
+
+--P44--
+
+--P45--
+
+--P46--
+
+--P47--
+
+--P48--
+
+--P49--
+
+--P50--
+
+--P51--
+
+--P52--
+
+--P53--
+
+--P54--
+11
+PERUSAIIAAN DAE RAH PI|RK EBTI NAN KAHYAN(;AN J EMBIi R
+NERA(IA (I.]NAUDITED)
+PER 3I DI]SEMBER 2023
+nLh bpk*l
+I'l::R -ll l)tiStiMtll:R :022l'lrli .l I l)l:SIrMIll,l{ 2t)13
+Itp
+IltAtANPtlR .]l I)l:SIiMIlliR 2022
+. Rr)
+l,l.llt .i I I)l:Sl:Mllt.:R 2021
+I(p
+I.]RAIAN
+4,316. r 89.tt23
+10e.772.900
+356 345.-53"1
+J48 674.091
+2.576,766.58t
+'1 707 748 925
+4 322.533.321
+t7.790,025
+974 586.070
+348.674.091
+2. 1 85. l0 L661
+7 848.68.s. 170
+5 278.2.13 4l45.5.50 04e.420
+8 826 e43 l6s 
+I
+I 727.n85.9-S0 I
+( 1.298.256 435)l
+792.940 1(:2 I
+(34S 7tto.o52,
+2.41i3. t4q.170
+685.282.466
+6.981.s3e
+12.476.14,6.266
+7.8 r 3.838.064
+338.036.200
+(4t ?57.724t
+403.854.937
+(348.780.052)
+2,4A7.832.276
+589 416.540
+'1 .699.149
+I L 170.639 391
+I 6 885,227.715
+?.7 t5.000.000
+(tt70 868.102)
+t6 885.227 715
+2.715.m0.000
+(870.fi68. l02)
+I8.729 359 613t8729.159613
+8 842 332.820
+e 064 .516..105
+r0 805 22310.805.22.1
+tr 842.332 820
+{r 291 125 271
+l't.9t7 6(4.441)17 144.261.3t6
+23.70r 914 554
+l4 fl38 386 rX)0
+4 r 3.963.3 l2
+2.4n4.I55.655
+4,872.236.4e?,
+9.987.679.968
+3 035.552.001
+3.461 ,097.-179
+707.010.962
+63.501.997,225
+(?e.714.3t6 592\
+l-1.727.680,233
+( I .122.20e.-157)
+(700.:44.843)
+(l 422209 357t
+(7()() 244.84.] )
+(671.(r16.8211
+34 524.569,tr6 |33.079.551.e05 
+',
+l-1.727 6ti0 231
+3 517.473.\\17
+. -. . -.. - - -,...,.Q,?2!)-J-!l-,).\?.1"
+1 .106 725.l-9I_
+III. KEWAJIBAN T,ANCAR
+- Ilutang Pajak
+- Hutang Usaha
+- Biaya yang rnasih harus dibayar
+- l'lutang lain lain
+- Petrdapatan dittrima dinluka
+Jumlah Kewa.liban l.ancar
+l!. KllWr\JIBAN'l'll)AK I,ANCAR
+- Kervaiiban Iistirnusi l)csongon
+\/. l.l K tr I'l .A S
+- l)cnycrtoaar) Modrl I'etrcrintah Nah. .lt\ht:r
+- l)cnyertaaan lVlotlltl l)ctlrr:ritrtttlr Kab. .lctntrcr lllrn l)itetaPka
+- Penggunaan I)ana ( atlattgan I lmtttn
+- l)ivcstasi Kchun Kctrriik kc Kopcrasi lictalrk N4aknrur
+Junrlah
+(r,t t).\ N (; ,\ N
+- l)ana Anggrtrarl lJolanja l'elnbatrgltnutt
+- ('adatrgan [Jnttlnr
+- l)ana Sosiai. l)cndidikan & Kcamanu
+- l)ana l'cnsitrn & Sttnrbirngan
+- I)anr lncc|llrvc
+- l):rna ('SR
+.lurnlah l,,kuitrs :
+r,AriA ( ItUUI) llliltslll
+- t.aba (rugi) pcr 3l - l2 - ?021
+- l.aba (rLrgi) pcr ,3 I - 12 - 2022
+- l,rhr (rugi) por 3l-12- 2023
+33 tt(:1 911.799
+-1.6n2.998..5Il
+(?,?-l-7ili_2-Qt)
+25 635.698 6t2
+14.206.61 3.668
+2 t9.150.928
+2.484.155.655
+4,872.236.492
+r0.253,953 293
+.1 035,552 003
+3 51 r.597.379
+7l3.el1 008
+64 932.869.018
+(l L070.93-s.240)
+.ll 1]6 t e33.799
+I AStt'l' l"tN('i\l{
+-Kas clarrSclaruKus
+- Piutang usuha
+- (iadangarr Kerttglatr l'itttanp. Ustrha
+- Piutang lain'laitr
+- C'adangan Kc,r[tBian l)irrtang larn lain
+- [Jang lVluka l)it1ak
+- Pclsodiaittr I lasll l)roduksi
+- I)erscdiaatt lSahlll dan llarang
+- l'enda;:lttatt ),arrg rlasih hrs ditcrirna
+,lumlrh Asct l,ancar :
+It AStT',l'll).\K l,AN("\R
+- lrrvestasi kcpadu Koptrasi Kolaiil. klltl(iriur
+ASI:'|' r']:'t'AP
+- Tanaman Menghasilkan
+-'Iananan Bcltrnr Menghasilkan
+- Perscmaian dan Pernbihitan
+- Bangunan Rumah
+- Bangunan Pcrusnhaan
+- Mesin l)an lnstalasi
+- Jalan, Jembaun dut saluran uir
+- Alat Pengangkutan
+- Alat l'erkebunan & Inventaris kccil
+Nilai I'emlehan Aset'fetap
+- Akumulasi Pcnyusutan Aset'l'etap
+Nilai tluku Aset'fctap
+- Assel tonan /ntln tan dalani
+rlst)T'IIDAlt BnRWti.rtrD
+- llak Cuna Ljsalra
+- Akumulasi Anrortisasi
+Nilai lluku,{set'I'idtk llcrwujud
+Nilei Buku Aset'l'ttnp
+17.51 0.S52.20{16.{78.211(r.{9547.5r 0.552.201{6.l7ti.2ll(r..l9S
+r\
+)
+cJ
+o-
+,)
+PIiRI
+S\I
+\\G.,\\ .IHlllll;tt
+r.445 7r3.304
+? t
+--P55--
+t' I PERUSAHAAN UMUM DAERAH (PERUMDA) PERKEBUNAN KAHYANGAN JEMBER
+LAPORAN LABA (RUGI)
+PERIODE DESEMBER 2023
+NO. URAIAN DESEMBER 2023
+Rp.
+DESEMBER 2022
+Rp.
+I
+II.
+III.
+IV,
+V
+vI.
+VII.
+VIII.
+IX.
+HASIL PENJUALAN
+Penjualan hasil produksi tahun ini
+Penjualan hasil produksi tahun lalu
+BEBAN POKOK PENJUALAN
+Persediaan Awal produksi
+Biaya Exploitasi
+Biaya Penyusutan
+Tersedia untuk dijual
+Persediaan Akhir produksi
+Koreksi harga Distribusi Kopi
+LABA (RUGr) KOTOR
+BEBAN USAHA
+Beban Umum & Administrasi
+Penyusutan Kantor Direksi
+Beban Penjualan
+Beban Kerugian Piutang Usaha dan Non Usaha
+LABA(RUGI) USAHA
+PENDAPATAN (BIAYA) DILUAR USAHA
+Macam-macam pendapatan
+Macam-macam biaya
+LABA(RUGr)KOTOR
+PAJAK PENGHASILAN
+LABA (RUGI ) BERSIH
+23.230.',711.718
+2.956.512.773
+28.826.153.303
+4.078.408.506
+26.t87.284.491 32.90s.161.8A9
+2.483.149.169
+23.611.678.969
+1.s63.722.s84
+2.891.682.022
+26.052.661.80s
+1.70s.448.663
+27.658.ss}.722
+(2.407.832.276)
+{142.s09.400)
+30.649.192.490
+(2.483.149.123)
+(146.140.168)
+25.108.209.045 28.01 9.903. I 99
+1 .079 .07 5.491 4.885.258.610
+6.697.734.645
+28.984.550
+5.820.654
+5.816.240.605
+27.t26.014
+10.214.851
+6.732.539.849 5.8s3.581.471
+(5.653.464.3s8) (968322.e33)
+5.562.826.850
+(s80.979.31s)
+1.595.803.091
+(1.327 .725.001)
+4.981.847.534 268.078.090
+(671.616.824)
+(671.6t 6.824)
+(700.244.843)
+(700.244.843)
+I
+t
+--P56--
+t
+PERUSAHAAN UMUM DAERAH (PERUMDA) PERKEBUNAN KAHYANGAN JEMBER
+LAPORAN ARUS KAS
+TAHUN BUKU YANG BERAKHIR PER 31 DESEMBER 2023 & DESEMBER TAHUN 2022
+KETERANGAN PER 3r -r2-2023
+Rp.
+PER 3l - 12 -2022
+Rp.
+Arus Kas Dari Aktivitas Operasi
+Rugi Tahun berjalan
+Depresiasi
+Amortisasi
+Arus Kas Operasional Sebelum Perubahan Modal Kerja
+(Kenaikan) Penurunan piutang usaha
+Kenaikan (Penurunan) penyisihan piutang usaha
+(Kenaikan) Penurunan piutang non usaha
+(Kenaikan) Penurunan persediaan hasi I produksi
+(Kenaikan) Penurunan persediaan barang dan bahan
+(Kenaikan) Penurunan pendapatan ymh diterima
+(Kenaikan) Penurunan utang usaha
+(Kenaikan) Penurunan biaya ymh di bayar
+(Kenaikan) Penurunan pendapatan diterima dimuka
+(Kenaikan) Penurunan utang pajak
+Arus kas Bersih yang diperoleh dari (untuk) Aktivitas Operasi
+Arus Kas Dari Aktivitas Investasi
+(Kenaikan) penurunan Aset Tetap
+(Kenaikan) penurunan Aset Tidak berwujud
+(Kenaikan) penurunan Beban ditangguhkan
+(Kenaikan) Penurunan kewajiban imbalan pasca kerja
+Arus kas Bersih yang diperoleh dari (untuk) Aktivitas investasi
+Arus kas Bersih yang diperoleh dari (untuk) Aktivitas Pendanaan
+(Kenaikan) Penurunan penyesuain Cadangan
+Arus kas Bersih yang diperoleh dari (untuk) Aktivitas Pendanaan
+Kenaikan (penurunan) Kas & setara kas
+Kas & setara kas awal tahun buku
+Kas & setara kas akhir tahun buku
+(671.616.824)
+1.296.618.2s4
+16.537.897
+(700.244.843)
+1.200.631 .34s
+16.537.897
+641.539.327
+1.389.849.750
+(1.2s6.998.7tt)
+(10.914.776)
+75.316.894
+9s.86s.926
+(717.3lr)
+(91.982.87s)
+618.240.537
+(391.664.e18)
+6.343.498
+1.074.877.341
+516.924.399
+1.678.864.600
+(1.08s.298.016)
+(44.07s. r 80)
+943.972.770
+(62s.88s.637)
+(s. r 80.se7)
+104.237.900
+54.090.4 r 7
+47 s.357 .031
+1.653.726.845
+3.666.734.532
+(1.430.871 .8 r6)
+(tss.s2s.497)
+271.816.006
+(402j22.407)
+(3e7.701.312)
+226.88 r .830
+( l .3 r 4.581 .307) (s73.34r.889)
+(773.401.132) (790.904.339)
+(773.401.132) (790.904.33e)
+(1.013.10s.098)
+8.826.943.162
+7.8r3.838.064
+2.302.488.304
+6.524.454.858
+8.826.943.162
+--P57--
+PTRUSAHAAN UMUM DAERAH (PERUMDA) PERKEBUNAN KAHYANGAN JEMBER
+UPORAN PERUBAHAN EKUITAS
+TAHUN BUKU YANG BERAKHIR PER 31 DESEIIBER 2023 DAN 31 DESEMBER 2022
+No Uraian Modal Perusahaan Divestasi Ketajik
+Penggunaan
+Cadangan Umum
+untuk Rehab Aset
+Cadangan Umum Dana Sosial &
+Pendidikan & keamanan CSR Laba ( Rugi) JUMLAH
+t. Saldo per 31 -12 - 2021 16.885.227.715 (870.868.1 02) 2.715.000.000 8.842.332.820 9.855.430.741 10.805.223 (1.422.209.355) 36.015.7'19.042
+1
+3
+4
+Penyesuaian/Koreksi
+Pembagian Laba (Rugi)
+Cadangan
+Bagian Laba Pemda
+Jasa Produksi
+Penyertaan modal pemkab
+Dana pensiun
+Penggunaan Cadangan (Rutin)
+Penggunaan dana sosial
+Pembayaran pensiun
+Penggunaan CSR
+Laba/(rugi) tahun berjalan 2021
+(790.904.366)
+(70o.244.816)
+(790.904.366)
+(700.244.816)
+il 16.885.227.715 (870.868.1 02) 2.715.000.000 8.842.332.820 9.064.526.375 rc.805.223 (2.122.454.171) 34.524.569.86d,
+1
+3
+3
+Penyesuaian/Koreksi
+Pembagian Laba (Rugi)
+Cadangan
+Bagian Laba Pemda
+Jasa Produksi
+Dana pensiun
+Penyertaan modal pemkab
+Penggunaan Cadangan (Rutin)
+Penerimaan penyertaan modal
+Penggunaan sosial & pendidikan
+Pembayaran pensiun
+Penggunaan CSR
+Laba/(rugi) tahun berialan 2022
+(773.401.132)
+(671.616.824\
+(773.401.132)
+(671.616.824
+1il. Saldo per 31 -12-2023 16.885.227 .715 (870.868.1 02) 2.71s.000.000 8.842.332.820 8.291.125.243 10.805.223 (671.616.824) 33.079.551.90t
+t
+Saldo per 3'l -12 - 2022
+--P58--
+PERUSAHAAN UMUM DAERAH PERKEBUNAN KAHYANGAN JEMBER
+CATATAN ATAS LAPORAN KEUANGAN
+31 DESEMBER 2023 DAN 2022
+(Angka dalam tabel disajikan dalam Rupiah, kecuali dinyatakan lain)
+1. UMUM
+c
+Perusahaan didirikan berdasarkan Peraturan Daerah Kabupaten Jember Nomor 1 Tahun 1969 tentang Pendirian
+Perusahaan Daerah "PERKEBUNAN KAHYANGAN". Selanjutnya, nama Perusahaan telah mengalami
+penyempurnaan/perubahan. Terakhir, sesuai Peraturan Daerah Kabupaten Jember Nomor 2 fahun 2012 Tanggal 14
+Agustus 2012 tentang Perusahaan Daerah Perkebunan Kahyangan Jember, nama Perusahaan mengalami
+perubahan dari Perusahaan Daerah Perkebunan Kabupaten Jember menjadi Perusahaan Daerah Perkebunan
+Kahyangan Jember (PDP Kahyangan Jember).
+Berdasarkan Peraturan Daerah Kabupaten Jember Nomor 2 fahun 2022 Tanggal 19 Aptil 2022 tentang Perusahaan
+Umum Daerah (Perumda) Perkebunan Kahyangan Jember, bentuk hukum Perusahaan disesuaikan menjadi
+Perusahaan Umum Daerah Perkebunan Kahyangan Jember dan nilai penyertaan modal meningkat menjadi sebesar
+Rp16.885.227 .715.
+Perusahaan berkedudukan dan berkantor di Jalan Gajah Mada Nomor 245, Jember, Jawa Timur.
+Perusahaan memiliki 5 kebun yang terbagi menjadi 3 kebun induk dan 2 kebun bagian (unit-unit pengolah).
+Maksud dan Tujuan
+Berdasarkan Peraturan Daerah Kabupaten Jember Nomor 2 fahun 2022, maksud pendirian Perusahaan adalah
+untuk meningkatkan kesejahteraan masyarakat di Kabupaten Jember sesuai dengan nilai-nilai Pancasila dan
+ketentuan peraturan perundangan-undangan. Tujuan pendirian Perusahaan antara lain:
+I ) Memberikan manfaat bagi perkembangan perekonomian di Kabupaten Jember;
+2) Menyelenggarakan kemanfaatan umum berupa penyediaan barang dan jasa yang dihasilkan oleh perkebunan
+bagi pemenuhan hajat hidup masyaakat di Kabupaten Jember sesuai kondisi, karakteristik, dan potensi di
+Kabupaten Jember berdasarkan tata kelola perusahaan yang baik;
+3) I\remperoleh laba daniatau keuntungan.
+Untuk mencapai tujuan tersebut, Perusahaan melakukan kegiatan usaha agrobisnis, agroindustri, dan agrowisata,
+sesuai ketentuan peraturan perundang-undangan.
+Struktur Organisasi
+Berdasarkan Peraturan Daerah Kabupaten Jember Nomor 2 Tahun 2022, pengurusan Perusahaan dilaksanakan oleh
+Organ Perumda Perkebunan Kahyangan Jember yang terdiri dari KPM (Bupati Jember), Dewan Pengawas, dan
+Direksi.
+Dewan Penqawas
+Berdasarkan Surat Keputusan Bupati Jember Nomor 188.45/36411j212022 Tanggal 15 Agustus 2022 tentang
+Penetapan Hasil Seleksi Anggota Dewan Pengawas Perusahaan Umum Daerah Perkebunan Kahyangan Jember dan
+Penetapan Anggota Oewan Pengawas Perusahaan Umum Oaerah Perkebunan Kahyangan Jember Masa Bakti
+fahun 2022 - 2026, susunan keanggotaan badan pengawas terdiri dari:
+Ketua : lr. Arief Budiyanto, MM., PlA.
+Sekretaris : Luhur Prayoga, MP.
+Anggota :
+Direksi
+Susunan direksi terdiri dari
+b
+Nama
+Nomor Surat
+Keputusan Bupati
+Tanggal Surat
+Keputusan Bupati
+Sofyan Sauri
+Moh. lzmaul Haqqi, STP
+Leny Puspitasari
+'15 Oktober 202'l
+15 Oktober 2021
+15 Oktober 2021
+'t88.45t459t1
+188.451461t',|
+184.45t46011
+1212021
+'t212021
+1212021
+a. Pendirian
+Perusahaan Umum Daerah (Perumda) Perkebunan Kahyangan Jember (selanjutnya disebut "Perusahaan"),
+merupakan salah satu Badan LJsaha Milik Daerah (BUMD) di wilayah Kabupaten Jember yang seluruh modal dan
+kekayaannya dimiliki oleh Pemerintah Daerah Kabupaten Jember melalui penyertaan langsung yang berasal dari
+kekayaan daerah yang dipisahkan dengan nilai penyertaan modal awal sebesar Rp9.085.227.715 dan tidak terbagi
+atas saham.
+Direktur Uiama :
+Direktur Produksi, Pemasaran,
+dan Pengembangan :
+Direktur Umum
+--P59--
+1
+PERUSAHAAN UMUM DAERAH PERKEBUNAN KAHYANGAN JEMBER
+CATATAN ATAS LAPORAN KEUANGAN
+3I DESEMBER 2023 D AN 2022
+(Angka dalam tabel disajikan dalam Rupiah, kecuali dinyatakan lain)
+UMUM (lanjutan)
+c. Struktur Organisasi (lanjutan)
+Personalia
+Direksi juga dibantu oleh Satuan Pengawas lnternal, 4 bagian unsur staf (Umum, Keuangan, Produksi dan Teknik,
+Pemasaran dan Pengembangan), serta 5 Unit Pengelolaan/Administratur dan Pimpinan Kebun.
+Pada tahun 2023 dan 2022, jumlah pegawai tetap di Perusahaan sebanyak 253 dan 272 oftng, jumlah pegawai tepas
+(harian, borongan, sadapan) sebanyak 1.048 dan 1.270 orung, dan tersebar di 5 unit pengelolaan kebun.
+d. Perijinan
+Untuk mendukung kegiatan usahanya, Perusahaan memiliki beberapa perijinan (legalitas), antara lain:
+1) Peraturan Daerah Kabupaten Jember Nomor 2 Tahun 2012 tentang Perusahaan Daerah Perkebunan Kahyangan
+Jember;
+2) Peraturan Bupati Jember Nomor 46 Tahun 2013 tentang Pedoman Penilaian Kinerja Kesehatan Perusahaan
+Daerah Perkebunan Kahyangan Jember;
+3) Peraturan Daerah Kabupaten Jember Nomor 10 Tahun 2015 tentang Penyertaan Modal pada Perusahaan
+Daerah Perkebunan Kahyangan Jember;
+4) Keputusan Bupati Jember Nomor 188.45/5581'1.1212017 tentang Penyertaan Moda! pada Perusahaan Daerah
+Perkebunan Kahyangan Jember;
+5) Keputusan Bupati Jember Nomor 188.45/46011.1212017 tentang Susunan Keanggotaan Badan Pengawas
+Perusahaan Daerah Perkebunan Kahyangan Jember;
+6) Peraturan Daerah Kabupaten Jember Nomor 5 Tahun 2020 tentang Penyertaan Modal pada Perusahaan Daerah
+Perkebunan Kahyangan Jember;
+7) lzin Usaha lndustri Nomor 503/A.1/lUl.PB/001 135.09.32512017 Tanggal 23 Mei 2017 dari Dinas Penanaman
+Modal dan Pelayanan Terpadu Satu Pintu Pemerintah Kabupaten Jember;
+8) Surat lzin Usaha Perdagangan Nomor 503/A.1/SlUP.B/0317/35.09.32512017 fanggal 13 Juli 20171
+9) Nomor lnduk Berusaha Nomor 91200027908'19 Tanggal 01 Juli 2019;
+10) Nomor Pokok Wajib Pajak (NPWP) Nomor 01.137.427.9.651.000;
+11) Surat Pengukuhan Pengusaha Kena Pajak Nomor PEM-00642 MPJ.121KP.090312008 Tangga, 6 Februari 2013
+dari Kantor Pelayanan Pajak Madya Malang.
+11) Peraturan Daerah Kabupaten Jember Nomor 2 fahun 2022 tentang Perusahaan Umum Daerah (Perumda)
+Perkebunan Kahyangan Jember.
+2. KEBIJAKAN AKUNTANSI
+Penyaiian Laporan Keuangan
+Laporan keuangan Perusahaan merupakan bagian dari proses pelaporan keuangan. Laporan keuangan meliputi
+neraca, laporan laba rugi, laporan perubahan ekuitas, laporan arus kas dan catatan atas laporan keuangan. Laporan
+keuangan berlujuan:
+1) Menyediakan informasi posisi keuangan, kinerja keuangan, dan laporan arus kas Perusahaan yang bermanfaat
+bagi pengguna dalam pengambilan keputusan ekonomi, dan
+2) Menunjukkan apa yang telah dilakukan manajemen atau pertanggungjawaban manajemen atas pemanfaatan
+sumber daya yang dipercayakan kepadanya.
+Laporan keuangan Perusahaan disusun dan disajikan dengan menggunakan prinsip dan praktek akuntansi yang
+berlaku umum di lndonesia yang tertuang dalam Standar Akuntansi Keuangan untuk Entitas Tanpa Akuntabilitas
+Publik (SAK-ETAP) sejak tahun 2012.
+Dasar Pengukuran
+Dasar pengukuran unsur-unsur dalam penyusunan laporan keuangan adalah biaya historis dan nilai wajar.
+Biaya historis adalah aset dan kewaiiban dihitung dan dilaporkan berdasarkan hatga perolehannya. Termasuk seluruh
+biaya yang dikeluarkan sampai asel berada di lokasi dan siap digunakan dalam proses produksi.
+Nilai wajar adalah jumlah yang dipakai untuk mempertukarkan suatu aset moneter/keuangan.
+Periode Akuntansi dan Mata Uang Pelaporan
+Periode akuntansi pada Perusahaan dimulai tanggal 1 Januari sampai dengan 31 Desember setiap tahunnya. Mata
+uang pelaporan yang digunakan untuk penyusunan laporan keuangan adalah mata uang Rupiah.
+a
+b
+c
+6
+--P60--
+PERUSAHAAN UMUM DAERAH PERKEBUNAN KAHYANGAN JEMBER
+CATATAN ATAS LAPORAN KEUANGAN
+31 DESEMBER 2023 DAN 2022
+(Angka dalam tabel disajikan dalam Rupiah, kecuali dinyatakan lain)
+2 KEBIJAKAN AKUNTANSI (lanjutan)
+d. Pengukuran Unsur Laporan Keuangan
+Pengukuran adalah proses penetapan jumlah uang yang digunakan Perusahaan untuk mengukur aset, kewajiban,
+penghasilan dan beban dalam laporan keuangan. Proses initermasuk pemilihan dasar pengukuran tertentu.
+Dasar pengukuran yang digunakan adalah biaya historis dan nilaiwajar.
+Biaya historis adalah suatu teknik pengukuran yang menghitung dan melaporkan aset dan kewajiban berdasarkan
+harga perolehannya. Termasuk seluruh biaya yang dikeluarkan sampai aset berada di lokasi dan siap digunakan
+dalam proses produksi.
+Nilai walar adalah jumlah yang dipakai untuk mempertukarkan suatu aset moneter/keuangan. Misalnya, investasi pada
+surat berharga (saham atau obligasi) atau untuk menyelesaikan suatu kewajiban estimasi tertentu yang mempunyai
+nilai waktu uang lpresent value ) yang cukup material.
+1) Pengakuan Unsur Laporan Keuangan
+Pengakuan unsur laporan keuangan merupakan proses pembentukan suatu pos di dalam neraca atau laporan
+laba rugiyang memenuhi dua kriteria, antara lain:
+a) Ada kemungkinan besar (probability) bahwa manfaat ekonomi yang terkait dengan pos tersebut akan
+mengalir ke dalam atau keluar Perusahaan. Manfaat ekonomis yang masuk ke dalam Perusahaan
+merupakan pembentukan aset dan pendapatan sedangkan manfaat ekonomis yang keluar dari Perusahaan
+merupakan pembentukan kewa.jiban dan beban.
+b) Pos tersebut mempunyai nilai yang dapat diukur dengan andal.
+2) Porbabilitas Manfaat Ekonomi Masa Depan
+Konsep probabilitas digunakan untuk pengakuan karena adanya ketidakpastian bahwa manfaat ekonomi masa
+depan yang terkait dengan pos tersebut akan mengalir ke dalam atau keluar Perusahaan. Pengkajian tingkat
+ketidakpastian yang melekat pada arus manfaat ekonomi masa depan dilakukan atas dasar bukti yang terkait
+dengan kondisi saat penyusunan laporan keuangan. Penilaian itu dibuat secara individu untuk pos-pos yang
+signifikan dan secara kelompok untuk pos-pos yang tidak signifikan secara individual,
+3) KeandalanPenqukuran
+Kriteria kedua untuk pengakuan suatu pos adalah adanya nilai yang dapat diukur dengan tepat. Nilai suatu pos
+yang dapat diukur dengan tepat meliputi:
+a) Nilai yang biasanya dapat diketahui;
+b) Nilai yang dapat diestimasi; atau
+c) Penggunaan estimasi yang layak merupakan hal penting dalam penyusunan laporan keuangan tanpa
+mengurangi tingkat keandalannya sehingga jika estimasi yang layak tidak mungkin dilakukan maka pos
+tersebut tidak diakui dalam neraca atau laporan laba rugi.
+Suatu pos yang pada saat penyusunan laporan keuangan tidak dapat memenuhi kriteria pengakuan tersebut di
+atas tetapi memenuhi syarat untuk diakui di masa depan karena tedadinya peristiwa/keadaan di masa depan
+maka kejadian/peristiwa tersebut harus diungkapkan di dalam catatan, materi penjelasan, atau skedul tambahan
+laporan keuangan yang disajikan.
+4) Prinsip Pengakuan dan Pengukuran Berpengaruh Luas (Pervasif)
+Pengakuan dan pengukuran aset, kewajiban, penghasilan dan beban didasarkan pada prinsip pervasif dari
+Kerangka Dasar Pengukuran dan Penyajian Laporan Keuangan (KDPPLK) sebagajmana diatur dalam SAK
+ETAP. Jika SAK ETAP tidak secara spesiflk mengatur suatu transaksi, peristiwa atau kondisi lainnya yang terjadi
+pada Perusahaan, maka manajemen harus menggunakan SAK Umum dalam pengakuan dan pengukuran aset,
+kewajiban, pendapatan, dan beban.
+5) Dasar Akrual
+Perusahaan harus menyusun laporan keuangan (kecuali laporan arus kas) dengan menggunakan dasar akrual.
+Dengan dasar akrual, pos-pos diakui sebagai aset, kewajiban, ekuitas, penghasilan, dan beban (unsur-unsur
+laporan keuangan) pada saat terjadinya transaksi, bukan pada saat kas atau setara kas ditetima atau dibayarkan.
+6) Saling Hapus
+Saling hapus tidak diperkenankan atas aset dengan kewaiiban, atau penghasilan dengan beban.
+/
+--P61--
+PERUSAHAAN UMUM DAERAH PERKEBUNAN KAHYANGAN JEMBER
+CATATAN ATAS LAPORAN KEUANGAN
+31 DESEMBER 2023 DAN 2022
+(Angka dalam tabel disajikan dalam Rupiah, kecuali dinyatakan lain)
+2. KEBIJAKAN AKUNTANSI (lanjutan)
+e. Kas dan Setara Kas
+Kas adalah uang tunai atau saldo simpanan di bank yang setiap saat dapat digunakan untuk membiayai kegiaian
+umum Perusahaan. Kas terdiri atas saldo kas (cash on hand) dan rekening giro. Setara kas (cash equivalent)
+merupakan bagian dari aset lancar yang sangat likuid, yang dapat dikonversi menjadi kas dalam jangka waktu 1 - 3
+bulan tanpa menghadapi resiko perubahan nilai yang signifikan, Contoh setara kas: deposito berjangka kurang dari 3
+bulan dan cek yang baru dapat diuangkan dalam jangka waktu kurang dari 3 bulan. Kas dan setara kas yang dimiliki
+untuk memenuhi komitmen kas jangka pendek, bukan untuk investasi atau tujuan lain.
+Kas dan setara kas diakui pada saat diterima atau dikeluarkan Kasir. Kas dan setara kas diukur sebesar nilai nominal
+pada saat diterima/dikeluarkan dan dinyatakan dalam nilai Rupiah, jika terdapat kas dan bank dalam valuta asing
+maka harus dikonversi berdasarkan nilai kurs tengah Bank lndonesja pada tanggal transaksi.
+Pada akhir tahun, kas dan bank dalam valuta asing dikonversi berdasarkan nilai kurs tengah Bank lndonesia pada
+tanggal neraca. Keuntungan atau kerugian atas selisih kurs tanggal neraca dengan kurs transaksi diakui sebagai
+keuntungan selisih nilai tukar Rupiah terhadap mata uang asing atau biaya penurunan nilai. Ada beberapa hal yang
+tidak dapat digolongkan sebagai bagian dalam kas dan setara kas, seperti: persediaan perangko, cek mundur, cek
+kosong, rekening giro dari bank di luar negeri yang tidak dapat segera digunakan, dsb.
+f. Piutang
+Piutang adalah hak Perusahaan yang timbul dari transaksi penjualan hasil produksi dan atau peniualan lainnya, serta
+transaksi lain yang pembayarannya akan diterima pada masa yang akan datang. Transaksi penjualan dilakukan
+secara tunai kecuali penjualan kopi bubuk yang menerapkan konsinyasj sehjngga menimbulkan piulang usaha
+sedangkan piutang non usaha kepada karyawan.
+Piutang usaha dan piutang non usaha diakui apabila ada kemungkinan bahwa manfaat ekonomi akan mengalir ke
+Perusahaan dan mempunyai nilai yang dapat diukur dengan andal. Piutang usaha dan piutang non usaha dicatat
+sebesar nilai tagihan, dan atau sebesar nilai wajar yang dapat direalisasi.
+Pada setiap tanggal pelaporan, Perusahaan harus melakukan penyisihan kerugian piutang yang dibentuk untuk
+menutup kemungkinan kerugian yang timbul. Besarnya penyisihan kerugian piutang ditentukan berdasarkan rata-rata
+piutang tak tertagih untuk 3 tahun terakhir.
+Pada setiap tanggal pelaporan, Perusahaan harus melakukan penyisihan kerugian piutang non usaha secara
+individual, yang dibentuk untuk menutup kemungkinan kerugian yang timbul. Besarnya penyisihan kerugian piutang
+non usaha ditentukan berdasarkan kemampuan membayar debitur berdasarkan rata-rata piutang tak tertagih untuk 3
+tahun terakhir.
+Penghapusan piutang berdasarkan piutang tak tertagih yang berumur di atas 2 tahun dan sudah dapat diusulkan
+kepada badan pengawas untuk dihapuskan, setelah melalui proses upaya penagihan dan dibahas oleh tim intern
+Perusahaan, yang menyimpulkan/mengusulkan untuk dihapus kepada pihak yang beruenang. Apabila piutang yang
+dihapuskan lebih besar dari penyisihan kerugian piutang yang dibentuk maka selisihnya diakui sebagai biaya
+penyisihan kerugian periode bersangkutan. Apabila terjadi pembayaran setelah piutang dihapuskan maka piutang
+tersebut dimunculkan kembali dan pengurangannya dilakukan sebagaimana pelunasan piutang.
+g. Persediaan
+Persediaan adalah aset milik Perusahaan yang bertujuan untuk dijual dalam kegiatan usaha normal. Persediaan
+dapat berupa persediaan hasil produksi (komoditi kopi, karet, kopi bubuk/goreng, cengkeh, dsb), persediaan dalam
+proses produksi untuk kemudian dijual, persediaan kopi dan bunga cengkeh yang masih di pohon dan belum siap
+untuk dipanen, serta persediaan dalam bentuk bahan atau perlengkapan untuk digunakan dalam proses produksi
+(bahan kimia, bahan operasi, alat tulis kantor, dsb).
+Persediaan diukur pada biaya perolehannya yang meliputi seluruh biaya pembelian, biaya produksi, biaya yang dapat
+dibebankan secara langsung, dan biaya lalnnya yang terjadi untuk membawa persediaan ke kondisi dan lokasi
+sekarang. Persediaan pada akhir tahun buku harus diukur pada nilai mana yang lebih rendah antara biaya perolehan
+dan harga jual dikurangi biaya untuk menjual.
+Penurunan nilai persediaan dapat teriadi karena karena rusak atau usang. Jika suatu jenis (atau kelompok jenis) dari
+persediaan menurun nilainya maka persediaan harus diukur pada harga jual dikurangi biaya untuk menjual, serta
+mengakui kerugian penurunan nilai dalam pos "kerugian penurunan nilai persediaan" dengan perkiraan lawan (kredit)
+yaitu "akumulasi penurunan nilai persediaan".
+8
+--P62--
+PERUSAHAAN UMUM DAERAH PERKEBUNAN KAHYANGAN JEMBER
+CATATAN ATAS LAPORAN KEUANGAN
+31 DESEMBER2023 DAN 2022
+(Angka dalam tabel disajikan dalam Rupiah, kecuali dinyatakan lain)
+2. KEBIJAKAN AKUNTANSI (lanjutan)
+g. Persediaan(lanjutan)
+Atas persediaan yang mengalami penurunan nilai pada tahun buku sebelumnya maka harus dibuat penilaian baru
+atas harga jual dikurangi biaya untuk menyelesaikan dan menjual dalam setiap periode berikutnya. Jika situasi pada
+periode sebelumnya yang menyebabkan persediaan turun nilainya tidak ada lagi atau adanya bukti nyata kenaikan
+dari harga jual dikurangi biaya untuk menjual karena perubahan kondisi ekonomi, maka dilakukan pemulihan jumlah
+penurunan nilai sebelumnya (pemulihan dibatasi sebesar jumlah awal kerugian penurunan nilai) sehingga jumlah
+lercatat baru adalah nilai yang lebih rendah antara harga perolehan dan harga jual dikurangi biaya untuk menjual yang
+telah direvisi. Jika tidak terdapat kondisi atau kejadian yang signifikan yang dapat mempengaruhi nilai persediaan
+maka dibuatkan pernyataan manajemen bahwa tidak terdapat perubahan nilai persediaan pada saat akhir tahun baku.
+Beberapa persediaan dapat dialokasikan ke aset lain (misalnya, bahan kimia dan bahan operasi lainnya) yang
+digunakan sebagai komponen aset tetap yang dibangun sendiri, untuk pemeliharaan Tanaman Belum lvenghasilkan.
+Alokasi persediaan ke aset tetap diakui sebagai beban selama umur manfaat aset tersebut.
+Persediaan bahan operasi (bahan kimiaiBBM/operasi Iainnya) yang digunakan dalam proses produksi maka jumlah
+diakui sebagai beban periode dimana pendapatan yang terkait diakui.
+Alokasi persediaan ke aset tetap, khususnya aset non tanaman yang diakui sebagai beban selama umur manfaat aset
+tersebut dan menambah nilai aset, dapat dilakukan selama persediaan tersebut mampu memperpanjang umur
+ekonomis, meningkatkan kapasitas dan mutu, serta meningkatkan standar kinerja.
+Dalam menentukan biaya persediaan (bahan kimia, bahan instalasi, bahan operasional lain, dan ATK) menggunakan
+rumus biaya rata-rata tertimbang (average) .
+Metode pencalatan yang dianut terhadap persediaan bahan operasi dan ATK menggunakan Physical lnventory
+Method sedangkan persediaan bahan kimia, instalasi, dan persediaan suku cadang menggunakan Perpetual Method.
+h. lnvestasi Jangka Pendek
+lnveslasijangka pendek adalah aset yang dimaksudkan untuk memperoleh manfaat ekonomi seperti bunga dan/atau
+manfaat lainnya yang dapat segera dicairkan dan dimaksudkan untuk dimiliki selama 3 sampai '12 bulan sehingga
+dapat meningkatkan kemampuan Perusahaan dalam rangka pelayanan kepada masyarakat- lnvestasijangka pendek
+harus memenuhi karakteristik sebagai berikut:
+1) Dapatsegera diperjualbelikan/dicairkan;
+2) lnvestasi tersebut ditujukan dalam rangka manajemen kas; dan,
+3) Berisiko rendah.
+lnvestasi jangka pendek adalah inveslasi yang dilakukan oleh Perusahaan dalam bentuk deposito berjangka dengan
+waktu penempatan lebih dari 3 bulan dan surat berharga lainnya dengan waktu kepemilikan kurang dari setahun untuk
+memanfaatkan kelebihan dana milik Perusahaan. lnveslasi jangka pendek adalah terdiri dari deposito berjangka,
+surat berharga, surat pengakuan utang, surat berharga komersial, saham, obligasi, tanda bukti utang, dan lain{ain.
+lnvestasi jangka pendek bisa diakui pada saat diinvestasikan apabila pengeluaran kas tersebut memenuhi kriteria-
+kriteria tertentu, antara Iain:
+1) Kemungkinan manfaat ekonomi dan manfaat sosial atau jasa potensial di masa yang akan datang atas suatu
+investasi tersebut dapat diperoleh Perusahaan.
+2) Pada tanggal neraca investasi yang termasuk dimiliki hingga iatuh tempo disajikan dalam neraca sebesar biaya
+perolehan setelah amortisasi premi atau diskonto, kecuali terdapat bukti kuat adanya penurunan harga yang
+permanen.
+3) lnvestasi yang termasuk kategori tersedia untuk dijualdisajikan menurut harga wajar.
+lnvestasi jangka pendek dalam bentuk deposito jangka pendek dicatat sebesar nilai nominal deposito tersebut.
+lnvestasi jangka pendek dinyatakan dalam nilai Rupiah. Jika ada investasi jangka pendek dalam valuta asing maka
+harus dikonversi berdasarkan nilai kurs tengah Bank lndonesia pada tanggal transaksi. Pada akhit tahun, investasi
+jangka pendek dalam valuta asing dikonversi berdasarkan nilai kurs tengah Bank lndonesia pada tanggal neraca.
+s
+--P63--
+PERUSAHAAN UMUM DAERAH PERKEBUNAN KAHYANGAN JEMBER
+CATATAN ATAS LAPORAN KEUANGAN
+3,I DESEMBER 2023 DAN 2022
+(Angka dalam tabel disajikan dalam Rupiah, kecuali dinyatakan lain)
+2. KEBIJAKAN AKUNTANSI (lanlutan)
+i. Aset Tetap
+Aset tetap adalah aset berwujud yang dimiliki atau dikuasai untuk digunakan dalam proses produksi dan atau untuk
+tujuan administratif. Diharapkan akan digunakan lebih dari satu periode/tahun buku. Aset tetap diukur berdasarkan
+biaya perolehan. Adapun unsur-unsur biaya perolehan:
+1) Harga beli, termasuk biaya hukum, broker, bea impor, dan pajak pembelian yang tidak boleh dikreditkan, setelah
+dikurangi diskon dan potongan lainnya;
+2) Biaya-biaYa yang dapal dibebankan langsung untuk membawa aset (Non fanamanl ke Iokasi dan kondisj siap
+digunakan sesuai dengan maksud manajemen. Biaya initermasuk biaya penyiapan lahan, biaya penanganan dan
+penyerahan awal, biaya instalasi dan perakltan, serta biaya pengujian fungsionaliias. Unsur biaya perolehan
+untuk Aset Tanaman adalah biaya-biaya sampai denoan tanaman menghasilkan atau berproduksi.
+Biaya perolehan aset tetap adalah setara harga tunainya pada tanggal pengakuan. Jika pembayaran ditangguhkan
+lebih dari waktu kredit normal maka biaya perolehan adalah nilai tunai semua pembayaran masa yang akan datang.
+Pengeluaran setelah pengakuan awal meliputi pengeluaran yang memperpanjang masa manfaatnya lebih dari satu
+tahun atau yang memberi manfaat ekonomi di masa yang akan datang dalam peningkatan kapasitas atau
+peningkatan standar kinerja harus ditambahkan pada nilai aset tetap tersebut. Pengeluaran tersebut dapat
+diklasifikasikan sebagai penambah nilai aset apabila ada maksud manajemen dan penilaian dari pihak berkompeten.
+Biaya pemeliharaan dan perbaikan aset sehari-hari diakui sebagai beban dalam laporan laba rugi periode terjadinya.
+Seluruh aset tetap (termasuk aset yang tidak produktif) pada akhir tahun buku harus dilakukan pengukuran setelah
+pengakuan awal sebesar biaya perolehan dikurang akumulasi penyusutan dan akumulasi kerugian penurunan nilai.
+Aset tetap dalam penyelesaian harus dilaporkan terpisah dari aset tetap yang beroperasi dan belum dapat disusutkan
+sampai aset tetap tersebut dinyatakan beroperasi komersil.
+Penyusutan dimulai ketika aset telah digunakan dan berakhir ketika aset dihentikan pengakuannya. Penyusutan tidak
+dihentikan ketika aset tidak digunakan atau dihentikan penggunaan aktifnya (aset tidak produktif), kecuali aset
+tersebut telah disusutkan secara penuh. Beban penyusutan harus diakui dalam laporan laba rugi.
+Penyusutan aset tetap menggunakan metode garis lurus dengan rincian masa manfaat dan tarif penyusutan sebagai
+berikut:
+Pada setiap tanggal pelaporan harus dilakukan penilaian apakah terdapat indikasi penurunan nilai aset. Jika terdapat
+indikasi tersebut, harus dilakukan estimasi nilai wajar dikurangi dengan biaya untuk menjual aset tersebut. Penilaian
+aset bisa secara individu tetapi dalam kondisi tertentu harus diestimasi untuk kelompok aset. Penurunan nilai atas
+aset tetap dilakukan jika terdapat kondisi atau keadaan yang signifikan yang mengakibatkan terjadinya penurunan nilai
+aset tetap, misalnya kebakaran, rusak berat yang mengakibatkan aset tidak dapat digunakan atau sebab lainnya. Nilai
+wajar dikurangi biaya untuk menjual adalah jumlah yang bisa diperoleh dari penjualan sebuah atau kelompok aset
+antara pihak-pihak yang berkeinginan melakukan transaksi dengan wajar, dikurangi dengan biaya penjualan aset
+tersebut. Jika tidak dapat mengestimasi nilai wajar aset tunggal, maka harus mengukur nilai wajar dikurangi biaya
+menjual kelompok aset yang bersangkutan.
+Nilai buku tanaman menghasilkan yang mati dibebankan ke beban pokok produksi sedangkan nilai buku tanaman
+menghasilkan namun mati (termasuk persemaian dan pembibitan) dibebankan ke beban di Iuar usaha.
+Kategori Masa Manfaat Tarif
+1) Aset Tanaman
+a) Karet
+b) Kopi
+c) Kakao
+d) Cengkeh
+2) Aset Non Tanaman
+a) Bangunan
+b) Mesin dan lnstalasi
+c) Jalan, Jembatan, dan Saluran Air
+d) Kendaraan/AlatAngkut
+e) lnventaris
+25 Tahun
+40 Tahun
+40 Tahun
+50 Tahun
+10 Tahun
+10 Tahun
+'10 Tahun
+4 Tahun
+4 Tahun
+40
+2,50/o
+10%
+'too/o
+100k
+25%
+250/.
+10
+--P64--
+PERUSAHAAN UMUM DAERAH PERKEBUNAN KAHYANGAN JEMBER
+CATATAN ATAS LAPORAN KEUANGAN
+31 DESEMBER 2023 DAN 2022
+(Angka dalam tabel disajikan dalam Rupiah, kecuali dinyatakan lain)
+2. KEBIJAKAN AKUNTANSI (lanjutan)
+j. Aset Tidak Berwujud
+Aset tidak berwujud adalah asel nonmoneter yang dapat diidentifikasi dan tidak mempunyai wujud fisik. Suatu aset
+dapat diidentifikasi sebagai aset tidak beruuujud jika:
+1) Dapat dipisahkan, yaitu kemampuannya untuk menjadi terpisah/terbagi dari Perusahaan dan dijual, dialihkan,
+dilisensikan, disewakan, atau ditukarkan melalui suatu kontrak terkait aset atau kewajiban secara individual atau
+secara bersama; atau
+2) Muncul dari hak kontraktual atau hak hukum lajnnya, terlepas apakah hak tersebut dapat dialihkan atau dapat
+dipisahkan dari Perusahaan atau dari hak dan kewajiban lainnya.
+Perusahaan harus menerapkan kriteria pengakuan aset tidak berwujud jika kemungkinan Perusahaan akan
+memperoleh manfaat ekonomis masa yang akan datang dari aset tersebut dan biaya perolehan aset tersebul atau
+nilai aset tersebut dapat diukur dengan handal. Dalam menilai kemungkinan adanya manfaat ekonomis masa yang
+akan datang, Perusahaan harus memakai asumsi wajar dan mendukung yang merupakan estimasi terbaik
+manajemen atas kondisi ekonomi yang ada selama masa manfaat aset tidak berwujud. Dalam menilai tingkat
+kepastian akan adanya manfaat ekonomis masa yang akan datang yang timbul dari penggunaan aset tidak berwujud,
+Perusahaan mempertimbangkan bukti yang tersedia pada saat pengakuan awal aset tersebut dengan memberikan
+penekanan pada bukti eksternal. Kriteria probabilitas pengakuan kemungkinan Perusahaan memperoleh manfaat
+ekonomis masa yang akan datang dari aset tidak berwujud harus selalu dipertimbangkan untuk dipenuhi atas aset
+tersebut yang diperoleh secara terpisah. Perusahaan mengukur aset tidak berwujud pada awalnya sebesar biaya
+perolehan.
+Biaya perolehan aset tidak berwujud yang diperoleh secara terpisah adalah harga beli, bea impor dan pajak yang
+sifatnya tak dapat dikreditkan, setelah diskon dan potongan dagang. Biaya yang dapat distribusikan secara langsung
+dalam mempersiapkan aset tidak berwujud sehingga siap digunakan sesuai dengan tujuannya.
+Biaya perolehan aset tidak beMujud melalui pertukaran dengan satu atau beberapa asel nonmoneter, atau kombinasi
+aset moneter dan aset non-moneter, harus diukur sebesar nilai wajar kecuali transaksi pertukaran tidak memiliki
+substansi komersial atau nilai wajar aset yang diterima/diberikan tidak dapat diukur secara andal. Jika Perusahaan
+mampu menentukan nilai wajar secara andal atas aset tidak berwujud yang diterima atau diberikan, maka nilai wajar
+aset yang diberikan digunakan untuk mengukur biaya perolehan kecuali nilai wajar aset yang diterima mempunyai
+bukti yang lebih jelas. Jika Perusahaan tidak mampu menentukan nilai wajar yang andal atas aset tidak berwujud yang
+diperoleh maka biaya perolehan aset tersebut diukur pada jumlah tercatat aset yang diberikan.
+Perusahaan harus mengakui pengeluaran internal yang terjadi atas aset tidak berwujud, termasuk semua
+pengeluaran untuk aktivitas riset dan pengembangan, sebagai beban pada saat terjadinya, kecuali pengeluaran
+tersebut merupakan bagian dari biaya perolehan aset lainnya yang memenuhi kriteria yang berlaku. Pengeluaran
+berikut ini harus diakui sebagai beban dan bukan aset tidak berwujud, antara lain:
+1) Nrerek, logo, ludul publikasi, daftar konsumen yang dihasilkan secara internal, dan hal lain yang secara substansi
+serupa;
+2) Biaya perintisan, termasuk biaya legal dan kesekretariatan dalam rangka mendirikan badan hukum, pengeluaran
+dalam rangka membuka usaha atau fasilitas baru (biaya prapembukaan) atau pengeluaran untuk memulai
+operasi baru atau meluncurkan produk atau proses baru (biaya praoperasi);
+3) Relokasi atau reorganisasi sebagian atau seluruh pada Perusahaan.
+Perusahaan harus mengukur aset tidak berwujud pada biaya perolehan dikurangi akumulasi amortisasi dan akumulasi
+rugi penurunan nilai, sesuai persyaratan pengakuan penurunan nilai. Semua aset tidak beMujud dianggap
+mempunyai umur manfaat terbatas. Umur manfaat aset tidak beMujud yang berasal dari hak kontraktual atau hak
+hukum lainnya tidak boleh melebihi periode hak kontraktual atau hak hukum tersebut, tetapi mungkin lebih pendek
+tergantung pada lamanya periode ekspektasi penggunaan aset tersebut. Jika hak kontraktual atau hak hukum lainnya
+untuk masa yang terbatas dapat diperbarui maka umur manfaatnya harus termasuk periode yang diperbarui hanya
+jika terdapat bukti yang mendukung pembaharuan hak tersebut yang dilakukan oleh Perusahaan tanpa biaya yang
+signifikan. Jika Perusahaan tidak mampu mengestimasi umur manfaat suatu aset tidak berwujud maka umur
+manfaatnya dianggap l0 tahun.
+Perusahaan harus mengalokasikan jumlah yang dapat disusutkan dari aset tidak berwujud secara sistematis selama
+umur manfaatnya. Beban amortisasi untuk setiap periode harus diakui sebagai beban, kecuali biaya tersebut sebagai
+bagian biaya perolehan aset tidak berwujud, misalnya persediaan dan aset tetap. Amortisasi dimulai ketika aset tidak
+berwujud siap digunakan, yaitu aset tersebut berada di lokasi dan kondisi yang dibutuhkan untuk mampu beroperasi
+sesuai dengan keinginan manajemen. Amortisasi dihentikan ketika aset tidak berwujud dihentikan pengakuannya.
+N4etode amortisasi yang digunakan dalam perhitungan amortisasi adalah metode garis lurus.
+11
+--P65--
+PERUSAHAAN UMUM DAERAH PERKEBUNAN KAHYANGAN JEMBER
+CATATAN ATAS LAPORAN KEUANGAN
+3I DESEMBER 2023 D AN 2022
+(Angka dalam tabel disajikan dalam Rupiah, kecuali dinyatakan lain)
+2. KEBIJAKAN AKUNTANSI (lanjutan)
+j. Aset Tidak Berwuiud (lanjutan)
+Nilai residu suatu aset tidak berwujud seharusnya diasumsikan nol, kecuali:
+1) Ada komitmen dari pihak ketiga untuk membeli suatu aset tidak berwujud pada akhir masa manfaatnya;
+2) Ada pasar aktif bagi aset tidak berwujud tersebut dan:
+a) Nilai residu aset dapat ditentukan dengan mengacu pada harga yang berlaku di pasar tersebut;
+b) Terdapat kemungkinan bahwa pasar yang aktif tersebut akan tetap ada pada akhir umur manfaat aset tidak
+berwu.iud.
+Perusahaan menerapkan penurunan nilai aset tidak berwujud sesuai/sama dengan konsep penurunan nilai aset
+lainnya untuk menentukan apakah aset tidak berwujud telah mengalami penurunan nilai- Pada setiap tanggal
+pelaporan dilakukan penilaian apakah terdapat indikasi penurunan nilai aset tidak berwujud dan jika terdapat indikasi
+tersebut maka dilakukan estimasi nilai wajar dikurangi dengan biaya untuk menjual aset tersebut. Terdapat indikasi-
+indikasi dalam menilai kemungkinan nilai suatu aset tidak berwujud diturunkan, antara lain:
+1) Sumber informasi eksternal
+a) Nilai pasar dari aset tidak berwujud cenderung menurun secara signifikan lebih dari yang diekspektasikan
+akibat berlalunya waktu atau penggunaan normal;
+b) Terjadi perubahan signifikan yang berpengaruh negatif dalam waktu dekat di bidang teknologi, pasar,
+ekonomi, atau hukum terhadap kegiatan operasi Perusahaan;
+c) Tingkat suku bunga pasar atau tingkat kembalian investasi pasar mengalami kenaikan selama periode
+berjalan dan kenaikan tersebut akan berpengaruh secara material terhadap tingkat diskonto untuk
+menghitung nilai aset tidak berwujud dan menurunkan nilai wajar aset tersebut dikurangi biaya untuk menjual
+aset tersebuti
+d) Jumlah tercatat dari aset tidak beMujud secara bersih lebih besar dibandingkan kapitalisasi pasarnya.
+2) Sumber informasi internal
+Tersedianya bukti dari laporan internal yang mengindikasikan bahwa manfaat ekonomis dari aset tidak berwujud
+akan menurun, jika terdapat indikasi kemungkinan turunnya nilai aset tidak benvujud, maka harus mengkaji ulang
+sisa umur manfaat aset tidak beruyujud tersebut.
+Nilai wajar dikurangi biaya untuk menjual adalah jumlah yang bisa diperoleh dari penjualan aset tidak berwujud antara
+pihak-pihak yang berkeinginan melakukan transaksi dengan wajar, dikurangi dengan biaya penjualan aset tersebut.
+Penghentian pengakuan aset tidak berwujud dan mengakui keuntungan atau kerugian dalam laporan laba rugi jika
+aset tersebut dilepaskan atau ketika tidak ada lagi manfaat ekonomi masa depan yang diharapkan dari
+penggunaannya dan pelepasannya.
+k. Kewaiiban Jangka Pendek dan Jangka Panjang
+Kewajiban jangka pendek adalah kewajiban yang harus dilunasi dalam waktu paling lama 12 bulan setelah tanggal
+laporan keuangan. Kewajiban jangka pendek timbul dari berbagai transaksi, misalnya, pembelian barang jasa secara
+kredit, kewajiban pajak yang masih terutang, biaya lainnya yang masih terutang, pinjaman jangka panjang yang akan
+.jatuh tempo dalam waktu 12 bulan setelah tanggal laporan keuangan, dan pinjaman jangka pendek dari lembaga
+keuangan. Kewajiban jangka panjang adalah kewajiban yang harus dilunasi dalam waktu lebih dari 12 bulan setelah
+tanggal laporan keuangan. Kewajiban jangka panjang timbul dari berbagai transaksi, misalnya, pinjaman dari
+pemerintah dan pinjaman jangka panjang dari lembaga keuangan.
+Kewajiban jangka pendek diakui dalam neraca jika kemungkinan pengeluaran sumber daya yang mengandung
+manfaat ekonomi akan dilakukan untuk menyelesaikan kewajiban yang jatuh tempo tidak lebih dari 1 tahun dan
+jumlah yang harus diselesaikan dapat diukur dengan andal. Seluruh kewajiban yang akan jatuh tempo dalam waktu 1
+lahun termasuk kewajiban jangka panjang yang telah iatuh tempo, tetapi belum dibayar, dicatat sebagai kewajiban
+jangka pendek. Kewajiban jangka pendek harus dinyatakan dengan lengkap agar tergambar seluruh kewajiban
+Perusahaan yang terutang pada akhir tahun. Semua kewajiban yang telah diketahui harus dicatat. Kewajiban jangka
+panjang diakui dalam neraca jika kemungkinan pengeluaran sumber daya yang mengandung manfaat ekonomi akan
+dilakukan untuk menyelesaikan kewajiban yang.iatuh tempo lebih dari I tahun dan jumlah yang harus diselesaikan
+dapat diukur dengan andal.
+Kewajiban jangka pendek dicatat sebesar kas atau setara kas yang diterima atau sebesar nilaiwajar dari aset non kas
+yang diterima sebagai penukar dari kewajiban pada saat terjadinya. Kewajiban jangka panjang dicatat sebesar kas
+atau setara kas yang diterima atau sebesar nilai wajar dari aset non kas yang diterima sebagai penukar dari kewajiban
+pada saat terjadinya.
+12
+--P66--
+PERUSAHAAN UMUM DAERAH PERKEBUNAN KAHYANGAN JEMBER
+CATATAN ATAS LAPORAN KEUANGAN
+31 DESEMBER 2023 DAN 2022
+(Angka dalam tabel disajikan dalam Rupiah, kecuali dinyatakan lain)
+2 KEBIJAKAN AKUNTANSI (lanjutan)
+l. KewajibanDiestimasi
+Kewaiiban diestimasi adalah kewajiban yang waktu atau jumlahnya belum pasti. Kewajiban konstruktif adalah
+kewajiban yang timbul dari kegiatan operasi Perusahaan yang dalam hal ini:
+1) Berdasarkan praktek baku masa lalu, kebijakan yang telah dipublikasi atau pernyataan baru yang cukup spesifik,
+Perusahaan telah memberikan indikasi kepada pihak lain bahwa Perusahaan akan menerima tanggung jawab
+tertentu;
+2) Akibalnya telah menimbulkan ekspektasi kuat dan sah kepada pihak la,n bahwa Perusahaan akan melaksanakan
+tanggung jawab tersebut.
+Kewajiban diestimasi diakui jika ( l ) Perusahaan memiliki kewajiban kini sebagai hasil dari peristiwa masa lalu dan (2)
+kemungkinan besar terjadi bahwa Perusahaan akan disyaratkan untuk membayar pada saat penyelesaian.
+Mengakui kewajiban diestimasi sebagai kewajiban dalam neraca dan mengakui jumlah dari kewa.iiban diestimasi
+sebagai beban dalam laporan laba rugi kecuali jika merupakan unsur perolehan nilai aset maka menambah nilai aset
+tersebut. Kewajiban kini yang timbul dari peristiwa masa lalu berarti bahwa Perusahaan tidak memiliki alternatif lain
+untuk menyelesaikan kewajiban tersebut. Hal ini dapat terjadi ketika kewajiban dipaksakan secara hukum, alau
+Perusahaan memiliki kewaiiban konstruktif yang telah menimbulkan ekspektasi yang kuat dan sah kepada pihak lain
+sehingga Perusahaan harus melaksanakan kewajiban tersebut.
+Jumlah yang diakui sebagai kewajiban diestimasi adalah hasil estimasi terbaik pengeiuaran untuk menyelesaikan
+kewajiban kini pada tanggal pelaporan.
+Jika kewajiban yang diestimasi menyangkut populasi yang terdiri dari beberapa unsur maka kewajiban ditentukan
+dengan menimbang berbagai kemungkinan hasil berdasarkan probabilitas terkait. Jika kewajiban yang diukur hanya
+satu maka kemungkinan hasil yang probabilitasnya paling tinggi merupakan estimasiterbaik dari kewajiban tersebut.
+Jika dampak nilai waktu uang cukup material maka jumlah kewajiban diestimasi adalah nilai kini dari perkiraan
+pengeluaran yang diperlukan untuk menyelesaikan kewajiban. Tingkat diskonto adalah tingkat diskonto sebelum pajak
+yang mencerminkan nilai pasar atas nilai waktu uang. Jika sebagian atau seluruh pengeluaran untuk menyelesaikan
+kewaiiban diestimasi diganti oleh pihak ketiga maka penggantian itu diakui hanya pada saat timbut keyakinan bahwa
+penggantian pasti diterima pada saat Perusahaan menyelesaikan kewaiibannya. Pjutang penggantian akan disajikan
+dalam neraca sebagai aset dan tidak boleh saling hapus terhadap kewajiban diestimasi yang ada. Dalam laporan laba
+rugi, melakukan saling hapus atas penggantian dari pihak lain terhadap beban yang berkaitan dengan kewajiban
+diestimasi tersebut.
+Perusahaan membebankan kewajiban diestimasi hanya untuk pengeluaran atas kewajiban diestimasi yang telah
+diakui pada awalnya. Perusahaan menelaah kewajiban diestimasi pada setiap tanggal pelaporan dan melakukan
+penyesuaian untuk mencerminkan estimasi terbaik yang disyaratkan untuk menyelesaikan kewajiban pada tanggal
+pelaporan. Penyesuaian atas jumlah yang diakui sebelumnya, diakui di laporan laba rugi. Jika kewajiban diestimasi
+diukur pada nilai kini dari .jumlah kewajiban yang diharapkan disyaratkan untuk diselesaikan, maka penyesuaian
+diskonto harus diakui sebagai "biaya pinjaman."
+m. KewalibanKontijensi
+Kewajiban potensial yang timbul dari ke.iadian masa lalu dan keberadaannya menjadi pasti dengan terjadi atau tidak
+terjadinya satu peristiwa atau lebih pada masa depan yang tidak sepenuhnya berada dalam kendali Perusahaan; atau,
+kewajiban kini yang timbul sebagai akibat peristiwa masa lalu tetapi tidak diakui karena tidak terdapat kemungkinan
+besar mengeluarkan sumber daya yang mengandung manfaat ekonomis untuk menyelesaikan kewajibannya; atau,
+jumlah kewajiban tersebut tidak dapat diukur secara andal. Kewajiban kontinjensi tidak boleh diakui sebagai
+kewajiban.
+n. Ekuitas
+Ekuitas merupakan bagian hak pemilik modal (Pemedntah Kabupaten Jember) dalam Perusahaan yaitu selisih antara
+aset dan kewajiban yang ada dan dengan demikian tidak merupakan ukuran nilai jual pada Perusahaan. Pada
+dasarnya ekuitas berasal dari investasi pemilik modal dan hasil usaha Perusahaan serta pihak lain. Ekuitas akan
+berkurang terutama dengan adanya penarikan kembali penyertaan oleh pemilik modal, pembagian keuntungan, atau
+karena kerugian.
+Ekuitas pada Perusahaan terdiri dari: penyertaan modal dari Pemerintah Kabupaten Jember (misalnya: modal dasar,
+modal disetor), dan laba (rugi) tahun berjalan.
+--P67--
+PERUSAHAAN UMUM DAERAH PERKEBUNAN KAHYANGAN JEMBER
+CATATAN ATAS LAPORAN KEUANGAN
+31 DESEMBER 2023 DAN 2022
+(Angka dalam tabel disajikan dalam Rupiah, kecuali dinyatakan lain)
+2. KEBIJAKAN AKUNTANSI (lanjutan)
+n. Ekuitas (lanjutan)
+o
+Penyertaan merupakan setoran dana dari Pemerintah Pusat atau Pemerintah Kabupaten Jember kepada
+Perusahaan, ataupun penyerahan hasil kegiatan/proyek untuk mendukung Perusahaan, sedangkan cadangan
+merupakan pemindahan dari laba yang dibagi untuk tujuan pendanaan atas kegiatan tertentu.
+Pendapatan
+Pendapatan adalah arus masuk bruto dari manfaat ekonomi yang timbul dari aktivitas normal Perusahaan selama
+sualu periode yang menghasilkan arus kas masuk, bertambahnya aset, dan kenaikan ekuitas yang tidak berasal dari
+kontribusi penanam modal, sebagaimana disajikan di dalam laporan laba rugi meliputi:
+1) Pendapatan usaha yang merupakan pendapatan hasil penjualan produksi tahun ini dan tahun lalu;
+2) Pendapatan non usaha yang berasal dari hasil penjualan kayu dan getah tanah, hasil tanaman non pokok, bunga
+deposito/tabungan, dsb.
+Perusahaan harus mengakui pendapatan dari suatu penjualan barang hasil produksi jika semua kondisi-kondisi
+sebagai berikut telah terpenuhi, antara Iain:
+1) Perusahaan telah mengalihkan risiko dan manfaat yang signifikan dari kepemilikan barang kepada pembeli;
+2) Perusahaan tidak mempertahankan atau meneruskan baik keterlibatan manajerial sampai kepada tingkat di
+mana biasanya diasosiasikan dengan kepemilikan maupun kontrol efektif atas barang yang terjual;
+3) Jumlah pendapatan dapat diukur secara andal;
+4) Ada kemungkinan besar manfaat ekonomi yang berhubungan dengan transaksi akan mengalir masuk ke dalam
+Perusahaan; dan
+5) Biaya yang telah atau akan terjadi sehubungan dengan transaksi dapat diukur secara andal.
+Pada umumnya, pengalihan risiko dan manfaat dari kepemilikan terjadi bersamaan dengan pengalihan siatus legal
+atau penyerahan kepemilikan kepada pembeli. Pendapatan non usaha diakui jika timbul hak untuk memperoleh
+pendapatan tersebut dan dapat diukur nilainya dengan andal.
+Seluruh pendapatan baik pendapatan usaha maupun pendapatan non usaha diukur berdasarkan nilai wajar atas
+pembayaran yang diterima atau masih harus diterima. Nilai wajar tersebut tidak termasuk jumlah diskon penjualan dan
+potongan volume.
+Beban
+Penurunan manfaat ekonomis selama suatu periode akuntansi yang menghasilkan arus kas keluar, berkurang aset
+atau terjadinya kewajiban yang berakibat penurunan ekuitas yang tidak menyangkut pembagian kepada penanam
+modal, meliputi:
+1) Beban harga pokok pendapatan, merupakan beban operasional dan pemeliharaan yang berkaitan dengan
+kegiatan tanaman/proses pengolahan produksi terdiri dari :
+a) Beban eksploitasi atas budidaya kopi, karet, kakao, dan cengkeh.
+b) Beban eksploitasi lidak langsung atas budidaya kopi, karet, kakao, dan cengkeh.
+c) Beban overhead atas kebun dan beban penyusutan.
+2) Beban Umum dan Administrasi, terdiri dari:
+Beban gaji dan upah;
+Beban iuran dan sumbangan;
+Beban pajak dan retribusi;
+Beban keamanan;
+Beban penerangan;
+Rupa-rupa beban umum merupakan pengeluaran biaya umum lainnya dan lain-lain
+Beban diakui, dicatat, dan dilaporkan dalam periode terjadinya transaksi. Pembebanan yang bersifat periodik seperti
+gaji, listrik, sewa, asuransi, dan sebagainya harus dikaitkan dengan periode dimana pengeluaran tersebut menjadi
+beban, walaupun pembayarannya belum dilakukan ataupun telah dibayar di muka. Untuk keperluan pisah batas
+periode akuntansi, beban yang telah terjadi sebelum tanggal neraca walaupun belum dapat diketahui secara pasti
+jumlahnya, harus dicatat dan dilaporkan dengan cara estimasi yang wajar.
+Pengukuran beban menggunakan mala uang Rupiah berdasarkan nilai sekarang kas yang dikeluarkan dan atau akan
+dikeluarkan. Pengeluaran beban yang menggunakan mata uang asing, diukur dengan cara mengkonversinya ke mata
+uang Rupiah berdasarkan nilai tukar (kurs tengah Bank lndonesia) pada saat pengakuan biaya.
+p
+a
+b
+c
+d
+e
+f)
+14
+--P68--
+PERUSAHAAN UMUM DAERAH PERKEBUNAN KAHYANGAN JEMBER
+CATATAN ATAS LAPORAN KEUANGAN
+31 DESEMBER 2023 D AN 2022
+(Angka dalam tabel disajikan dalam Rupiah, kecuali dinyatakan lain)
+3. KAS DAN SETARA KAS
+Rincian saldo kas dan setara kas per tanggal 31 Oesember 2023 dan 2022
+Kas
+Bank
+PT Bank Tabungan Negara (Persero) Tbk
+PT Bank Pembangunan Daerah Jawa Timur Tbk (Bank Jatim)
+PT Bank Negara lndonesia (Persero)Tbk
+PT Bank Rakyat lndonesia (Persero) Tbk
+PT Bank Mandiri (Persero) Tbk
+Deposito berjangka
+PT Bank Tabungan Negara (Persero) Tbk
+J um lah
+4. PIUTANG USAHA
+Rincian saldo piutang usaha per tanggal 31 Desember 2023 dan 2022
+Karet
+Kopi Bubuk dan Goreng
+Cadangan Penyisihan Piutang
+Karet
+Kopi Bubuk dan Goreng
+J um lah
+5.363.646.750
+716.990.950
+5.554.642
+360.217
+1.,+48.303.310
+6.458.609.096
+1 19.639.584
+5.670.015
+360.217
+296.131
+31 Desember 2023 31 Desember 2022
+27a.9A2.195 142.368.122
+2.100.000.000
+7.813.838.064
+31 Desember 2023
+8.826.943.165
+31 Desember 2022
+185.040.000
+152.996.200
+1.546.500.000
+181 .385.950
+338.036.200
+(4't.2s7 .724)
+1.727.885.950
+(1 .255.610.543)
+(42.645.892\
+296.778.476 429.629.515
+Piutang karet sebesar Rp. 185.040.000 merupakan piuatang atas penjualan karet pada bulan Desember 2023 kepada CV
+Agung Jaya Makmur Surabaya sedangkan saldo piutang kopi bubuk dan goreng per tanggal 31 Desember 2023 sebesar
+Rp152.996.200 terdapat piutang yang tidak bisa dilacak debiturnya sebesar Rp95.141.200. saldo piutang tersebut terjadi pada
+tahun 2013 sampai dengan 2016. Berdasarkan surat Nomor 0516111320171012023 Tanggal 2 Matet 2023, Perusahaan telah
+mengajukan permohonan kepada Bupati Jember agar piutang tersebut dihapus.
+Saldo piutang karet atau piutang usaha kepada PT Nanggala Mitra Lestari sebesar Rp'1.546.500.000 merupakan sisa tagihan
+dari hasil penjualan karet sebanyak 159.111 kilogram pada tahun 2013 yang belum terselesaikan hingga tanggal 3'l Desember
+2022. Berdasarkan Akta Notaris lrwan Rosman, SH., M.Kn., Nomor 57 Tanggal 14 Februari 2018, telah terjadi kesepakatan
+bahwa PT Nanggala Mitra Lestari bersedia untuk melakukan pembayaran cara angsuran bulanan dengan mengeluarkan BG
+yang jatuh tempo setiap tanggal 28 sebesar Rp300.000.000 dan berakhir pada tanggal 28 April 2019, namun, sampai dengan 31
+Desember 2021, piutang tersebut masih belum lunas. Berdasarkan surat nomor 05161111048171012021 tanggal 22 Desember
+2021, Perusahaan telah melakukan penagihan namun belum ada respon dari PT Nanggala Mitra Lestari.
+Dalam tahun 2022, PT Nanggala Mitra Lestari telah melakukan pembayaran sebesar Rp950.000.000 sehingga saldo piutang
+usaha kepada PT Nanggala Mitra Lestari per tanggal 31 Oesember 2022 menjadi Rp1.546.500.000.
+Berdasarkan surat Direktur Utama PT Nanggala Mitra Lestari tanggal 14 Maret 2023 tentang Kesanggupan l\,4embayar, PT
+Nanggala Mitra Lestari akan melakukan pembayaran pada bulan April - Desember 2023 sebesar Rp1.546.500.000. Surat
+tersebut untuk menindaklanjuti surat dari Perusahaan dengan Nomor 0516111431710/2023 Tanggal 5 Januari 2023 tentang
+Hutanq PT Nanggala Mitra Lestari dan pada tahun 2023 piutang sebesar Rp. 1.546.500.000 telah terbayar semuanya
+--P69--
+PERUSAHAAN UMUM DAERAH PERKEBUNAN KAHYANGAN JEMBER
+CATATAN ATAS LAPORAN KEUANGAN
+31 DESEMBER 2023 DAN 2022
+(Angka dalam tabel disajikan dalam Rupiah, kecuali dinyatakan lain)
+Karyawan
+Piutang biaya kemitraan sengon
+Penyisihan Kerugian Piutang:
+Karyawan
+Persediaan Hasil Produksi
+Barang Jadi/ Siap Jual
+Karet
+Kopi
+Kopi Bubuk
+Barang dalam Proses
+Karet
+Persediaan Bahan dan Barang
+Bahan Makanan/Kopi, Kelontong
+Bahan Bakar dan Pelumas
+Bahan Pembungkus
+Bahan Pupuk dan Kimia
+Kayu Bakar
+Alat Tulis Kantor
+Bahan Bangunan
+AlavPerkakas Kebun dan Bengkel
+Onderdil Mesin dan Perlengkapan
+Bahan/Barang Rupa-rupa
+Cat dan Minyak Cat
+Alat Lislrik dan Perlengkapan
+Sparepart Kendaraan
+lnstalasi Pengolahan
+AIat Ukur dan Timbangan
+Saluran Air, Uap, dan Packing
+209.576.700
+647.842.060
+'11.091.054
+690.057.790
+561.989.928
+60.318.943
+31 Desember 2023 31 Desember 2022
+392.940.'162
+(348.780.052) (348.780.052)
+J um lah 55.074.885 44.160.110
+Piutang karyawan sebesar Rp348.864.982 terjadi sejak tahun 20'16 akibat hilangnya slok persediaan kopi sangria/bubuk
+sebanyak 'l 'l .916 kilogram di gudang penyimpanan yang merupakan tanggung jawab ketiga karyawan dalam menjalankan tugas
+masing-masing. Piutang tersebut telah diputuskan oleh Pengadilan Tipikor Surabaya dan telah mempunyai kekuatan hukum
+yang tetap berdasarkan Petikan Putusan Pengadilan Negeri Surabaya Nomor 258/Pid.Sus-TPK2017/PN SBY Tanggal 27
+Pebruari 2018 dan Nomor 157/Pid.Sus-TPI(2o18/PN Sby Tanggal 15 November 2018.
+Berdasarkan surat Nomor 05/61 1 11468n1O12O22 fanggal 27 Desembet 2022 dan Nomor 05/611/320 nfit2123langgal2 Marel
+2023, Perusahaan telah mengajukan permohonan kepada Bupati Jember agar piutang tersebut dihapus.
+Pada piutang karyawan sebesar Rp353.064.982 terdapat piutang yang tidak bisa diselesaikan oleh karyawan sebesar
+Rp348.864.982, maka saldo tersebut memenuhi syarat untuk dihapus. Sedangkan sebesar Rp.4.20o.OOO merupakan piutang
+atas kelebihan pembayaran gaii karyawan an nama Masbuntaro dan akan diangsur mulai bulan Januari 2024 sebesar Rp.
+500.000 tiap bulan
+Piutang kemilraan sengon sebesar Rp50.789.955 adalah piutang atas pembayaran biaya inventarisasi pohon sengon kemitraan
+dengan PT. Miskat Alam lnternasional
+6. PERSEDIAAN
+Rincian saldo persediaan per tanggal 3'l Desember 2023 dan 2022:
+31 Desember2o23 31 Desember 2022
+353.064.982
+50.789.955
+868.509.8'14 1.312.366.661
+1 .539 .322.462 1.170.782.509
+178
+102
+125
+67
+45
+25
+7
+12
+'18
+3
+708
+599
+206
+106
+112
+560
+080
+675
+872
+175
+000
+003
+729
+'t43
+985
+035
+233
+644
+026
+o27
+832
+068
+105
+449
+906
+659
+676
+14.571
+183.784.346
+143.504.278
+141.663.4U
+103.309.606
+42.802.736
+25.593,157
+14.561.342
+1 1.975.300
+10.277 .67 5
+2.820.718
+1.429.208
+1.423.359
+1.056,859
+715.827
+350.000
+14.571
+589.416.540 685.282.466
+5. PIUTANG NON USAHA
+Rincian saldo piutang non usaha per tanggal 31 Desember 2023 dan 2022'.
+--P70--
+PERUSAHAAN UMUM DAERAH PERKEBUNAN KAHYANGAN JEMBER
+CATATAN ATAS LAPORAN KEUANGAN
+31 DESEMBER2023 DAN 2022
+(Angka dalam tabel disajikan dalam Rupiah, kecuali dinyatakan lain)
+Jumlah
+6. PERSEDIAAN - lanjutan
+Bunga Deposito
+Jasa Giro
+Bunga Tabungan
+Jumlah
+8. ASETTETAP
+Rincian saldo aset tetap per tanggal 31 Desember 2023 dan 2022
+Perusahaan belum mengakui jumlah persediaan kopi dan bunga cengkeh (produk agrikultur) yang masih di pohon dan belum
+dipanen, sehingga nilai persediaan kopi dan bunga cengkeh yang tercatat belum termasuk nilai produk agrikultur. Adapun biaya-
+biaya eksploitasi tanaman menghasilkan menjadi beban produk yang dipanen yang akhirnya menjadi bagian dari harga produk
+iadi kopi dan cengkeh 1adi,
+2.997.248.816 3.168.431.636
+31 Desember 2022
+6.904.1 10
+72.133
+5.596
+6.981.839
+7, PENDAPATAN YANG MASIH HARUS DITERIMA
+Rincian saldo pendapatan yang masih harus diterima per tanggal 31 Desember 2023 dan 2022:
+31 Desember2023
+6.905.1 10
+789.279
+4.760
+7.699.149
+31 Desember2023
+Saldo Awal Penambahan Pengurangan Saldo Akhir
+Biava Perolehan
+Tanaman Menghasilkan
+Tanaman Belum Menghasilkan
+Persemaian dan Pembibitan
+Bangunan Rumah
+Bangunan Perusahaan
+Mesin dan lnstalasi
+Jalan, Jembatan, dan Saluran Air
+Alat Pengangkutan
+Alat Perkebunan dan lnventaris Kecil
+Akumulasi Penvusutan
+Tanaman Menghasilkan
+Bangunan Rumah
+Bangunan Perusahaan
+Mesin dan lnstalasi
+Jalan, Jembatan, dan Saluran Air
+Alat Pengangkutan
+Alat Perkebunan dan Inventaris Kecil
+Nilai Buku
+23.701 .914.554
+14.838.386.900
+413.963.3'12
+2.484. 155.655
+4.872.236.492
+9.987.679.968
+3.035.552.003
+3.461.097.379
+707.010.962
+2.254.984.831
+1.790.553.027
+I 50.989.1 69
+0
+n
+266.273.325
+0
+50.500.000
+6.900.046
+321.200.772
+2.422.326.260
+345.801.553
+0
+0
+0
+0
+0
+0
+25.635.698.613
+14.206.6'13.667
+219.150.928
+2.484.155.655
+4.872.236.492
+10.253.953.293
+3.035.552.003
+3.51 1.597.379
+71 3.91 1 .008
+63.501.997.225 4.520.200.398 3.089.328.585 64.932.869.038
+7.178.657.741
+2.381.574.359
+4.265.093.841
+8.985.487.686
+2.814.606.227
+3.461.097.328
+687.799.810
+966.843.979
+46.107.366
+127.734.354
+233.867.844
+57.716.415
+0
+6.784.791
+142.436.501 8.003.065.219
+2.427.681.725
+4.392.828.195
+9.219.355.530
+2.872.322.642
+3.461.097.328
+694.584.60'l
+0
+0
+0
+0
+U
+0
+29.774.316.992 1.439.054.749 142.436.501 31 .070.935.240
+33.727.680.233 33.861.933.798
+--P71--
+PENUSANAAN UMUM DAERAH PERKEBUNAN KAHYANGAN JEMBER
+CATATAN ATAS LAPORAN KEUANGAN
+31 DESEMBER 2023 DAN 2022
+(Angka dalam tabel disajikan dalam Rupiah, kecuali dinyatakan lain)
+8. ASET TETAP (lanjutan)
+3'l Desember 2022
+Saldo Awal Penambahan Pengurangan Saldo Akhir
+Biava Perolehan
+Tanaman Menghasilkan
+Tanaman Belum Menghasilkan
+Persemaian dan Pembibitan
+Bangunan Rumah
+Bangunan Perusahaan
+Mesin dan lnstalasi
+Jalan, Jembatan, dan Saluran Air
+Alat Pengangkutan
+Alat Perkebunan dan lnventaris Kecil
+Akumulasi Penvusutan
+Tanaman Menghasilkan
+Bangunan Rumah
+Bangunan Perusahaan
+Mesin dan lnstalasi
+Jalan, Jembatan, dan Saluran Air
+Alat Pengangkutan
+Alat Perkebunan dan lnventaris Kecil
+Nilai Buku
+22.916.102.635
+15.670.807.400
+49.016.537
+2.484.155.655
+4.872.236.492
+9.9'19.925.568
+3.035.552.003
+3.461.097.379
+690.581.149
+1.344.834.861
+1.456.075.218
+395.496.564
+0
+0
+67.754.400
+0
+0
+16.429.81 3
+559.022.942
+2.288.495.718
+30.549.789
+0
+0
+0
+0
+0
+n
+23.701 .914.554
+14.838.386.900
+413.963.312
+2.484.155.655
+4.872.236.492
+9.987.679.968
+3.035.552.003
+3.461 .097.379
+707.010.s62
+63.O99.474.818 3.280.590.856 2.878.068.449 63.501.997.225
+6.509.413.236
+2.306.527.005
+4.125.112.932
+8.735.091 .712
+2.751.451 .017
+3.461.097.328
+684.992.417
+888.668.787
+75.047.354
+139.980.909
+250.395.974
+63.155.210
+n
+2.807.393
+219.424.282 7.178.657.741
+2.38't.574.359
+4.265.093.841
+8.985.487.686
+2.814.606.227
+3.461.097.328
+687.799.810
+0
+0
+0
+0
+0
+0
+28.573.685.647 1.420.055.627 219.424.282 29.774.316.992
+34.525.789.171 33.727.680.233
+Penambahan biaya perolehan atas tanaman menghasilkan per tanggal 3'l Desember 2023 dan 2022 sebesar Rp2.254.984.831
+dan Rp1.344.834.861 berasal dari perpindahan tanaman karet yang sebelumnya diklasifikasikan sebagai tanaman belum
+menghasilkan.
+Pengurangan biaya perolehan atas tanaman menghasilkan per tanggal 31 Desember 2023 dan 2022 sebesar Rp321 .200.772
+dan Rp559.022.942 berasal dari beberapa tanaman menghasilkan yang mengalami kematian, antara lain:
+31 Desember2123 31 Desember2l22
+Kopi
+Karet
+Cengkeh
+Biaya eksploitasi tak langsung
+Biaya pemeliharaan
+Jumlah
+Perpindahan klasifikasi tanaman karet menjadi tanaman menghasilkan
+Tanaman yang mati
+Penggantian tanaman sengon (tahun tanam 2019, KSU)
+Jumlah
+87.247.815
+233.850.364
+102.593
+302.047.041
+256.404.110
+571.791
+Jumlah 321.200.772 559.O22.942
+Penambahan biaya perolehan atas tanaman belum menghasilkan per tanggal 31 Desember 2023 dan 2022 sebesar
+Rp'l . 790. 553 .027 dan Rp 1 .456. 075 .21 I ber asal dari:
+31 Desember 2023 31 Desember 2022
+1.119.344.847
+671.208.180
+845.913.004
+610.162.214
+1.790.553.027 1.456.O75.218
+Pengurangan biaya perolehan atas tanaman belum menghasilkan per tanggal 31 Desember 2023 dan 2022 sebesar
+Rp2.422.326.260 dan Rp2.288.495. 7 1 8 berasal da ri :
+31 Desember2023 31 Desember2022
+2.254.984.831
+167.341.429
+0
+1.344.834.861
+943.660.857
+0
+2.422.326.260 2.288.495.718
+--P72--
+PERUSAHAAN UMUM DAERAH PERKEBUNAN KAHYANGAN JEMBER
+CATATAN ATAS LAPORAN KEUANGAN
+3.I DESEMBER 2023 DAN 2022
+(Angka dalam tabel disajikan dalam Rupiah, kecuali dinyatakan lain)
+8. ASET TETAP (lanjutan)
+Penambahan biaya perolehan atas persemaian dan pembibitan per tanggal 31 Desember 2023 dan 2022 sebesar
+Rpl50.989.169 dan Rp395.496.564 merupakan biaya pemeliharaan dan alokasi biaya eksploitasi tak langsung sedangkan
+pengurangan biaya perolehan atas persemaian dan pembibitan per tanggal 31 Desember 2023 dan 2022 sebesar
+Rp345.801.553 dan Rp30.549.789 merupakan biaya untuk menplam, permajaan dan biaya bibit yang mati.
+Pada tanggal 28 Januati 2022, Perusahaan telah melayangkan surat kepada Kepala Kantor BPN/ATR Kabupaten Jember nomor
+011611.21093n rc12022 tentang Permohonan Keterangan Pendaftaran Tanah HGU agar pihak Kantor BPN/ATR Kabupaten
+Jember bersedia menerbitkan Surat Keterangan Pendaftaran Tanah atas 2 HGU untuk Kebun Sumbertenggulun, 2 HGU untuk
+Kebun Sumberpandan, 2 HGU untuk Kebun Gunungpasang, dan 1 HGU untuk Kebun Kalimrawan. Hinggi berakhirnya audit,
+belum ada tindak lanjut.
+Terdapat aset berupa lahan tanah yang belum didukung dengan bukli kepemilikan yang sah atau belum memenuhi persyaratan
+yuridis (sertifikat) anlara lain: (1) lahan sebagai lokasi kantor direksi dan 7 rumah dinas seluas 9.616 meter persegi yang
+berlokasi di Jalan Gajah Mada No. 245, Jemberi (2) lahan sebagai lokasi rumah dinas seluas 270 meter persegi yang berlokasi
+di Jalan Gaiah Mada Xvlll No. 2, Jember; dan (3) Iahan sebagai lokasi rumah dinas seluas 280 meter persegi yang Oerlokas; ai
+Jalan cajah Mada XVlll Nomor 4, Jember.
+Berdasarkan informasi dari Kanlor Pertanahan Jember, tanah yang dikuasai oleh Perusahaan masih atas nama pemerintah
+Daerah Kabupaten Jember sehingga untuk pengurusan tanah tersebut harus melalui (dilakukan oleh) pemerintah Daerah
+Kabupaten Jember. Perusahaan telah menelusuri dokumen kepemilikan atas tanah yang dikuasai oleh perusahaan ke Kantor
+Kelurahan Kaliwates dan diperoleh informasi bahwa sebagian tanah berasal dari (1) Tanah C. Nomor 769 persil 96 atas nama
+Mr. Genier Riyanto seluas 500 meter persegi dan (2) Tanah C Nomor 66 persil 96 atas nama H. Anwari Abdullah seluas .13.600
+meter persegi. Untuk lanah rumah dinas di Jalan Gajah Mada berasal dari Tanah C Nomor 964 persil 140 kelas D.l atas nama
+Kusdiadi seluas 500 meter persegi dan Tanah C Nomor 965 persil 140 Klas D.l atas nama Kandar seluas 2Bo meter persegi.
+Selanjutnya, untuk keperluan administrasi, dari Kantor Kelurahan Kaliwates diperoleh surat keterangan domisili, namun dari
+Pemerintah Kabupaten Jember (Bagian Perlengkapan) belum diperoleh bukti-bukti/dokumen peralihan hak dari pemilik tersebut
+di atas. Perusahaan masih mengupayakan penyelesaian sertifikasi tanah tersebut.
+Penambahan biaya perolehan atas mesin dan instalasi per tanggal 31 Desember 2023 sebesar Rp263.973.325 merupakan
+biaya perbaikan mesin crepe mangel di Kebun Sumberwadung dan kebun Gunungpasang sedangkan penambahan biaya
+perolehan atas mesin dan instalasi per tanggal 3'l Desember 2022 sebes Rp67.754.4OO merupakan biaya perbaikan mesin
+crepe mangel ldi Kebun sumberwadung. Penambahan kendaraan tahun 2023 merupakan biaya perbaikan kendaraan yang
+dikapitalsiasi sebesar Rp. 50.500.000 dan penambahan alat inventaris kecil tahun 2023 merupakan pembelian komputer Kantor
+direksi Rp. 6.900.000
+Saldo beban penyusutan pada tahun 2023 dan 2022 dialokasikan ke akun-akun sebagai bedkut:
+3'l Desember 2023 31 Desember 2022
+Biaya Perolehan atas Tanaman Belum Menghasilkan
+Biaya Perolehan atas Persemaian dan Pembibitan
+Beban Pokok Pendapatan (lihat Catatan 19)
+Beban Administrasi dan Umum (lihat Catatan 20)
+39.439.101
+2.017.080
+1.352.402.267
+28.984.550
+41.114.275
+2.321.147
+1 .349 .494 .191
+27.126.014
+Jumla h 1.422.842.998 1.420.055.627
+Berdasarkan hasil penelaahan manajemen, tidak terdapat kejadian atau perubahan keadaan yang mengindikasikan adanya
+penurunan nilai aset tetap pada tanggal 31 Desember 2023 dan 2022.
+Perusahaan tidak melindungi aset tetap pada tanggal 31 Desember 2023 dan 2022 melalui asuransi perlindungan.
+--P73--
+PENUS*IAAN UMUM DAERAH PERKEBUNAN KAHYANGAN JEMBER
+CATATAN ATAS LAPORAN KEUANGAN
+31 DESEMBER 2023 DAN 2022
+(Angka dalam tabeldisajikan dalam Rupiah, kecualidinyatakan lain)
+9. BEBAN DITANGGUHKAN
+Beban ditangguhkan merupakan biaya yang diperlukan untuk memperpanjang masa berlaku Hak Guna Usaha (HGU) atas lahan
+yang dikelola oleh Perusahaan. Pemilik HGU atas lahan tersebut adalah Pemerintah Daerah Kabupaten Jember.
+Rincian saldo beban ditangguhkan per tanggal 31 Desember 2O23 dan 2022:
+31 Desember 2023 31 Desember 2022
+Pengurusan Hak Guna Usaha
+Amortisasi
+Perpanjangan Hak Guna Usaha
+Jumlah
+Amortisasi atas beban ditangguhkan per tanggal 31 Desember 2023 dan 2022
+Saldo Awal
+Pembebanan ke Beban Pokok Pendapatan (lihat Catatan 19)
+Penambahan Biaya Perolehan:
+Tanaman Belum Menghasilkan (lihat Catatan 8)
+Persemaian dan Pembibitan (lihat Catatan 8)
+130.897.225
+1.314.816.079
+2.368.182.434
+(2.237.285.20e)
+2.368.182.434
+(2.220.747.312)
+147.435.122
+1 .159.290.583
+1.306.725.705
+31 Desember2022
+2.204.209.415
+16.355.812
+169.678
+12.407
+Biaya
+Pengurusan
+31112t2023
+1.445.713.304
+31 Desember 2023
+2.220.747.312
+16.344.295
+181.948
+11.654
+Saldo Akhir 2.237.285.209 2.220.747.312
+Rincian biaya pengurusan, masa berlaku, akumulasi amortisasi, dan nilai sisa, pada tiap kebun per tanggal 31 Desembe r 2023
+Nama Kebun
+Biaya
+Pengurusan
+3111212022 Masa Berlaku Penambahan Pengurangan
+Sumberpandan
+Sumberpandan
+(Gunung Lantung)
+Sumbenruadung
+Gunungpasang
+Sumbertenggulun
+Kalimrawan
+1 .865.010.651
+343.438.250
+98.012.847
+34.294.152
+15.073.671
+12.352.863
+Mei 1995-2020
+Des 2010 - Des 2035
+Jan 1999 - 2034
+Mei 1995 - 2020
+Mei '1995 - 2020
+Mei 1995-2020
+369.766.754
+0
+0
+480.505.904
+296.863.371
+167.680.050
+0
+0
+0
+0
+0
+0
+2.234.777.405
+343.438.250
+98.012.847
+514.800.056
+311.937.042
+180.032.913
+Jumlah 2.368.182.434 1.314.816.079
+Rincian nilai akumulasi amortisasi pada tiap kebun per tanggal 31 Desember 2023
+Nama Kebun 3111212022 Penambahan
+n 3.682.998.513
+Pengurangan 31t12t2023
+Sumberpandan
+Sumberpandan
+Sumberwadung
+Gunungpasang
+Sumbertenggulun
+Kalimrawan
+Jumlah
+(1.865.010.651)
+(227.040.530)
+(66.975.445)
+(34.294.152)
+(15.073.671)
+(12.352.863)
+0
+(13.737.530)
+(2.800.367)
+0
+0
+0
+0
+0
+0
+0
+0
+0
+(1.865.010.651)
+(240.778.060)
+(6e.775.812)
+(34.294.152)
+(15.073.671 )
+(12.352.863)
+(2.220.747.312') (2.237.285.205)
+Nilai Buku 147.435.122
+(16.537.8s7) 0
+130.897.225
+--P74--
+PETUSAHAAN UMuM DAERAH PERKEBUNAN KAHYANGAN JEMBER
+CATATAN ATAS LAPORAN KEUANGAN
+31 DESEMBER 2023 DAN 2022
+(Angka dalam tabel disajikan dalam Rupiah, kecuali dinyatakan lain)
+9. BEBAN DITANGGUHKAN (lanjutan)
+Rincian biaya perpanjangan masa berlaku HGU sebesar Rp1.3'14.816.079 antara lain
+a) Pemeriksaan, Pengukuran, dan Pemetaan Bidang Tanah
+b) Rapat
+b) Transportasi
+c) Akomodasi
+d) lzin Lokasi
+e) Pembelian dan Pemasangan Patok Pembatas
+0 Perjalanan Dinas
+g) Makan dan Konsumsi
+h) Sewa Kendaraan
+i) Penerbitan Akta
+j) Sidang
+k) Dokumentasi
+l) Legalisir
+m) Cindera Mata
+n) Blanko, Fotokopi, dan Alat Tulis
+o) Honor
+Jumlah
+10. UTANG USAHA
+Rincian saldo utang usaha per tanggal 31 Desember 2023 dan 2022
+Jumlah
+736.486.023
+277.540.439
+62.540.070
+75.926.397
+37.617.076
+'15.251.000
+44.640.799
+13.619.'100
+10.000.000
+14.000.000
+5.100.000
+3.557.000
+3.080.300
+2.098.750
+12.709.125
+650.000
+CV Budidaya Motor
+UD Nadja Aulia
+SejatiJaya
+Bengkel Okay
+Wijaya Motor
+Rajawali Prima Elektronik
+Mitra Karya
+Jumlah
+11. PERPA^JAKAN
+a. Utang Pajak
+Rincian saldo utang pajak per tanggal 31 Desember 2023 dan 2022:
+Pajak Bumi dan Bangunan
+PPN Keluaran
+PPh Pasal 21
+PPh Pasal 23
+Jumlah
+31 Desember2023
+1.314.816.079
+31 Desember2022
+67.754.400
+14.000.000
+8.698.000
+7.627.000
+6.993.500
+4.700.000
+109.772.90A
+31 Desember 2022
+3.893.973.515
+339.579.994
+76.527.372
+6.108.942
+4.31 6.1 89.823
+6.882.300
+2.696.500
+8.211.225
+17.790.025
+31 Desember 2023
+4.101.435.153
+215.023.429
+5.709.839
+364.900
+4.322.533.321
+--P75--
+PERUSAHAAN UMUM DAERAH PERKEBUNAN KAHYANGAN JEMBER
+CATATAN ATAS LAPORAN KEUANGAN
+31 DESEMBER 2023 DAN 2022
+(Angka dalam tabel disajikan dalam Rupiah, kecuali dinyatakan lain)
+12. BIAYA YANG MASIH HARUS OIBAYAR
+Rincian saldo biaya yang masih harus dibayar per tanggal 31 Desember 2023 dan 2022:
+31 Desember 2023 31 Desember 2022
+Pesangon karyawan
+Listrik
+Air
+Telepon
+Lainnya
+I5. KEWAJIBAN IMBALAN PASCA KERJA
+Rincian saldo kewajiban imbalan pasca kerja per tanggal 31 Desember 2023 dan 2022'.
+31 Desember 2023
+909.709.543
+61.272.024
+2.173.O73
+1.233.930
+197.500
+265.160.964
+59.803.234
+5.935.514
+248.321
+25.197.500
+J um lah 974.586.070 356.345.533
+13. UTANG LAIN-LAIN
+Saldo utang lain-lain per 31 Desember 2023 dan 2022 sebesar Rp348.674.091 merupakan utang atas pembayaran Pendapalan
+Asli Daerah (PAD) kepada Pemerintah Daerah Kabupaten Jember berdasarkan nilai laba bersih yang telah dibukukan oleh
+Perusahaan pada tahun 2019.
+14. PENDAPATAN DITERIMA DI MUKA
+Saldo pendapatan diterima di muka per 31 Desember 2023 dan 2022 sebesar Rp2.185.101.662 dan Rp2.576.766.68'1
+merupakan pendapatan kemitraan sebelum Perusahaan mengalihkan risiko dan manfaat yang signiflkan dari kepemilikan
+barang kepada pembeli.
+Saldo Awal
+Penambahan:
+Beban lmbalan pada Tahun Berialan (lihat Catatan 20)
+Pengurangan:
+Pembayaran Pesangon Karyawan
+Saldo Akhir
+5.278.233.414
+392.081.206
+(120.265.200)
+5.051.351.584
+434.112.230
+(207.230.400)
+5.550.049.420
+Jumlah kewajiban manfaat karyawan merupakan pengakuan atas pesangon bagi karyawan non golongan dan harian tetap yang
+akan diperhitungkan (disesuaikan) setiap akhir tahun dan dihitung sesuai ketentuan dalam Perjanjian Kerja Bersama (PKB)
+antara pihak Perusahaan dan pekerja. Pengakuan dan pengukuran (perhitungan) atas kewajiban manfaat karyawan dilakukan
+sesuai kebijakan akuntansi: (1) Perusahaan mengakui beban dan utang atas pesangon karyawan yang telah memenuhi syarat
+SeSUai ketentuan, (2) Nilai kewajiban manfaat karyawan menggunakan nilai present val0e berdasarkan nilai diskonto pada
+obligasi milik Pemerintah Republik lndonesia sebesar 7%, yaitu, nilai pesangon saat ini dari masing-masing karyawan yang
+dihitung berdasarkan jangka waktu sesuai saat pensiun karyawan yang bersangkutan
+16. PENYERTAAN DARI PEMERINTAH KABUPATEN JEMBER
+Rincian saldo penyertaan dari Pemerintah Kabupaten Jember berdasarkan Peraturan Daerah Kabupaten Jember Nomor 2
+Iahun 2022 Tanggal 19 April 2022 lenlang Perusahaan Umum Daerah (Perumda) Perkebunan Kahyangan Jember per tanggal
+31 Desember 2022 dan 20211
+31 Desember2023 31 Desember 2022
+16.8a5.227 .715
+(870.868.102)
+16.885.227.715
+(870.868.102)
+16.014.359.613 16.014.359.613
+pada tanggal 16 Juni 2O14, Perusahaan mengembalikan hak pengelolahan tanah di Desa Ketajek kepada Pemerintah
+Kabupaten Jember seluas 4.775.622 meter persegi, dengan nilai buku pengurusan Hak Guna Bangunan sebesar
+RpB7O.B68.102, berdasarkan Keputusan Bupati Jember Nomor '188.45/25810'1212014 tentang Penghapusan dan Pelepasan
+Penyertaan Modal
+Dikurangi: Penghapusan dan Pelepasan Tanah Ketaiek
+Jumlah
+31 Desember 2022
+5.278.233.414
+--P76--
+PERUSAHAAN UMUM DAERAH PERKEBUNAN KAHYANGAN JEMBER
+CATATAN ATAS LAPORAN KEUANGAN
+31 DESEMBER 2023 OAN 2022
+(Angka dalam tabel disajikan dalam Rupiah, kecuali dinyatakan lain)
+Tanah Ketajek kepada Warga Melalui Koperasi Ketajek Makmur
+17. CADANGAN
+Rincian saldo cadangan per tanggal 31 Desember 2023 dan 2022
+Cadangan Umum
+Cadangan Sosial, Pendidikan, dan Keamanan
+Corporate Soc i al Responsi bi I ity
+Jumlah
+I8. PENDAPATAN
+Rincian saldo pendapatan tahun 2023 dan 2022
+1 1.557.332.820
+8.291.125.273
+10.805.223
+1'1.557.332.820
+9.064.526.405
+10.805.223
+31 Desember 2023
+19.859.263.3'16
+2023
+20.632.664.448
+Komoditas
+Karet
+Kopi
+Kopi Bubuk/Goreng
+Kayu Mahoni
+Kayu Karet
+Cengkeh
+Kayu Sengon
+Lada
+Non Komoditas
+Kemitraan Lahan
+Jumlah
+19. BEBAN POKOK PENDAPATAN
+Rincian saldo beban pokok pendapatan tahun 2023 dan 2022
+Persediaan Awal
+Beban Eksploitasi (Produksi)
+Beban Penyusutan (lihat Catatan 8)
+Beban Amortisasi (lihat Catatan 9)
+Tersedia untuk Dijual
+Persediaan Akhir
+Koreksi Harga Distribusi Kopi
+Jumlah
+Kopa
+Kopi Bubuk
+Cengkeh
+18.723.751.250
+3.725.577 .850
+1.962.045.360
+349.399.6'17
+641 .199.099
+638.882.147
+'144.506.306
+1.882.862
+23.676.258.550
+4.622.507.500
+1 .387.515.642
+675.855.856
+547 .17 5.586
+52.670.000
+0
+0
+0 'L943.178.675
+26.187.284.491 32.905.161 .809
+2023
+2.483.149.'169
+23.611.678.969
+1.547.184.6A7
+'16.537.897
+27.658.550.722
+(2.407.832.277)
+(142.509.400)
+30.649.792.490
+(2.483.149.123)
+(146.740.r 68)
+25.108.209.045 28.01S.903.199
+20222023
+Karet 17.153.294.318
+6.'175.613.083
+1.534.914.806
+244.386.838
+1A.412.125.342
+8.047.263.059
+'l .371 .447 .24A
+189.067.550
+Jumlah 25.108.209.O45 28.019.903.199
+Rincian beban pokok pendapatan per komoditi hasil produksi tahu n 2023 dan 2022:
+31 Desember 2022
+2022
+2.891.682.022
+26.392.260.465
+1.349.494.191
+16.355.812
+--P77--
+PEiTUSAHAAN UMUM DAERAH PERKEBUNAN KAHYANGAN JEMBER
+CATATAN ATAS LAPORAN KEUANGAN
+31 DESEMBER 2023 DAN 2022
+(Angka dalam tabeldisajikan dalam Rupiah, kecuali dinyatakan lain)
+20. BEBAN ADMINISTRASIDAN UMUM
+Rincian saldo beban administrasi dan umum tahun 2023 dan 2022:
+Gaji, Tunjangan, dan Honor
+Penghargaan Khusus dan Pesangon Karyawan
+lmbalan Pasca Kerja (lihat Catatan 15)
+Audit dan Konsultan Keuangan
+Sertifkasi ISO dan Sistem informasi Manajemen
+Direksi
+Advokat, Bantuan, dan Konsultasi Hukum
+Pemeliharaan Kendaraan
+Badan Pengawas
+Keamanan Rutin
+Pajak dan Retribusi
+Bahan Bakar dan Pelumas
+Listrik dan Air
+Pemeliharaan I nventaris
+Naskah Akademis
+Pelatihan dan Pendidikan
+Perjalanan Dinas dan Penginapan
+Alat Tulis dan Barang Cetakan
+Penyusutan (lihat Catatan 8)
+Rekening Pos/Telp./Telegram
+luran dan Sumbangan
+Perayaan dan Selamatan
+Tamu, Rapat, dan Resepsi
+Bahan lain-lain
+DW/Korpri/Pemilu
+Koran/Majalah/Buku/Dokumen/Fotokopi
+Ban dan Pemeliharaan
+Pemeliharaan Kantor
+Lain-lain
+Jumlah
+21. PENDAPATAN DI LUARUSAHA
+Rincian saldo pendapatan di luar usaha tahun 2023 dan 2022:
+Pengakuan atas Tertagihnya Piutang
+Penjualan Tiket Masuk Wahana Agrowisata
+Penjualan Tanaman Tegakan
+Pendapatan Jasa Giro & Deposito
+Pendapatan atas Somasi Kemitraan Kebun KLM
+Penjualan Getah Tanah
+Pemindahbukuan Pengakuan PPN
+Pendapatan Denda Klaim
+Profit Sharing Tanaman Tebu Kebun GP
+Profit Sharing Buah Pepaya
+Profit Sharing Tanaman Cabe Kebun KLM
+. _'Kemitraan
+Penerimaan Pembayaran Piutang UUL
+Penjualan Sekam Kopi
+Penjualan Karung Bekas Bungkus Kopi
+Pendapatan KSU Sengon
+Dipindahkan
+2023 2022
+2.478.993.970
+1.798.936.620
+392.081.206
+60.294.400
+697.555.118
+253.529.002
+75.000.000
+56.919.934
+168.398.000
+1 19.107.015
+61 .1 53.1 07
+67.924.424
+65.991.298
+43.070.100
+0
+14.120.500
+71.342.051
+25.958.654
+28.984.550
+28.677.530
+39.421.500
+46.784.450
+36.688.617
+1.279.500
+5.428.450
+3.749.400
+10.758.000
+8.845.900
+71.546.555
+2.236.854.787
+1.132.707 .364
+434.112.230
+386.900.700
+358.631.772
+216.527.626
+201.000.000
+1 08.71 0.1 1 2
+105.114.250
+99.782.481
+58.026.907
+57.959.410
+57.725.149
+40.444.200
+40.000.000
+37.536.861
+35.641.360
+29.454.586
+27.126.014
+25.510.81 1
+22.655.650
+18.627.841
+'18.084.362
+6.212.200
+4.590.000
+3.928.050
+3.152.000
+1.893.000
+84.671.748
+6.732.539.849 5.853.581.471
+2023 2422
+1.256.998.714
+212.352.814
+231.963.985
+165.735.546
+0
+17.'1 1 1 .955
+0
+49.850.000
+0
+0
+0
+2.634.128.689
+0
+4.360.000
+0
+927.927.746
+1.085.298.013
+185.344.070
+134.462.703
+110.904.482
+15.950.000
+15.029.300
+11.129.718
+10.400.000
+3.587.000
+352.500
+72.000
+0
+4.590.000
+4.185.000
+3.655.000
+0
+1.584.959.7865.500.429.449
+--P78--
+PERUSAHAAN UMUM DAERAH PERKEBUNAN KAHYANGAN JEMBER
+CATATAN ATAS LAPORAN KEUANGAN
+31 DESEMBER 2023 DAN 2022
+(Angka dalam tabel disajikan dalam Rupiah, kecualidinyatakan lain)
+21. PENDAPATAN Dl LUAR USAHA (lanjutan)
+Pindahan
+Lada/Pepaya
+Penjualan Gagang Cengkeh dan Cengkeh SPN
+Jasa Giling Kopi UUL
+CukaiPepaya Kebun SWD
+Pendapatan Hasil Stock Opname
+Pendapatan Administrasi Mesin EDC
+Penjualan Buah Mengkudu Kebun SWD
+Pendapatan Bunga Tabungan
+Pendapatan Stok Kayu Karet Kebun STN
+Penjualan Kayu Bakar
+Kelebihan Pembebanan BPJS
+Kelebihan Pembebanan BPJS
+Penjualan Contoh Kopi
+Dobel Pencatatan Pembebanan BBM
+Pendapatan Kelebihan Uang Kas
+Lain-lain
+Jumlah
+22. BEBAN DI LUAR USAHA
+Rincian saldo beban di luar usaha tahun 2023 dan 2022:
+Kerugian Tanaman Mati
+Pengelolaan Agrowisata di Kebun Gunungpasang
+Biaya Tanaman Jabon, Mahoni, Pepaya, dan Lada
+Pajak final
+Pembuatan Patok Pembatas Kebun SPN
+Pengumpulan Getah Tanah Kebun GP
+Pengumpulan Getah Tanah Kebun KLM
+Pengumpulan Getah Tanah Kebun STN
+Denda PBB
+Konpensasi Kerugian Tebang Tanaman Mahoni Kebun STN
+Panen Tanaman Lada Kebun SWD
+Pembelian Cat Kebun KLM
+Administrasi Bank
+Koreksi UM PPh 23,PPn22, dan PPN Dipungut Pl
+lnventarisasi Pohon
+KopiCatu
+Denda PPh 21 dan PPN hasil pemerikasaan KPP
+Koreksi Pengakuan BTYL
+Kopi Contoh
+Koreksi Penggunaan Sodium Kebun STN
+Kayu Bangunan Kebun STN
+Kekurangan Pembebanan ATK Kebun
+Selisih
+Koreksi BDU ke Beban Penjualan
+Lain-lain KD
+Lain-lain Kebun SPN
+Lainnya
+2023 2022
+5.500.429.449
+1.882.862
+30.936.000
+7.078.000
+0
+0
+0
+0
+10.330.403
+1.182.121
+1.584.959.786
+2.594.560
+2.250.000
+1.831.754
+1.438.400
+1.289.805
+496.420
+400.000
+177.135
+106.000
+102.300
+47.065
+46.010
+35.700
+19.997
+8.1 59
+0
+0
+0
+0
+0
+6.119
+10.981 .896
+5.562.826.850 1.595.803.091
+2023 2022
+228.954.841
+1 95.1 93.342
+14.072.749
+35^068.802
+0
+4.542.000
+0
+110.219
+0
+0
+0
+0
+2.529.900
+153.000
+0
+6.738.000
+67.818.224
+0
+(2.620.654)
+0
+407.595
+27.856.097
+943.660.858
+222.315.114
+106.064.236
+21.179.070
+13.597.698
+6.337.000
+3.000.000
+0
+2.868.833
+2.760.000
+2.240.000
+2.096.950
+1.775.600
+1.700.936
+1.641.200
+1.555.573
+1.300.000
+927.415
+736.002
+611.777
+172.125
+147.000
+(ee.6e5)
+(10.214.851)
+941 .160
+411.000
+0
+.200
+0
+0
+0
+0
+115
+Jumlah 580.979.315 1.327.725.001
+--P79--
+l.
+PCNUSANAAN UMUM DAERAH PERKEBUNAN KAHYANGAN JEMBER
+CATATAN ATAS LAPORAN KEUANGAN
+31 DESEMBER 2023 DAN 2022
+(Angka dalam tabel disajikan dalam Rupiah, kecuali dinyatakan lain)
+il
+---oo000ooo---

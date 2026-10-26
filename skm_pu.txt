@@ -1,0 +1,1364 @@
+
+--PAGE0--
+LAPORAN AKHIR | H a l a m a n  | i 
+Halaman Judul 
+  
+
+--PAGE1--
+LAPORAN AKHIR | H a l a m a n  | ii 
+Kata Pengantar 
+ 
+ 
+ 
+ 
+Puji syukur kehadirat Allah SWT karena atas segala rahmat dan hidayah -Nya Laporan 
+Akhir Survei Kepuasan Masyarakat Bidang Pekerjaan Umum dan Perhubungan Kabupaten 
+Jember ini dapat terselesaikan dengan baik. 
+ 
+Laporan ini merupakan salah satu laporan pendukung dalam Penyusunan “Survei 
+Kepuasan Masyarakat Bidang Pekerjaan Umum dan Perhubungan Kabupaten Jember”. 
+Laporan Akhir ini berisi empat bab yang terdiri dari BAB I Pendahuluan, BAB II Profil Bidang 
+Pekerjaan Umum dan Perhubungan, BAB III Metodologi Pelaksanaan Pekerjaan, dan BAB IV 
+Teknis Pelaksanaan Survei. BAB V Hasil dan Pembahasan, serta BAB VI Kesimpulan 
+ 
+Penyusunan laporan akhir ini berdasarkan kerjasama antara Badan Perencanaan 
+Pembangunan Daerah Pemerintah Kabupaten Jember dengan Universitas Jember. Kami 
+mengucapkan terima kasih yang sebesar-besarnya kepada seluruh pihak yang telah bersedia 
+membantu dalam proses penyelesaian buku laporan ini. S emoga laporan akhir ini dapat 
+bermanfaat bagi semua pihak.  
+--PAGE2--
+LAPORAN AKHIR | H a l a m a n  | iii 
+Daftar Isi 
+ 
+Halaman Judul ...................................................................................................................... i 
+Kata Pengantar .................................................................................................................... ii 
+Daftar Isi .............................................................................................................................. iii 
+Daftar Gambar ..................................................................................................................... vi 
+Daftar Tabel ......................................................................................................................... ix 
+Daftar Lampiran .................................................................................................................. xi 
+BAB I Pendahuluan ............................................................................................................ 1 
+1.1. Latar Belakang ............................................................................................. 1 
+1.2. Maksud, Tujuan dan Sasaran ................................................................... 2 
+1.3. Kebijakan Suvei Kepuasan Masyarakat ................................................ 3 
+1.4. Waktu Penyelesaian Pekerjaan ............................................................... 4 
+1.5. Lokasi Kegiatan ........................................................................................... 4 
+1.6. Lingkup Pekerjaan ...................................................................................... 5 
+1.7. Luaran Kegiatan ........................................................................................... 6 
+1.8. Sistematika Pembahasan .......................................................................... 6 
+BAB II Profil dan Kegiatan Layanan Bidang Pekerjaan Umum dan 
+Perhubungan ........................................................................................................................ 8 
+2.1. Gambaran Umum Dinas Pekerjaan Umum Bina Marga dan 
+Sumber Daya Air .......................................................................................... 8 
+2.2. Gambaran Umum Dinas Perumahan Rakyat, Kawasan 
+Pemukiman dan Cipta Karya Kabupaten Jember ............................. 10 
+2.3. Gambaran Umum Dinas Perhubungan ................................................ 13 
+BAB III Metodologi Pelaksanaan Pekerjaan ............................................................... 16 
+3.1. Pelaksanaan dan Teknik Survei ............................................................ 16 
+3.1.1. Pelaksanaan ................................................................................ 16 
+3.1.2. Teknik Survei Kepuasan Masyarakat ...................................... 16 
+3.1.3. Hasil Survei Kepuasan Masyarakat ......................................... 16 
+3.2. Metode Pelaksanaan ................................................................................. 17 
+3.2.1. Persiapan ..................................................................................... 17 
+3.2.2. Pengumpulan Data (Kegiatan Survei) ...................................... 20 
+3.2.3. Pengolahan Data dan Analisis Survei ...................................... 20 
+3.2.4. GAP Analisis ................................................................................ 22 
+3.3. Diagram Alir Kegiatan .............................................................................. 24 
+BAB IV Teknis Pelaksanaan Survei.............................................................................. 25 
+4.1. Pembuatan dan Perbaikan Bahan Survei ........................................... 25 
+4.2. Penentuan Responder ............................................................................. 26 
+4.3. Penentuan Pelaksana ............................................................................... 27 
+4.4. Sasaran Lokasi dan Jadwal Pelaksanaan Survei ............................. 27 
+--PAGE3--
+LAPORAN AKHIR | H a l a m a n  | iv 
+4.5. Pengumpulan Data (Kegiatan Survei) .................................................. 28 
+4.6. Proses Tabulasi Data ............................................................................... 30 
+4.7. Hasil Pengumpulan Data Kuesioner .................................................... 31 
+BAB V Hasil dan Diskusi Survei.................................................................................... 32 
+5.1 Dinas Pekerjaan Umum Bina Marga dan Sumber Daya Air ........... 32 
+5.1.1. Hasil Survei Kepuasan Masyarakat di Unit Pelayanan 
+Kerusakan dan Perbaikan Jalan ............................................... 32 
+5.1.2. Hasil Survei Kepuasan Masyarakat di Unit Pelayanan Air 
+Irigasi  ......................................................................................... 40 
+5.2 Dinas Perumahan Rakyat, Kawasan Pemukiman Cipta Karya ..... 48 
+5.2.1. Hasil Survei Kepuasan Masyarakat di Unit Pelayanan Izin 
+Pemakaman ................................................................................. 48 
+5.2.2. Hasil Survei Kepuasan Masyarakat di Unit Pelayanan 
+Trotoar  ......................................................................................... 56 
+5.2.3. Hasil Survei Kepuasan Masyarakat di Unit Pelayanan Jalan 
+Lingkungan ................................................................................... 66 
+5.2.4. Hasil Survei Kepuasan Masyarakat di Unit Pelayanan Tata 
+Ruang dan Izin Lokasi ................................................................ 74 
+5.2.5. Hasil Survei Kepuasan Masyarakat di Unit Pelayanan 
+Limbah Domestik ........................................................................ 83 
+5.2.6. Hasil Survei Kepuasan Masyarakat di Unit Pelayanan Izin 
+Mendirikan Bangunan ................................................................ 91 
+5.2.7. Hasil Survei Kepuasan Masyarakat di Unit Pelayanan Air 
+Bersih  ......................................................................................... 98 
+5.2.8. Hasil Survei Kepuasan Masyarakat di Unit Pelayanan 
+Penerangan Jalan Umum ........................................................ 107 
+5.3 Dinas Perhubungan ................................................................................ 116 
+5.3.1. Hasil Survei Kepuasan Masyarakat di Unit Pelayanan Parkira
+  ....................................................................................... 116 
+5.3.2. Hasil Survei Kepuasan Masyarakat di Unit Pelayanan 
+Terminal ...................................................................................... 124 
+5.3.3. Hasil Survei Kepuasan Masyarakat di Unit Pelayanan 
+Bandar Udara ............................................................................ 133 
+5.3.4. Hasil Survei Kepuasan Masyarakat di Unit Pelayanan Kinerja 
+Lalu Lintas .................................................................................. 143 
+5.3.5. Hasil Survei Kepuasan Masyarakat di Unit Pelayanan 
+Pengujian Kendaraan Bermotor ............................................. 151 
+5.3.6. Hasil Survei Kepuasan Masyarakat di Unit Pelayanan 
+Angkutan Umum........................................................................ 159 
+5.3.7. Hasil Survei Kepuasan Masyarakat di Unit Pelayanan 
+Perizinan Angkutan ................................................................... 169 
+5.4 Kesesuaian Hukum ................................................................................. 175 
+5.4.1 Tugas Pokok dan Fungsi Dinas Pekerjaan Umum Bina 
+Marga dan Sumberdaya Air, Dinas Perumahan Rakyat, 
+Kawasan Permukiman dan Cita Karya serta DInas 
+Perhubungan Kabupaten Jember .......................................... 175 
+5.4.2 Asas-asas yang berkaitan ....................................................... 177 
+--PAGE4--
+LAPORAN AKHIR | H a l a m a n  | v 
+5.4.3 Kesesuaian Perencanaan........................................................ 185 
+BAB VI Kesimpulan ........................................................................................................ 189 
+6.1. Kesimpulan Unit Pelayanan Dinas Pekerjaan Umum Bina Marga 
+dan Sumber Daya Air ............................................................................. 189 
+6.1.1. Kesimpulan Hasil Survei di Unit Pelayanan Kerusakan Jalan . 
+  ....................................................................................... 189 
+6.1.2. Kesimpulan Hasil Survei di Unit Pelayanan Air Irigasi ........ 189 
+6.2. Kesimpulan Unit Pelayanan Perumahan Rakyat, Kawasan 
+Pemukiman dan Cipta Karya ................................................................ 190 
+6.2.1. Kesimpulan Hasil Survei di Unit Pelayanan Izin Mendirikan 
+Bangunan ................................................................................... 190 
+6.2.2. Kesimpulan Hasil Survei di Unit Pelayanan Tata Ruang dan 
+Izin Lokasi .................................................................................. 190 
+6.2.3. Kesimpulan Hasil Survei di Unit Pelayanan Air Bersih ....... 191 
+6.2.4. Kesimpulan Hasil Survei di Unit Pelayanan Penerangan 
+Jalan Umum ............................................................................... 192 
+6.2.5. Kesimpulan Hasil Survei di Unit Pelayanan Trotoar ........... 192 
+6.2.6. Kesimpulan Hasil Survei di Unit Pelayanan Jalan 
+Lingkungan ................................................................................. 193 
+6.2.7. Kesimpulan Hasil Survei di Unit Pelayanan Izin Pemakaman . 
+  ....................................................................................... 193 
+6.2.8. Kesimpulan Hasil Survei di Unit Pelayanan Limbah Domestik 
+  ....................................................................................... 194 
+6.3. Kesimpulan Unit Pelayanan Dinas Perhubungan........................... 194 
+6.3.1. Kesimpulan Hasil Survei di Unit Pelayanan Pengujian 
+Kendaraan Bermotor ................................................................ 194 
+6.3.2. Kesimpulan Hasil Survei di Unit Pelayanan Perizinan 
+Angkutan .................................................................................... 195 
+6.3.3. Kesimpulan Hasil Survei di Unit Pelayanan Terminal ......... 196 
+6.3.4. Kesimpulan Hasil Survei di Unit Pelayanan Angkutan Umum . 
+  ....................................................................................... 196 
+6.3.5. Kesimpulan Hasil Survei di Unit Pelayanan Parkir .............. 197 
+6.3.6. Kesimpulan Hasil Survei di Unit Pelayanan Kinerja Lalu 
+Lintas z198 
+6.3.7. Kesimpulan Hasil Survei di Unit Pelayanan Bandar Udara 199 
+6.4. Saran dan Rekomendasi ....................................................................... 200 
+Daftar Pustaka.................................................................................................................. 201 
+Lampiran............................................................................................................................ 203 
+ 
+  
+--PAGE5--
+LAPORAN AKHIR | H a l a m a n  | vi 
+Daftar Gambar 
+Gambar 2.1 Dinas Pekerjaan Umum Bina Marga dan Sumber Daya Air Kabupaten Jember 9 
+Gambar 2.2 Struktur Organisasi Dinas Pekerjaan Umum Bina Marga dan Sumber Daya Air 
+Kabupaten Kabupaten Jember....................................................................................................... 10 
+Gambar 2.3 Dinas Perumahan Rakyat, Kawasan Pemukiman dan Cipta Karya Kabupaten 
+Jember ............................................................................................................................................... 11 
+Gambar 2. 4 Struktur Organisasi Perumahan Rakyat, Kawasan Pemukiman dan Cipta 
+Karya Kabupaten Jember ............................................................................................................... 12 
+Gambar 2.5 Dinas Perhubungan Kabupaten Jember ................................................................ 13 
+Gambar 3.1 Kuadran Importance-Performance Analysis .......................................................... 23 
+Gambar 3.2 Diagram Alir Kegiatan ............................................................................................... 24 
+Gambar 4.1 Contoh Kuesioner Survei Kepuasan Masyarakat ................................................. 25 
+Gambar 4.2 Surat Tugas Tenaga Lapangan Survei Kepuasan Masyarakat........................... 27 
+Gambar 4.3  Salah satu sasaran lokasi kantor desa diluar daerah pusat kota Jember ........ 28 
+Gambar 4.4 Kegiatan Tenaga Lapangan Memandu dan Menjelaskan Kepada Tokoh ......... 29 
+Gambar 4.5 Pemeriksaan dan Pemilahan Kuesioner ................................................................ 30 
+Gambar 4.6 Kegiatan Tabulasi Data ............................................................................................ 31 
+Gambar 5. 1 Pie Chart Jenis Kelamin Responden Kerusakan dan Perbaikan Jalan 33 
+Gambar 5. 2 Pie Chart Pendidikan Terakhir Responden Kerusakan dan Perbaikan Jalan .. 33 
+Gambar 5. 3 Pie Chart Pekerjaan Utama Responden Kerusakan dan Perbaikan Jalan ...... 34 
+Gambar 5. 4 Pie Chart Pendapatan Responden Kerusakan dan Perbaikan Jalan ................ 34 
+Gambar 5. 5 Importance Performance Analysis Diagram Pelayanan Kerusakan dan 
+Perbaikan Jalan ...................................................................................................... 37 
+Gambar 5. 6 Pie Chart Jenis Kelamin Responden Pelayanan Air Irigasi ................................ 40 
+Gambar 5. 7 Pie Chart Pendidikan Terakhir Responden Pelayanan Air Irigasi...................... 41 
+Gambar 5. 8 Pie Chart Pekerjaan Utama Responden Pelayanan Air Irigasi .......................... 41 
+Gambar 5. 9 Pie Chart Pendapatan Responden Pelayanan Air Irigasi ................................... 42 
+Gambar 5. 10 Importance Performance Analysis Diagram Pelayanan Air Irigasi .................. 45 
+Gambar 5. 11 Pie Chart Jenis Kelamin Responden Izin Pemakaman..................................... 49 
+Gambar 5. 12 Pie Chart Umur Responden Pelayanan Izin Pemakaman ................................ 49 
+Gambar 5. 13 Pie Chart Pendidikan Terakhir Responden Izin Pemakaman .......................... 50 
+Gambar 5. 14 Pie Chart Pekerjaan Utama Responden Izin Pemakaman ............................... 50 
+Gambar 5. 15 Pie Chart Pendapatan Responden Pelayan Izin Pemakaman ......................... 51 
+Gambar 5. 16 Pie Chart Lokasi Responden Pelayanan Izin Pemakaman .............................. 51 
+Gambar 5. 17 Importance Performance Analysis Diagram Pelayanan Izin Pemakaman ..... 54 
+Gambar 5. 18 Pie Chart Jenis Kelamin Responden Pelayanan Trotoar.................................. 56 
+Gambar 5. 19 Pie Chart Umur Responden Pelayanan Trotoar ................................................ 57 
+Gambar 5. 20 Pie Chart Pendidikan Terakhir Responden Trotoar ........................................... 57 
+Gambar 5. 21 Pie Chart Pekerjaan Utama Responden Pelayanan Trotoar ............................ 58 
+Gambar 5. 22 diagram batang seberapa sering Responden menggunakan Pelayanan 
+Trotoar ...................................................................................................................... 59 
+Gambar 5. 23 Importance Performance Analysis Diagram Pelayanan Trotoar ...................... 62 
+Gambar 5. 24 Pie Chart Jenis Kelamin Responden Pelayanan Jalan Lingkungan ............... 67 
+Gambar 5. 25 Pie Chart Pendidikan Terakhir Responden Pelayanan Jalan Lingkungan ..... 67 
+Gambar 5. 26 Pie Chart Pekerjaan Utama Responden Pelayanan Jalan Lingkungan ......... 68 
+--PAGE6--
+LAPORAN AKHIR | H a l a m a n  | vii 
+Gambar 5. 27 Pie Chart Pendapatan Responden Pelayanan Jalan Lingkungan ................... 68 
+Gambar 5. 28 Importance Performance Analysis Diagram Pelayanan Jalan Lingkungan .... 71 
+Gambar 5. 29 Pie Chart Jenis Kelamin Responden Pelayanan Tata Ruang dan Izin Lokasi
+................................................................................................................................... 75 
+Gambar 5. 30 Pie Chart Pendidikan Terakhir Responden Pelayanan Tata Ruang dan Izin 
+Lokasi ....................................................................................................................... 76 
+Gambar 5. 31 Pie Chart Pekerjaan Responden Pelayanan Tata Ruang dan Izin Lokasi ..... 76 
+Gambar 5. 32 Pie Chart Pendapatan Responden Pelayanan Tata Ruang dan Izin Lokasi .. 77 
+Gambar 5. 33 Importance Performance Analysis Diagram Pelayanan Tata Ruang dan Izin 
+Lokasi ....................................................................................................................... 80 
+Gambar 5. 34 Pie Chart Jenis Kelamin Responden Pelayanan Limbah Domestik ................ 83 
+Gambar 5. 35 Pie Chart Pekerjaan Utama Responden Pelayanan Limbah Domestik .......... 84 
+Gambar 5. 36 Pie Chart Pendidikan Terakhir Responden Pelayanan Limbah Domestik ..... 84 
+Gambar 5. 37 Pie Chart Pendapatan Responden Pelayanan Limbah Domestik ................... 85 
+Gambar 5. 38 Importance Performance Analysis Diagram Pelayanan Limbah Domestik .... 88 
+Gambar 5. 39 Pie Chart Jenis Kelamin Responden Pelayanan Izin Mendirikan Bangunan . 91 
+Gambar 5. 40 Pie Chart Pendidikan Terakhir Responden Pelayanan Izin Mendirikan 
+Bangunan ................................................................................................................. 92 
+Gambar 5. 41 Pie Chart Pekerjaan Utama Responden Pelayanan Izin Mendirikan Bangunan
+................................................................................................................................... 92 
+Gambar 5. 42 Pie Chart Pendapatan Responden Pelayanan Izin Mendirikan Bangunan .... 93 
+Gambar 5. 43 Importance Performance Analysis Diagram Pelayanan Izin Mendirikan 
+Bangunan ................................................................................................................. 96 
+Gambar 5. 44 Pie Chart Jenis Kelamin Responden Pelayanan Air Bersih ............................. 99 
+Gambar 5. 45 Pie Chart Pendidikan Terakhir Responden Pelayanan Air Bersih ................. 100 
+Gambar 5. 46 Pie Chart Pekerjaan Utama Responden Pelayanan Air Bersih ..................... 100 
+Gambar 5. 47 Pie Chart Pendapatan Responden Pelayanan Air Bersih .............................. 101 
+Gambar 5. 48 Importance Performance Analysis Diagram Pelayanan Air Bersih ............... 104 
+Gambar 5. 49 Pie Chart Jenis Kelamin Responden Pelayanan Penerangan Jalan Umum 108 
+Gambar 5. 50 Pie Chart Pendidikan Responden Pelayanan Penerangan Jalan Umum ..... 108 
+Gambar 5. 51 Pie Chart Pekerjaan Responden Pelayanan Penerangan Jalan Umum ...... 109 
+Gambar 5. 52 Pie Chart Pendapatan Responden Pelayanan Penerangan Jalan Umum ... 110 
+Gambar 5. 53 Importance Performance Analysis Diagram Pelayanan Penerangan Jalan 
+Umum ..................................................................................................................... 113 
+Gambar 5. 54 Pie Chart Jenis Kelamin Responden Parkir...................................................... 116 
+Gambar 5. 55 Pie Chart Umur Responden Pelayanan Parkir ................................................. 117 
+Gambar 5. 56 Pie Chart Pendidikan Terakhir Responden Parkir ........................................... 117 
+Gambar 5. 57 Pie Chart Pekerjaan Utama Responden Parkir ................................................ 118 
+Gambar 5. 58 Pie Chart Pendapatan Responden Pelayan Parkir .......................................... 118 
+Gambar 5. 59 Bar Chart Lokasi Responden yang sering mendapat Pelayanan Parkir ....... 119 
+Gambar 5. 60 Importance Performance Analysis Diagram Pelayanan Parkir ...................... 122 
+Gambar 5. 61 Pie Chart Jenis Kelamin Responden Terminal................................................. 125 
+Gambar 5. 62 Pie Chart Umur Responden Pelayanan Terminal ............................................ 125 
+Gambar 5. 63 Pie Chart Pendidikan Terakhir Responden Terminal ...................................... 126 
+Gambar 5. 64 Pie Chart Pekerjaan Utama Responden Terminal ........................................... 126 
+--PAGE7--
+LAPORAN AKHIR | H a l a m a n  | viii 
+Gambar 5. 65 Pie Chart Pendapatan Responden Pelayan Terminal..................................... 127 
+Gambar 5. 66 Pie Chart Lokasi Responden yang sering mendapat Pelayanan Terminal .. 128 
+Gambar 5. 67 Importance Performance Analysis Diagram Pelayanan Terminal ................. 131 
+Gambar 5. 68 Pie Chart Jenis Kelamin Responden Pelayanan Bandar Udara .................... 134 
+Gambar 5. 69 Pie Chart Umur Responden Pelayanan Bandar Udara................................... 134 
+Gambar 5. 70 Pie Chart Pendidikan Terakhir Responden Bandar Udara ............................. 135 
+Gambar 5. 71 Pie Chart Pekerjaan Utama Responden Pelayanan Bandar Udara .............. 135 
+Gambar 5. 72 Pie Chart Pendapatan Responden Pelayanan Bandar Udara ....................... 136 
+Gambar 5. 73 Pie Chart Kebutuhan Responden Pelayanan Bandar Udara ......................... 136 
+Gambar 5. 74 Importance Performance Analysis Diagram Pelayanan Bandar Udara ........ 139 
+Gambar 5. 75 Pie Chart Jenis Kelamin Responden Pelayanan Kinerja Lalu Lintas ............ 144 
+Gambar 5. 76 Pie Chart Pendidikan Terakhir Responden Kinerja Lalu Lintas ..................... 144 
+Gambar 5. 77 Pie Chart Pekerjaan Utama Responden Pelayanan Kinerja Lalu Lintas ...... 145 
+Gambar 5. 78 Pie Chart Pendapatan Responden Pelayanan Kinerja Lalu Lintas ............... 145 
+Gambar 5. 79 Importance Performance Analysis Diagram Pelayanan Kinerja Lalu Lintas 149 
+Gambar 5. 80 Pie Chart Jenis Kelamin Responden Pengujian Kendaraan Bermotor ......... 152 
+Gambar 5. 81 Pie Chart Pendidikan Terakhir Responden Pengujian Kendaraan Bermotor
+................................................................................................................................. 152 
+Gambar 5. 82 Pie Chart Pekerjaan Utama Responden Pengujian Kendaraan Bermotor ... 153 
+Gambar 5. 83 Diagram Batang Kendaraan yang Diuji Responden Pengujian Kendaraan 
+Bermotor ................................................................................................................ 154 
+Gambar 5. 84 Importance Performance Analysis Diagram Pelayanan Pengujian Kendaraan 
+Bermotor ................................................................................................................ 157 
+Gambar 5. 85 Pie Chart Jenis Kelamin Responden Pelayanan Angkutan Umum ............... 160 
+Gambar 5. 86 Pie Chart Umur Responden Pelayanan Angkutan Umum .............................. 161 
+Gambar 5. 87 Pie Chart Pendidikan Terakhir Responden Pelayanan Angkutan Umum .... 161 
+Gambar 5. 88 Pie Chart Pekerjaan Utama Responden Pelayanan Angkutan Umum ......... 162 
+Gambar 5. 89 Pie Chart Kebutuhan Angkutan Umum Responden Pelayanan Angkutan 
+Umum ..................................................................................................................... 162 
+Gambar 5. 90 Importance Performance Analysis Diagram Pelayanan Angkutan Umum ... 165 
+Gambar 5. 91 Pie Chart Jenis Kelamin Responden Perizinan Angkutan .............................. 169 
+Gambar 5. 92 Pie Chart Umur Responden Pelayanan Perizinan Angkutan ......................... 170 
+Gambar 5. 93 Pie Chart Pendidikan Terakhir Responden Perizinan Angkutan ................... 170 
+Gambar 5. 94 Pie Chart Pekerjaan Utama Responden Perizinan Angkutan ........................ 171 
+Gambar 5. 95 Pie Chart Pendapatan Responden Pelayan Perizinan Angkutan .................. 171 
+Gambar 5. 96 Importance Performance Analysis Diagram Pelayanan Perizinan Angkutan 174 
+ 
+ 
+  
+--PAGE8--
+LAPORAN AKHIR | H a l a m a n  | ix 
+Daftar Tabel 
+Tabel 4.1 Penentuan Sampel responder terhadap populasi tokoh masyarakat desa di Kab. 
+Jember berdasarkan Tabel Krejie dan Morgan ....................................................... 26 
+Tabel 5. 1 Mean performance, Mean importance Pelayanan Kerusakan dan Perbaikan Jalan
+ ............................................................................................................................... 35 
+Tabel 5. 2 Atribut Kepuasan Pelayanan Kerusakan dan Perbaikan Jalan pada IPA Diagram 
+Kuadran I, II, III, dan IV ......................................................................................... 38 
+Tabel 5. 3 Mean performance, Mean importance Pelayanan Air Irigasi ................................ 42 
+Tabel 5. 4 Atribut Kepuasan Pelayanan Air Irigasi Jalan pada IPA Diagram Kuadran I, II, III, 
+dan IV .................................................................................................................... 45 
+Tabel 5. 5 Rekapitulasi kepuasan dan kepentingan Pelayanan Izin Pemakaman ................ 52 
+Tabel 5. 6 Atribut Kepuasan Pelayanan Izin Pemakaman pada IPA Diagram Kuadran I, II, III, 
+dan IV .................................................................................................................... 55 
+Tabel 5. 7 Mean Performance, Mean Importance, Nilai GAP dan CSI di Pelayanan Trotoar59 
+Tabel 5. 8 Atribut Kepuasan Pelayanan Trotoar pada IPA Diagram Kuadran I, II, III, dan IV62 
+Tabel 5. 9 Mean performance, Mean importance Pelayanan Jalan Lingkungan ................... 69 
+Tabel 5. 10 Atribut Kepuasan Pelayanan Jalan Lingkungan pada IPA Diagram Kuadran I, II, 
+III, dan IV ............................................................................................................... 72 
+Tabel 5. 11 Mean performance, Mean importance Pelayanan Tata Ruang dan Izin Lokasi . 77 
+Tabel 5. 12 Atribut Kepuasan Pelayanan Tata Ruang dan Izin Lokasi pada IPA Diagram 
+Kuadran I, II, III, dan IV ......................................................................................... 80 
+Tabel 5. 13 Mean performance, Mean importance Pelayanan Limbah Domestik ................. 85 
+Tabel 5. 14 Atribut Kepuasan Pelayanan Limbah Domestik pada IPA Diagram Kuadran I, II, 
+III, dan IV ............................................................................................................... 88 
+Tabel 5. 15 Mean performance, Mean importance Pelayanan Izin Mendirikan Bangunan ... 93 
+Tabel 5. 16 Atribut Kepuasan Pelayanan Izin Mendirikan Bangunan Jalan pada IPA Diagram 
+Kuadran I, II, III, dan IV ......................................................................................... 96 
+Tabel 5. 17 Mean performance, Mean importance Pelayanan Air Bersih ............................ 101 
+Tabel 5. 18 Atribut Kepuasan Pelayanan Air Bersih pada IPA Diagram Kuadran I, II, III, dan 
+IV ......................................................................................................................... 105 
+Tabel 5. 19 Mean performance, Mean importance Pelayanan Penerangan Jalan Umum .. 110 
+Tabel 5. 20 Atribut Kepuasan Pelayanan Penerangan Jalan Umum pada IPA Diagram 
+Kuadran I, II, III, dan IV ....................................................................................... 113 
+Tabel 5. 21 Rekapitulasi kepuasan dan kepentingan Pelayanan Parkir .............................. 119 
+Tabel 5. 22 Atribut Kepuasan Pelayanan Parkir pada IPA Diagram Kuadran I, II, III, dan IV
+ ............................................................................................................................. 122 
+Tabel 5. 23 Rekapitulasi kepuasan dan kepentingan Pelayanan Terminal ......................... 128 
+Tabel 5. 24 Atribut Kepuasan Pelayanan Terminal pada IPA Diagram Kuadran I, II, III, dan 
+IV ......................................................................................................................... 131 
+Tabel 5. 25 Mean Performance, Mean Importance Pelayanan Bandar Udara .................... 137 
+Tabel 5. 26 Atribut Kepuasan Pelayanan Bandar Udara pada IPA Diagram Kuadran I, II, III, 
+dan IV .................................................................................................................. 139 
+Tabel 5. 27 Mean performance, Mean importance Pelayanan Kinerja lalu lintas ................ 146 
+Tabel 5. 28 Atribut Kepuasan Pelayanan Kinerja Lalu Lintas pada IPA Diagram Kuadran I, II, 
+III, dan IV ............................................................................................................. 149 
+Tabel 5. 29 Mean Performance, Mean Importance, Nilai GAP dan CSI di Pelayanan 
+Pengujian Kendaraan Bermotor ......................................................................... 154 
+--PAGE9--
+LAPORAN AKHIR | H a l a m a n  | x 
+Tabel 5. 30 Atribut Kepuasan Pelayanan Pengujian Kendaraan Bermotor pada IPA Diagram 
+Kuadran I, II, III, dan IV ....................................................................................... 157 
+Tabel 5. 31 Mean Performance, Mean Importance Pelayanan Angkutan Umum ................ 163 
+Tabel 5. 32 Atribut Kepuasan Pelayanan Angkutan Umum pada IPA Diagram Kuadran I, II, 
+III, dan IV ............................................................................................................. 166 
+Tabel 5. 33 Rekapitulasi kepuasan dan kepentingan Pelayanan Perizinan Angkutan ........ 172 
+Tabel 5. 34 Atribut Kepuasan Pelayanan Perizinan Angkutan pada IPA Diagram Kuadran I, 
+II, III, dan IV ......................................................................................................... 175 
+ 
+  
+--PAGE10--
+LAPORAN AKHIR | H a l a m a n  | xi 
+Daftar Lampiran 
+ 
+Lampiran1. Tabel Sampel Dari Krejcie and Morgan ............................................................. 202 
+Lampiran1. Tabel Sampel Dari Krejcie and Morgan ............................................................. 203 
+Lampiran3. Dokumentasi Pelaksanaan Survei di Kantor Desa ............................................ 209 
+Lampiran4. Dokumentasi Pelaksanaan Survei di Lokasi Pelayanan ................................... 245
+--PAGE11--
+Survei Kepuasan Masyarakat Bidang Pekerjaan Umum dan Perhubungan  
+Kabupaten Jember  
+ 
+LAPORAN AKHIR | H a l a m a n  | 1 
+ 
+BAB I Pendahuluan 
+1.1. Latar Belakang 
+Fungsi utama pemerintah adalah melayani masyarakat sehingga pemerintah perlu terus 
+berupaya meningkatkan kualitas pelayanan. Ukuran keberhasilan penyelenggaraan 
+pelayanan ditentukan oleh tingkat kepuasan penerima  pelayanan. Kepuasan  penerima 
+pelayanan dicapai apabila penerima pelayanan memperoleh pelayanan sesuai dengan 
+dibutuhkan dan diharapkan. 
+Sebagai aparatur pemerintah, Dinas Pekerjaan Umum Bina Marga dan Sumber Daya Air, 
+Dinas Perumahan Rakyat Kawasan Permukiman dan Cipta Karya, serta Dinas Perhubungan 
+Kabupaten Jember  dituntut untuk selalu meningkatkan kualitas layanannya terutama 
+menyangkut transparansi dan akuntabilitas. Adanya pengaduan atau keluhan dari masyarakat 
+dan dunia usaha, baik melalui surat pembaca maupun media pengaduan lainnya, seperti 
+menyangkut prosedur dan mekanisme kerja pelayanan yang berbelit -belit, tidak transparan, 
+kurang informatif, kurang akomodatif, kurang konsisten, terbatasnya fasilitas, sarana dan 
+prasarana pelayanan, sehingga tidak menjamin kepastian (hukum, waktu dan biaya) serta 
+masih banyak dijumpai praktek pungutan liar serta tind akan-tindakan yang berindikasikan 
+penyimpangan dan KKN merupakan indikasi bahwa penyelenggaraan pelayanan publik yang 
+dilaksanakan oleh aparatur pemerintah kinerjanya masih belum seperti yang diharapkan. 
+ Salah satu upaya untuk meningkatkan kualitas pelaya nan publik, sebagaimana 
+diamanatkan dalam Undang -undang Republik Indonesia Nomor 25 Tahun 2000 tentang 
+Program Pembangunan Nasional (PROPENAS), perlu disusun indeks kepuasan masyarakat 
+sebagai tolok ukur untuk menilai tingkat kualitas pelayanan. Di samping  itu data indeks 
+kepuasan masyarakat akan dapat menjadi bahan penilaian terhadap unsur pelayanan yang 
+masih perlu perbaikan dan menjadi pendorong setiap unit penyelenggara pelayanan untuk 
+meningkatkan kualitas pelayanannya.  
+Selama ini Survei Kepuasan Masy arakat menggunakan Keputusan Menteri 
+Pendayagunaan Aparatur Negara Nomor: KEP/25/M.PAN/2/2004 tentang Pedoman Umum 
+Penyusunan Indeks Kepuasan Masyarakat Unit Pelayanan Instansi Pemerintah. Keputusan 
+ini belum mengacu pada Undang -Undang Nomor 25 tahun 2009 Tentang Pelayanan Publik 
+dan Undang-Undang Nomor 12 Tahun 2011 Tentang Pembentukan Peraturan Perundangan. 
+Survei Kepuasan Masyarakat dilaksanakan sesuai dengan ketentuan dalam Peraturan 
+Menteri Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Nomor 14  Tahun 2017 
+tentang Pedoman Penyusunan Survei Kepuasan Masyarakat. Pedoman ini menggantikan 
+--PAGE12--
+Survei Kepuasan Masyarakat Bidang Pekerjaan Umum dan Perhubungan  
+Kabupaten Jember  
+ 
+LAPORAN AKHIR | H a l a m a n  | 2 
+pedoman sebelumnya dalam Permenpan  rb No. 16 Tahun 2014 tentang Pedoman Survei 
+Kepuasan Masyarakat Terhadap Penyelenggaraan Pelayanan Publik. Peraturan sebelumnya 
+dipandang tidak operasional dan memerlukan penjabaran teknis dalam pelaksanaannya. 
+Sehingga perlu untuk disesuaikan dengan metode survei yang aplikatif dan mudah untuk 
+dilaksanakan. Selain itu, Peraturan ini dimaksudkan untuk memberikan arahan dan pedoman 
+yang jelas dan tegas bagi penyelenggara pelayanan publik.  
+Pada kajian ini yang akan dinilai dalam survei Kepuasan Masyarakat adalah unit layanan 
+publik pada Dinas Pekerjaan Umum Bina Marga dan Sumber Daya Air, Dinas Perumahan 
+Rakyat Kawasan Permukiman dan Cipta Karya, serta Dinas Perhubungan Kabupaten 
+Jember. Diharapkan hasil dari kegiatan surve i ini akan Mendorong partisipasi masyarakat 
+sebagai pengguna layanan dalam menilai kinerja penyelenggara pelayanan, mendorong 
+penyelenggara pelayanan untuk meningkat kan kualitas pelayanan dan mendorong 
+penyelenggara pelayanan menjadi lebih inovatif dalam menyelenggarakan pelayanan publik. 
+ 
+1.2. Maksud, Tujuan dan Sasaran 
+1.2.1. Maksud  
+Maksud dari kegiatan Penyusunan Survei Kepuasan Masyarakat Bidang Dinas Pekerjaan 
+Umum Bina Marga dan Sumber Daya Air, Dinas Perumahan Rakyat Kawasan Permukiman 
+dan Cipta Karya, serta Dinas Perhubungan Kabupaten Jember adalah untuk mendapatkan 
+data tingkat kepuasan masyarakat atau masyarakat pengguna pelayanan dinas publik melalui 
+survei kepada masyarakat terhadap pelayanan dinas yang terkait  yang telah diberikan oleh 
+Organisasi Perangkat Daerah yakni  Dinas Pekerjaan Umum Bina Marga dan Sumber Daya 
+Air, Dinas Perumahan Rakyat Kawasan Permukiman dan Cipta Karya, serta Dinas 
+Perhubungan Kabupaten Jember. 
+1.2.2. Tujuan  
+1. Diperolehnya data Survei Kepuasan Masyarakat terhadap pelayanan Publik di Dinas 
+Pekerjaan Umum Bina Marga dan Sumber Daya  Air, Dinas Perumahan Rakyat 
+Kawasan Permukiman dan Cipta Karya, serta Dinas Perhubungan Kabupaten Jember 
+yang melayani masyarakat di Kabupaten Jember. 
+2. Menentukan rangking unsur -unsur tingkat kepuasan dan tingkat  
+kepentingan unsur -unsur dalam matriks Importance dan Performance agar dapat 
+digunakan sebagai acuan prioritas dalam melakukan perbaikan. 
+3. Melakukan G AP analysis terhadap tingkat kepuasan dan harapan  
+(kebutuhan) masyarakat untuk menajamkan target perbaikan terhadap  
+pelayanan  
+--PAGE13--
+Survei Kepuasan Masyarakat Bidang Pekerjaan Umum dan Perhubungan  
+Kabupaten Jember  
+ 
+LAPORAN AKHIR | H a l a m a n  | 3 
+4. Memperoleh feedback/umpan balik berupa masukan/keluhan terhadap  
+perkembangan kebutuhan masyarakat untuk melakukan perbaikan / peningkatan  
+kinerja/kualitas pelayanan secara berkesinambungan. 
+1.2.3. Sasaran 
+Sasaran dari kegiatan ini adalah sebagai berikut: 
+1. Mendorong partisipasi masyarakat sebagai pengguna layanan dalam menilai kinerja 
+penyelenggara pelayanan publik pada Dinas Pekerjaan Umum Bina Marga dan 
+Sumberdaya Air, Dinas Perumahan Rakyat, Kawasan Permukiman dan Cita Karya 
+serta DInas Perhubungan Kabupaten Jember 
+2. Mendorong penyelenggara pelayanan untuk meningkatkan kualitas pelayanan pada 
+pada Dinas Pekerjaan Umum Bina Mar ga dan Sumberdaya Air, Dinas Perumahan 
+Rakyat, Kawasan Permukiman dan Cita Karya serta DInas Perhubungan Kabupaten 
+Jember 
+3. Mendorong penyelenggara pelayanan menjadi lebih inovatif dalam menyelenggarakan 
+pelayanan publik pada unit layanan publik pada Dinas P ekerjaan Umum Bina Marga 
+dan Sumberdaya Air, Dinas Perumahan Rakyat, Kawasan Permukiman dan Cita 
+Karya serta DInas Perhubungan Kabupaten Jember 
+4. Mengukur Kecenderungan tingkat kepuasan masyarakat terhadap pelayanan Dinas 
+Pekerjaan Umum Bina Marga dan Sumber daya Air, Dinas Perumahan Rakyat, 
+Kawasan Permukiman dan Cita Karya serta Dinas Perhubungan Kabupaten Jember 
+ 
+1.3. Kebijakan Suvei Kepuasan Masyarakat 
+Kebijakan Dinas Pekerjaan Umum Bina Marga dan Sumber Daya  Air dan Dinas 
+Perumahan Rakyat, Kawasan Permukiman dan Cipta Karya dan Perhubungan Kabupaten 
+Jember mengacu pada dasar sebagai berikut: 
+1. Undang-Undang Republik Indonesia Nomor 12 tahun 1950 Tentang Pembentukan 
+Daerah-Daerah Kabupaten dalam Lingkungan Provinsi Jawa Timur; 
+2. Peraturan Daerah Kabupaten Jember Nomor 20 Tahun 2000 Tentang Kewenangan 
+Pemerintah Kabupaten Jember. 
+3. Undang-undang 14 Tahun 2008 Tentang Keterbukaan Informasi Publik; 
+4. Undang-undang Nomor 25 Tahun 2009 Tentang Pelayanan PublikPeraturan 
+Pemerintah Nomor 96 tahun 20 12 Tentang Pelaksanaan Undang -Undang Nomor 25 
+tahun 2009 Tentang Pelayanan Publik; 
+5. Undang-Undang Nomor 23 Tahun 2014 Tentang Pemerintah Daerah; 
+6. Peraturan Menteri Pendayagunaan Aparetur Negara dan Reformasi Birokrasi Republik 
+Indonesia Nomor 15 Tahun 2014 tentang Pedoman Standar Pelayanan; 
+--PAGE14--
+Survei Kepuasan Masyarakat Bidang Pekerjaan Umum dan Perhubungan  
+Kabupaten Jember  
+ 
+LAPORAN AKHIR | H a l a m a n  | 4 
+7. Keputusan Menteri Pendayagunaan Aperatur Negara Nomor: KEP/14/M.PAN/2/2017 
+tentang Pedoman Umum Penyusunan Indeks Kepuasan Masyarakat Unit Pelayanan 
+Instansi Pemerintah; 
+8. Peraturan Menteri Pendayagunaan Aparatur Negara Dan Reformasi Birokrasi 
+Republik Indonesia Nomor 14 Tahun 2017 Tentang Pedoman Penyusunan Survei 
+Kepuasan Masyarakat Unit Penyelenggara Pelayanan Publik 
+9. Keputusan Menteri Pendayagunaan Aparatur Negara Nomor: 63/KEP/M.PAN/7/2003 
+tentang Pedoman Publik Penyelenggaraan Pelayanan Publik. 
+10. Peraturan Bupati Jember Nomor 37 Tahun 20 16 Tentang Kedudukan Susunan 
+Organisasi, Tugas dan Fungsi Serta Tata Kerja Dinas Perumahan Rakyat, Kawasan 
+Permukiman dan Cipta Karya Kabupaten Jember 
+11.  Peraturan Bupati Jember Nomor  50 Tahun  2016 Tentang Kedudukan Susunan 
+Organisasi, Tugas dan Fungsi Serta Tata Kerja Dinas Perumahan Rakyat, Kawasan 
+Permukiman dan Cipta Karya Kabupaten Jember 
+12. Peraturan Bupati Jember Nomor 39 Tahun 20 16 Tentang Kedudukan Susunan 
+Organisasi, Tugas  dan F ungsi Serta Tata Kerja Dinas  Perhubungan Kabupaten 
+Jember 
+ 
+1.4. Waktu Penyelesaian Pekerjaan  
+Kegiatan pekerjaan Survei Kepuasan Masyarakat Dinas Pekerjaan Umum Bina Marga 
+dan Sumber Daya Air, Dinas Perumahan Rakyat Kawasan Permukiman dan Cipta Karya, 
+serta Dinas Perhubungan Kabupaten Jember akan diselesaikan dalam jangka waktu selama 
+4 bulan atau 120 (Seratus dua puluh) hari terhitung sejak tanggal ditandatanganinya kontrak 
+kerjasama. 
+ 
+1.5. Lokasi Kegiatan 
+Kegiatan pekerjaan Survei Kepuasan Masyarakat Dinas Pekerjaan Umum Bina Marga 
+dan Sumber Daya Air, Dinas Perumahan Rakyat Kawasan Permukiman dan Cipta Karya, 
+serta Dinas Perhubungan Kabupaten Jember akan dilakukan pada lokasi 
+1.  Lokasi pada tempat layanan Dinas Pekerjaan Umum Bina Marga dan Sumber Daya 
+Air, Dinas Perumahan Rakyat, Kawasan Permukiman dan Cipta Karya, serta Dinas 
+Perhubungan Kabupaten Jember; 
+2. Di lingkungan masyarakat penerima layanan Dinas Pekerjaan Umum Bina Marga dan 
+Sumber Daya Air, Dinas Perumahan Rakyat, Kawasan Permukiman dan Cipta Karya, 
+serta Dinas Perhubungan Kabupaten Jember pada saat jam sibuk atau senggang. 
+ 
+--PAGE15--
+Survei Kepuasan Masyarakat Bidang Pekerjaan Umum dan Perhubungan  
+Kabupaten Jember  
+ 
+LAPORAN AKHIR | H a l a m a n  | 5 
+ 
+ 
+ 
+1.6. Lingkup Pekerjaan 
+Ruang lingkup Survei Kepuasan Masyarakat pada Dinas Pekerjaan Umum Bina Marga 
+dan Sumber Daya Air dan Dinas Perumahan Rakyat, Kawasan Permukiman dan Cipta Karya 
+serta Dinas Perhubungan Kabupaten Jember meliputi: 
+1. Persyaratan 
+Persyaratan adalah syarat yang harus dipenuhi dalam pengurusan suatu jenis 
+pelayanan, baik persyaratan teknis maupun administratif. 
+2. Prosedur 
+Prosedur adalah tata cara pelayanan yang dibakukan bagi pemberi dan penerima 
+pelayanan, termasuk pengaduan. 
+3. Waktu pelayanan 
+Waktu pelayanan adalah jangka waktu yang diperlukan untuk menyelesaikan seluruh 
+proses pelayanan dari setiap jenis pelayanan. 
+4. Biaya/Tarif 
+Biaya/Tarif adalah ongkos yang dikenakan kepada penerima layanan dalam mengurus 
+dan/atau memperoleh pelayanan dari penyelenggara yang besarnya ditetapkan 
+berdasarkan kesepakatan antara penyelenggara dan masyarakat. 
+5. Produk Spesifikasi Jenis Pelayanan 
+Produk spesifikasi jenis pelayanan adalah hasil pelayanan yang diberikan dan diterima 
+sesuai dengan ketentuan yang telah ditetapkan. Produk pelayanan ini merupakan hasil 
+dari setiap spesifikasi jenis pelayanan. 
+6. Kompetensi Pelaksana 
+Kompetensi Pelaksana adalah kem ampuan yang harus dimiliki oleh pelaksana 
+meliputi pengetahuan, keahlian, keterampilan, dan pengalaman. 
+7. Perilaku Pelaksana 
+Perilaku Pelaksana adalah sikap petugas dalam memberikan pelayanan. 
+8. Penanganan Pengaduan, Saran dan Masukan 
+Penanganan pengaduan, sar an dan masukan, adalah tata cara pelaksanaan 
+penanganan pengaduan dan tindak lanjut. 
+9. Sarana dan Prasarana 
+Sarana adalah segala sesuatu yang dapat dipakai sebagai alat dalam  mencapai 
+maksud dan tujuan. Prasarana adalah segala sesuatu yang  merupakan penunjang 
+utama terselenggaranya suatu proses (usaha,  pembangunan, proyek). Sarana 
+--PAGE16--
+Survei Kepuasan Masyarakat Bidang Pekerjaan Umum dan Perhubungan  
+Kabupaten Jember  
+ 
+LAPORAN AKHIR | H a l a m a n  | 6 
+digunakan untuk benda yang bergerak (komputer, mesin) dan prasarana untuk benda 
+yang tidak bergerak (gedung). 
+ 
+1.7. Luaran Kegiatan 
+Keluaran yang dihasilkan dari pelaksanaan kegiatan kegiatan Penyusunan Survei 
+Kepuasan Masyarakat Bidang Dinas Pekerjaan Umum Bina Marga dan Sumber Daya Air, 
+Dinas Perumahan Rakyat Kawasan Permukiman dan Cipta Karya, serta Dinas Perhubungan 
+Kabupaten Jember ini adalah sebagai berikut:  
+Laporan pelaksanaan pekerjaan kajian, berupa: 
+a. Laporan Pendahuluan (5 Buku); 
+b. Laporan Antara (5 Buku); 
+c. Draft Laporan Akhir; 
+d. Laporan Akhir (10 Buku); 
+e. Ringkasan Eksekutif (10 Buku); dan 
+f. Soft File. 
+ 
+1.8. Sistematika Pembahasan 
+Sistematika pembahasan lapoaran akhir ini adalah sebagai berikut:  
+BAB I Pendahuluan 
+Meliputi latar belakang, maksud tujuan  dan sasaran, kebijakan tentang S urvei 
+Kepuasan Masyarakat , waktu penyelesaian pekerjaan, lokasi pekerjaan, lingkup 
+pekerjaan, luaran kegiatan, dan sistematika pembahasan. 
+BAB II Profil Bidang Pekerjaan Umum dan Perhubungan 
+Meliputi gambaran umum setiap instansi unit pelayanan pemerintah. 
+BAB III Metodologi Pelaksanaan Pekerjaan 
+Meliputi pendekatan administrasi dan teknis serta metode dalam penyelesaian 
+pekerjaan. 
+BAB IV Teknis Pelaksanaan Survei 
+Meliputi sasaran lokasi dan jadwal pelaksanaan survei dan pelaksanaan pengumpulan 
+data. 
+BAB V Hasil dan Diskusi Survei 
+Meliputi hasil dari pengumpulan data, serta hasil analisis dari pengumpulan data 
+dengan metode yang ditentukan. 
+BAB VI Kesimpulan 
+Meliputi rekapitulasi hasil dan diskusi survei, ditarik kesimpulan dan saran untuk 
+kedepannya. 
+--PAGE17--
+Survei Kepuasan Masyarakat Bidang Pekerjaan Umum dan Perhubungan  
+Kabupaten Jember  
+ 
+LAPORAN AKHIR | H a l a m a n  | 7 
+ 
+  
+--PAGE18--
+Survei Kepuasan Masyarakat Bidang Pekerjaan Umum dan Perhubungan  
+Kabupaten Jember  
+ 
+LAPORAN AKHIR | H a l a m a n  | 8 
+BAB II Profil dan Kegiatan Layanan Bidang 
+Pekerjaan Umum dan Perhubungan 
+2.1. Gambaran Umum Dinas Pekerjaan Umum Bina Marga dan Sumber Daya Air 
+Dinas Pekerjaan Umum Bina Marga dan Sumber Daya Air Kabupaten Jember 
+mempunyai tugas pokok melaksanakan sebagian tugas Pemerintahan dan Pembangunan di 
+bidang Pekerjaan Umum yang diserahkan (desentralisasi) dan yang diperbant ukan kepada 
+Daerah sesuai dengan Peraturan Perundang –undangan. Sesuai dengan peraturan daerah 
+kabupaten jember nomor 37 tahun 20 16 tentang pembentukan dan susunan perangkat 
+daerah, Dinas Pekerjaan Umum Bina Marga dan Sumber Daya Air menyelenggarakan urusan 
+pemerintahan bidang Pekerjaan Umum terdiri atas 1 (satu) sekretariat dan 6 (enam) bidang. 
+Enam bidang tersebut antara lain: 
+1. Bidang Pembangunan Dan Peningkatan Jalan Dan Jembatan 
+Didalam bidang ini terdapat dua seksi yaitu seksi pembangunan dan peningkatan jalan 
+serta seksi pembangunan dan peningkatan jembatan. 
+2. Bidang Pemeliharaan Jalan Dan Jembatan 
+Didalam bidang ini terdapat dua seksi yaitu seksi pemeliharaan jalan dan seksi 
+pemeliharaan jembatan 
+3. Bidang Pembangunan & Rehabilitasi SDA 
+Didalam bidang ini terdapat dua seksi yaitu seksi pembangunan dan seksi rehabilitasi 
+dalam bangunan sumber daya air. 
+4. Bidang Operasi & Pemeliharaan SDA 
+Didalam bidang ini terdapat dua seksi yaitu seksi operasi irigasi  dan seksi 
+pemeliharaan bangunan irigasi 
+5. Bidang Bina Program Pekerjaan Umum 
+Didalam bidang ini terdapat tiga seksi yaitu seksi perencanaan teknis pekerjaan 
+umum, seksi pembangunan dan pemeliharaan drainase dan trotoar serta seksi 
+pemanfaatan rumija dan sempadan sungai 
+6. Bidang Peralatan Dan Perbekalan Pekerjaan Umum 
+Didalam bidang ini terdapat dua seksi yaitu seksi peralatan Bina Marga dan Sumber 
+Daya Air dan seksi perbekalan Bina Marga dan Sumber Daya Air 
+Diantara bidang bidang tersebut terdapat  2 (dua) bidang yang menyelenggarakan 
+kegiatan layanan yang terkait deng an masyarakat yaitu layanan kerusakan jalan dalam 
+bidang bina marga serta layanan air irigasi dalam bidang sumber daya air. 
+ 
+--PAGE19--
+Survei Kepuasan Masyarakat Bidang Pekerjaan Umum dan Perhubungan  
+Kabupaten Jember  
+ 
+LAPORAN AKHIR | H a l a m a n  | 9 
+Berikut merupakan Profil Umum di Dinas Pekerjaan Umum Bina Marga dan Sumber Daya 
+Air. 
+Nama instasi : Dinas Pekerjaan Umum Bina Marga dan Sumber Daya Air 
+Alamat   : Jl. Brawijaya No. 63, Jember 
+Waktu Pelayanan : Senin-Jumat, Jam 7.30 – 16.00 WIB 
+ 
+Gambar 2.1 Dinas Pekerjaan Umum Bina Marga dan Sumber Daya Air Kabupaten Jember 
+Dinas Pekerjaan Umum Bina Marga dan Sumber Daya Air mempunyai fungsi:  
+1. Perumusan kebijakan dalam penyusunan program penyelenggaraan infrastruktur 
+jalan, jembatan, bangunan, pelengap jalan, dan pengembangan sumber daya air 
+berupa jaringan irigasi dan bangunan pelengkap lainnya; 
+2. Pelaksanaan pembangunan infrastruktur jalan, jembatan, saluran drainase, jaringan 
+irigasi, dan bangunan pelengkap lainnya; 
+3. Pelaksanaan rehabilitasi dan pemeliharaan infrastruktur jalan, jembatan, saluran 
+drainase, jaringan irigasi, dan bangunan pelengkap lainnya; 
+4. Pembinaan, pembimbingan, dan pengendalian terhadap pelaksanaan 
+penyelenggaraan infrastuktur jalan, jembata, saluran drainase, jaringan irigasi, dan 
+bangunan pelengkap lainnya; 
+5. Pendataa, pengendalian, pengawasa, dan rekomendasi terhadap pemanfaatan asset 
+infrastruktur kebinamargaan dan sumber daya air di luar fungsinya, dan 
+6. Pelaksanaan fungsi lain yang diberikan oleh Bupati terkait dengan tugas dan fungsi 
+serta tugas pembatuan. 
+Berikut merupakan Struktur Organisasi di Dinas Pekerjaan Umum Bina Marga dan 
+Sumber Daya Air. 
+
+--PAGE20--
+Survei Kepuasan Masyarakat Bidang Pekerjaan Umum dan Perhubungan  
+Kabupaten Jember  
+ 
+LAPORAN AKHIR | H a l a m a n  | 10 
+ 
+Gambar 2.2 Struktur Organisasi Dinas Pekerjaan Umum Bina Marga dan Sumber Daya Air 
+Kabupaten Kabupaten Jember 
+Kegiatan layanan masyarakat dalam lingkup  Dinas Pekerjaan Umum Bina Marga  dan 
+Sumber Daya Air Kabupaten Jember diantaranya terkait Air irigasi, kerusakan dan perbaikan 
+jalan. Informasi terkait Standar Operasional Prosedur (SOP) diperlukan dalam pelaksanaan 
+layanan yg akan diberikan kepada masyarakat, agar kegiatan dapat berjalan dengan optimal 
+sesuai aturan yang sudah disepakati. 
+ 
+2.2. Gambaran Umum Dinas Perumahan Rakyat, Kawasan Pemukiman dan Cipta 
+Karya Kabupaten Jember 
+Dinas Perumahan Rakyat, Kawasan Permukiman dan Cipta Karya Kabupaten Jember 
+mempunyai tugas pokok melaksanakan sembilan tugas Pemerintahan dan Pembangunan di 
+bidang Pekerjaan Umum dan Penataan Ruang, urusan pemerintahan bidang Perumahan dan 
+Kawasan Permuki man yang diserahkan (desentralisasi) dan yang diperbantukan kepada 
+Daerah sesuai dengan Peraturan Perundang –undangan. Sesuai dengan Peraturan Bupati 
+Jember Nomor 50 Tahun 2016 Tentang Kedudukan, Susunan Organisasi, Tugas dan fungsi 
+serta Tata Kerja Dinas Perumahan Rakyat, Kawasan Permukiman dan Cipta Karya 
+Kabupaten Jember menyelenggarakan urusan pemerintahan bidang Pekerjaan Umum dan 
+Penataan Ruang, urusan pemerintahan bidang Perumahan dan Kawasan Permukiman serta 
+urusan pemerintahan bidang Pertanahan.  
+
+--PAGE21--
+Survei Kepuasan Masyarakat Bidang Pekerjaan Umum dan Perhubungan  
+Kabupaten Jember  
+ 
+LAPORAN AKHIR | H a l a m a n  | 11 
+Dalam struktur organisasi Dinas Perumahan Rakyat, Kawasan Permukiman dan Cipta 
+Karya Kabupaten Jember terdapat 3 bidang yang terdiri dari (1) Bidang Pengawasan dan Tata 
+Bangunan, (2) Bidang Penyehatan Lingkungan dan Pemukiman d an (3) Bidang Perumahan 
+dan Pemukiman. Di 3 bidang tersebut terdapat 8 (delapan) sub seksi yang menyelenggarakan 
+kegiatan layanan yang terkait dengan masyarakat yaitu layanan teknis dalam izin mendirikan 
+bangunan (IMB), Informasi tata ruang untuk perizinan lokasi, penerangan jalan umum (PJU), 
+Jalan lingkungan, limbah domestik, izin pemakaman, air bersih dan trotorar. 
+Berikut merupakan Profil Umum di Dinas Perumahan Rakyat, Kawasan Permukiman dan 
+Cipta Karya. 
+ 
+Gambar 2.3 Dinas Perumahan Rakyat, Kawasan Pemukiman dan Cipta Karya Kabupaten 
+Jember 
+Nama instasi : Dinas Perumahan Rakyat Kawasan Pemukiman dan Cipta 
+Karya Kabupaten Jember 
+Alamat : Jl. Srikoyo No. 01, Jember 
+Waktu Pelayanan : Senin-Jumat, Jam 07.00 - 15.00 WIB 
+Dinas Perumahan Rakyat, Kawasan Pemukiman dan Cipta Karya mempunyai fungsi:  
+1. Perumusan kebijakan dalam penyusunan program urusan pekerjaaan umum dan 
+penataan ruang yang terdiri dari sub urusan air minum, sub urusan air limbah, sub 
+urusan drainase, sub urusan permukiman, sub urusan bangunan gedung, sub urusan 
+penataan bangunan dan lingkungan,  sub urusan jasa konstruksi dan sub urusan 
+penataan ruang; 
+
+--PAGE22--
+Survei Kepuasan Masyarakat Bidang Pekerjaan Umum dan Perhubungan  
+Kabupaten Jember  
+ 
+LAPORAN AKHIR | H a l a m a n  | 12 
+2. Perumusan kebijakan dalam penyusunan program dan perumahan dan kawasan 
+permukiman yang terdiri dari sub urusan perumahan, sub urusan kawasan 
+permukiman, sub urusan perumahan dan kawasan permukiman kumuh, sub kawasan 
+sarana, prasarana, dan utilitas umum, sub urusan sertifikasi, kualifikasi, klasifikasi dan 
+registrasi bidang perumahan dan kawasan permukiman; 
+3. Perumusan kebijakan dalam penyusunan program pertanahan; 
+4. Pelaksanaan kebijakan urus an di bidang pekerjaan umum dan penataan ruang, 
+bidang kawasan Perumahan dan Permukiman dan bidang Pertanahan; 
+5. Pelaksanaan evaluasi dan pelaporan urusan di bidang pekerjaan umum dan penataan 
+ruang, bidang kawasan perumahan dan permukiman dan pertanahan; 
+6. Pelaksanaan administrasi dinas; dan 
+7. Pelaksanaan fungsi lain yang diberikan oleh Bupati terkait tugas dan fungsi serta tugas 
+pembantuan 
+Berikut merupakan Struktur Organisasi di Dinas Pekerjaan Rakyat, Kawasan Pemukiman 
+dan Cipta Karya 
+ 
+Gambar 2. 4 Struktur Organisasi Perumahan Rakyat, Kawasan Pemukiman dan Cipta 
+Karya Kabupaten Jember 
+Kegiatan layanan masyarakat dalam lingkup Dinas Perumahan Rakyat, Kawasan 
+Permukiman dan Cipta Karya Kabupaten Jember diantaranya terkait Kajian Teknis Dalam Izin 
+Mendirikan Bangunan, Informasi tata ruang untuk per izinan lokasi, Pelayanan Penerangan 
+Jalan Umum, Jalan Lingkungan, pembangunkan RTLH, Limbah Domestik, Izin Pemakaman, 
+
+--PAGE23--
+Survei Kepuasan Masyarakat Bidang Pekerjaan Umum dan Perhubungan  
+Kabupaten Jember  
+ 
+LAPORAN AKHIR | H a l a m a n  | 13 
+Air Bersih, Trotoar. Informasi terkait Standar Operasional Pro sedur (SOP) diperlukan dalam 
+pelaksanaan layanan yg akan diberikan kepada masyarakat, agar kegiatan dapat berjalan 
+dengan optimal sesuai aturan yang sudah disepakati. 
+2.3. Gambaran Umum Dinas Perhubungan 
+Dinas perhubungan kabupaten jember merupakan  salah satu instasi pemerintah kota 
+jember yang mempunyai tugas pokok melaksanakan sebagian tugas pemerintahan dan 
+pembangunan di bidang perhubungan yang diserahkan (desentralisasi) dan yang 
+diperbantukan kepada daerah sesuai dengan peraturan perundang –undangan. Sesuai 
+dengan peraturan daerah kabupaten jember nomor 39 tahun 2016 tentang pembentukan dan 
+susunan perangkat daerah, dinas perhubungan menyelenggarakan urusan pemerintahan 
+bidang perhubungan terdiri atas 1 (satu) sekretariat dan 4 (empat) bidang. E mpat bidang 
+tersebut antara lain bidang lalu lintas, bidang angkutan, bidang sarana dan prasarana 
+perhubungan darat, dan bidang sarana dan prasarana perhubungan laut dan udara.  
+Diantara bidang bidang tersebut terdapat  7 (tujuh) bidang yang menyelenggaraka n 
+kegiatan layanan yang terkait dengan masyarakat yaitu layanan pengujian berkala kendaraan 
+bermotor, layanan per izinan angkutan, layanan parkir, layanan bandara, dan layanan 
+terminal, layanan angkutan umum dan layanan kinerja lalu lintas. 
+Berikut merupakan Profil Umum di Dinas Perhubungan. 
+Nama instasi : Dinas Perhubungan 
+Alamat  : Jl. Dewi Sartika No. 1, Jember 
+Waktu Pelayanan : Senin- Kamis, Jam 7.30 - 16.00 WIB 
+ 
+Gambar 2.5 Dinas Perhubungan Kabupaten Jember 
+Dinas Perhubungan mempunyai fungsi:  
+1. Penyiapan perumusan kebijakan di bidang perhubungan; 
+
+--PAGE24--
+Survei Kepuasan Masyarakat Bidang Pekerjaan Umum dan Perhubungan  
+Kabupaten Jember  
+ 
+LAPORAN AKHIR | H a l a m a n  | 14 
+2. Pelaksanaan kebijakan daerah di bidang perhubungan; 
+3. Pelaksanaan evaluasi dan pelaporan daerah di bidang perhubungan; 
+4. Pelaksanaan administrasi dinas di bidang perhubungan; 
+5. Pelaksanaan pembinaan manajemen dan rekayasa lalu lintas, pengendalian dan 
+operasional, bimbingan keselamatan; 
+6. Pelaksanaan pembinaan angkutan dan pembangunan sarana dan prasarana bidang 
+perhubungan; 
+7. Pelaksanaan pembinaan dan pengawasan pengujian kendaraan bermotor, bandara, 
+terminal tipe c; 
+8. Pemberian surat izin rekomendasi penyelenggaraan dan pembangunan fasilitas 
+parkir; 
+9. Pelaksanaan pengawasan operasional angkutan perkeretaapian; 
+10. Pelaksanaan persetujuan hasil analisa dampak lalu lintas untuk jalan kabupaten; 
+11. Pelaksanaan tugas lain yang diberikan oleh Bupati sesuai dengan tugas dan fungsi 
+serta tugas pembantuan 
+Berikut merupakan Struktur Organisasi di Dinas Pekerjaan Umum Bina Marga dan 
+Sumber Daya Air 
+ 
+Gambar 2.6. Struktur Organisasi Dinas Perhubungan Kabupaten Kabupaten Jember 
+Kegiatan layanan masyarakat dalam lingkup Dinas Perhubungan Kabupaten Jember 
+diantaranya terkait Layanan Pengujian Kendaraan Bermotor, Layanan Per izinan Angkutan, 
+Layanan Parkir, Layanan Band ara, Layanan Terminal, Layanan Angkutan Umum, Layanan 
+Kinerja Lalu Lintas. Informasi terkait Standar Operasional Prosedur (SOP) diperlukan dalam 
+
+--PAGE25--
+Survei Kepuasan Masyarakat Bidang Pekerjaan Umum dan Perhubungan  
+Kabupaten Jember  
+ 
+LAPORAN AKHIR | H a l a m a n  | 15 
+pelaksanaan layanan yg akan diberikan kepada masyarakat, agar kegiatan dapat berjalan 
+dengan optimal sesuai aturan yang sudah disepakati.  
+--PAGE26--
+Survei Kepuasan Masyarakat Bidang Pekerjaan Umum dan Perhubungan  
+Kabupaten Jember  
+ 
+LAPORAN AKHIR | H a l a m a n  | 16 
+BAB III Metodologi Pelaksanaan Pekerjaan 
+3.1. Pelaksanaan dan Teknik Survei 
+3.1.1. Pelaksanaan 
+Berdasarkan Peraturan Menteri Pendayagunaan Aparatur Negara dan Reformasi 
+Birokrasi nomor 14 tahun 2017 , Pelaksanaan survei kepuasan masyarakat terhadap 
+penyelenggaraan 3 dinas pelayanan publik dengan unit pelayanan yang sesuai 
+dengan dinasnya meliputi; 
+Dinas Pekerjaan Umum : unit layanan kerusakan dan pebaikan jalan; serta 
+layanan air irigasi 
+Dinas Perumahan Cipta Karya : unit layanan izin mendirikan bangunan; layanan izin 
+pemakaman; layanan limbah domestik; layanan izin 
+tata ruang ; layanan jalan lingkungan ; layanan 
+penerangan jalan umum ; layanan trotoar; serta 
+layanan air bersih. 
+Dinas Perhubungan  : pada unit layanan pengujian kendaraan bermotor, 
+layanan perizinan angkutan, layanan terminal, 
+layanan angkutan umum, layanan parkir, layanan 
+kinerja lalu lintas, dan layanan bandar udara. 
+Pelaksanaan ini dapat dilaksanakan melalui tahapan perencanaan, pe rsiapan, 
+pelaksanaan, pengolahan dan penyajian hasil survei, yang mencakup langkah - 
+langkah, sebagai berikut: 
+1. Menyusun instrumen survei; 
+2. Menentukan besaran dan teknik penarikan sampel; 
+3. Menentukan responden; 
+4. Melaksanakan survei; 
+5. Mengolah hasil survei; 
+6. Menyajikan dan melaporkan hasil. 
+3.1.2. Teknik Survei Kepuasan Masyarakat 
+Untuk melakukan survei dapat menggunakan teknik survei, antara lain: 
+1. Kuesioner dengan wawancara tatap muka; 
+2. Kuesioner melalui pengisian sendiri, termasuk yang dikirimkan melalui surat; 
+3. Kuesioner elektronik (via google formulir); 
+3.1.3. Hasil Survei Kepuasan Masyarakat 
+Hasil survei kepuasan masyarakat pada unit layanan dimaksudkan untuk: 
+--PAGE27--
+Survei Kepuasan Masyarakat Bidang Pekerjaan Umum dan Perhubungan  
+Kabupaten Jember  
+ 
+LAPORAN AKHIR | H a l a m a n  | 17 
+1. Mengetahui kelemahan atau kekuatan dari unit penyelenggara pelayanan 
+publik. 
+2. Mengukur secara berkala penyelen ggaraan pelayanan yang telah 
+dilaksanakan oleh unit layanan di setiap dinas pekerjaan 
+3. Sebagai bahan penetapan kebijakan yangperlu diambil dan langkah 
+perbaikan pelayanan pada unit layanan  
+4. Sebagai umpan balik dalam memperbaiki layanan pada unit layanan 
+pengujian berkala 
+5. Masyarakat dapat terlibat secara aktif untuk mengawasi pelaksanaan 
+penyelenggaraan pelayanan publik pada unit layanan  
+ 
+3.2. Metode Pelaksanaan 
+Jenis survei kepuasan masyarakat ini adalah kegiatan survei tanpa menggunakan 
+hipotesis. Pendekatan metode yang digunakan dalam kegiatan adalah menggunakan 
+pendekatan campuran antara pendekatan kuantitatif dan kualitatif.  Metode ini 
+disesuaikan dengan Peraturan Menteri Pendayagunaan Aparatur Negara dan 
+Reformasi Birokrasi nomor 14 tahun 2017 t entang Pedoman Penyusunan Survei 
+Kepuasan Masyarakat Unit Penyelenggara Pelayanan Publik. 
+3.2.1. Persiapan 
+Tahapan persiapan adalah tahapan awal sebagai penentu kegiatan persiapan 
+terbagi atas 4 (empat) output yaitu: 
+1. Penetapan Pelaksana 
+Pelaksana dalam kegiatan ini adalah terdiri dari tim tenaga ahli, asisten tenaga ahli, 
+serta surveior yang memiliki pengalaman dan kredibilitas dalam bidang penelitian dan 
+survei kepada masyarakat.  
+2. Penyiapan Bahan Survei  
+a. Penyiapan bahan survei yang dimaksud adalah kuesioner Survei Kepuasan 
+Masyarakat, dimana kuesioner ini sebagai alat bantu dalam pengumpulan data 
+kepada masyarakat pengguna dinas pelayanan pemerintah . masyarakat  
+penerima pelayanan. Penyusunan kuesioner disesuaikan dengan jenis layanan 
+yang disurvei dan data yang ingin diperoleh dari jenis ataupun unit layanan. Salah 
+satu contoh bentuk kuesioner terlampir (Lampiran Kuesioner) pada lampiran ini. 
+b. Bagian Kuesioner Bagian kuesioner secara umum, terbagi dalam : 
+1) Bagian Pertama 
+--PAGE28--
+Survei Kepuasan Masyarakat Bidang Pekerjaan Umum dan Perhubungan  
+Kabupaten Jember  
+ 
+LAPORAN AKHIR | H a l a m a n  | 18 
+Pada bagian pertama berisikan judul kuesioner dan nama instansi yang 
+dilakukan survei. 
+2) Bagian Depan 
+Pada bagian  kedua dapat berisikan identitas responden, antara lain: jenis 
+kelamin, usia, pendidikan dan pekerjaan. Identitas dipergunakan untuk 
+menganalisis profil responden kaitan dengan persepsi (penilaian) responden 
+terhadap layanan yang diperoleh. Selain itu dapat juga ditambahkan kolom 
+waktu/jam responden saat disurvei. 
+3) Pertanyaan Tertutup (Closed Question) 
+Pertanyaan tertutup adalah pertanyaan yang bersifat kuantitatif ata u terukur 
+dengan menggunakan skala Likert 4 (empat) point dan membatasi responden 
+dalam menyampaikan tingkat kepuasan atas indikator -indikator pelayanan 
+yang diharapkan. Indikator -indikator yang ingin didapatkan dari responden 
+meliputi: 
+➢ Harapan masyarakat (ekspektasi) 
+➢ Pelayanan yang dirasakan oleh masyarakat (persepsi). 
+➢ Tingkat kepentingan (rangking dari atribut layanan yang dirasakan 
+masyarakat) 
+4) Pertanyaan Terbuka (Open Question) 
+Pertanyaan terbuka adalah pertanyaan bersifat kualitatif, yang tidak 
+membatasi responden dalam menyampaikan tingkat kepuasan, tidak diukur 
+dalam angka dan merupakan penjabaran atas indikator-indikator pertanyaan 
+tertutup. 
+c. Penilaian Tingkat kualitas pelayanan di mulai darisangat  baik/puas sampai 
+dengan tidak baik/puas. Pembagian jaw aban dibagi dalam 4 (empat) kategori, 
+yaitu: 
+1) tidak baik, diberi nilai persepsi 1; 
+2) kurang baik, diberi nilai persepsi 2; 
+3) baik, diberi nilai 3; 
+4) sangat baik, diberi nilai persepsi 4.  
+Contoh Penilaian terhadap unsur prosedur pelayanan. 
+1) Diberi nilai 1 ( tidak mudah) apabila pelaksanaan prosedur pelayanan tidak  
+sederhana, alur berbelit-belit, panjang dan tidak jelas, loket terlalu banyak, 
+sehingga proses tidak efektif. 
+2) Diberi nilai 2 (kurang mudah) apabila pelaksanaan prosedur pelayanan masih 
+belum mudah, sehingga prosesnya belum efektif. 
+--PAGE29--
+Survei Kepuasan Masyarakat Bidang Pekerjaan Umum dan Perhubungan  
+Kabupaten Jember  
+ 
+LAPORAN AKHIR | H a l a m a n  | 19 
+3) Diberi nilai 3 (mudah) apabila pelaksanaan prosedur pelayanan dirasa mudah, 
+sederhana, tidak berbelit-belit tetapi masih perlu diefektifkan. 
+4) Diberi nilai 4 (sangat mudah) apabila pelaksanaan prosedur pelayanan dirasa 
+sangat jelas, mudah, sangat sederhana, sehingga prosesnya mudah dan 
+efektif. 
+3. Penetapan Jumlah Responden, Lokasi dan Waktu Pengumpulan Data 
+a. Penetapan Jumlah Responden : Teknik penarikan sampel dapat disesuaikan 
+dengan jenis layanan, tujuan survei dan data yang ingin diperoleh. Responden 
+dipilih secara acak yang ditentukan  sesuai dengan cakupan wilayah masing-
+masing unit pelayanan. Sedangkan untuk besaran sampel dan populasi dapat 
+menggunakan tabel sampel dari Krejcie and Morgan (Lampiran Tabel Krejcie and 
+Morgan) atau dihitung dengan menggunakan rumus: 
+ 
+dimana: 
+S  = jumlah sampel 
+λ2 = lambda (faktor pengali) dengan  
+dk = 1, taraf kesalahan bisa 1 %, 5 %, 10 % 
+N = populasi 
+P  = (populasi menyebar normal) = Q = 0,5 d = 0,0 
+b. Lokasi dan Waktu Pengumpulan Data dapat dilakukan di: 
+1. Lokasi pada unit pelayanan pada Dinas Pekerjaan Umum Bina Marga dan 
+Sumber Daya Air, Dinas Perumahan Rakyat, Kawasan Permukiman dan 
+Cipta Karya, serta Dinas Perhubungan Kabupaten Jember pada saat masa 
+aktif jam kerja; 
+2. Di lingkungan masyarakat penerima layanan Dinas Pekerjaan Umum Bina 
+Marga dan Sumber Daya Air, Dinas Perumahan Rakyat, Kawasan 
+Permukiman dan Cipta Karya, serta Dinas Perhubungan Kabupaten Jember  
+pada saat jam sibuk atau senggang. 
+Pada laporan berikut ini, pendekatan yang digunakan untuk menetapankan jumlah 
+responden sebagai bentuk simpifikasi nilai populasi yang mewakili batasan suatu 
+sampel (Krejcie and Morgan) ditentukan dengan pengambilan data sampel (kuesioner) 
+pada pihak yang dianggap memahami layanan pemerintah.  Pihak yang dimaksud 
+disini dapat sebagai perangkat desa atau tokoh masyarakat. Data kuesioner yang 
+diperloleh dengan cara tersebut yakni; Layanan Perbaikan Kerusakan Jalan, Layanan 
+Air Irigasi, Kajian Teknis dalam Izin Mendirikan Bangunan, Informasi tata ruang untuk 
+S = {λ².N.P.Q} / {d² (N-1) + λ². P.Q} 
+ 
+--PAGE30--
+Survei Kepuasan Masyarakat Bidang Pekerjaan Umum dan Perhubungan  
+Kabupaten Jember  
+ 
+LAPORAN AKHIR | H a l a m a n  | 20 
+perizinan lokasi, Pelayanan Penerangan Jalan Umum, Jalan Lingkungan, p, Layanan 
+Limbah Domestik, Air Bersih, Layanan Kinerja Lalu Lintas. 
+ 
+3.2.2. Pengumpulan Data (Kegiatan Survei) 
+Pengumpulan data terkait survei  dilakukan pada beberapa lokasi unit pelayanan 
+atau masyarakat penerima layanan dinas  yang tersebar pada 31 Kecamatan di 
+Kabupaten Jember. Survei  dilakukan kepada  masyarakat yang  telah memperoleh 
+pelayanan da n memanfaatkan  sarpras dari Dinas Pekerjaan Pekerjaan Umum dan 
+perhubungan di Kabupaten Jember dilayani oleh Dinas Pekerjaan Umum Bina Marga 
+dan Sumber Daya Air, Dinas Perumahan Rakyat Kawasan Permukiman dan Cipta 
+Karya, serta Dinas Perhubungan Kabupaten Jember. 
+Tahapan dalam melakukan survei penyebaran kuesioner adalah: 
+1. Surveior memastikan responden adalah masyarakat yang telah memperoleh 
+pelayanan dari Dinas Pekerjaan Umum Bina Marga dan Sumber Daya Air, Dinas 
+Perumahan Rakyat Kawasan Permukiman dan Cipta Karya, serta Dinas 
+Perhubungan Kabupaten Jember. 
+2. Surveior menanyakan jenis pelayanan yang telah dirasakan oleh masyarakat yaitu 
+relevan dengan objek pelayanan yang disurvei. 
+3. Surveior memberikan penjelasan tentang: 
+a. Kegiatan pelaksana Survei Kepuasan Masyarakat di pelayanan Publik pada 
+Pekerjaan Umum Bina Marga dan Sumber Daya Air, Dinas Perumahan Rakyat 
+Kawasan Permukiman dan Cipta Karya, serta Dinas Perhubungan Kabupaten 
+Jember. 
+b. Latar belakang pelaksanaan Survei Kepuasan Masyarakat. Latar belakang 
+pelaksanaan Survei Kepuasan Masyarakat. 
+4. Surveior mendampingi dan memandu responden dalam melakukan  pengisian 
+kuesioner dengan tetap menjaga independensinya. 
+ 
+3.2.3. Pengolahan Data dan Analisis Survei 
+Pengolahan data masing-masing metode SKM dilakukan sebagai berikut: 
+1. Penentuan Bobot Nilai SKM 
+a. Setiap pertanyaan survei masing-masing unsur diberi nilai. 
+Nilai dihitung dengan menggunakan "nilai rata-rata tertimbang" masing -masing 
+unsur pelayanan. Dalam penghitungan survei kepuasan masyarakat terhadap unsur-
+--PAGE31--
+Survei Kepuasan Masyarakat Bidang Pekerjaan Umum dan Perhubungan  
+Kabupaten Jember  
+ 
+LAPORAN AKHIR | H a l a m a n  | 21 
+unsur pelayanan yang dikaji, setiap unsur pelayanan memiliki penimbang yang sama. 
+Nilai penimbang ditetapkan dengan rumus, sebagai berikut: 
+ 
+Untuk memperoleh nilai SKM unit pelayanan digunakan pendekatan nilai rata-rata 
+tertimbang dengan rumus sebagai berikut: 
+ 
+Untuk memudahkan interpretasi terhadap penilaian SKM yaitu antara 25 – 
+100, maka hasil penilaian tersebut di atas dikonversikan dengan nilai dasar 25, 
+dengan rumus sebagai berikut: 
+ 
+Mengingat unit pelayanan mempunyai karakteristik yang berbeda -beda, maka 
+setiap unit pelayanan dimungkinkan untuk: 
+➢ Menambah unsur yang dianggap relevan; 
+➢ Memberikan bobot yang berbeda terhadap 9 (sembilan) unsur yang dominan 
+dalam unit pelayanan, dengan catatan jumlah bobot seluruh unsur tetap 1. 
+Tabel 3.1 Nilai Persepsi, Nilai Interval, Nilai Interval Konversi, Mutu Pelayanan dan Kinerja 
+Unit Pelayanan 
+ 
+(Sumber: Kemenpan RB no 14 tahun 2017) 
+b. Pengolahan Data Survei 
+Pengolahan data survei dapat dilakukan dengan 2 (dua) cara, yaitu: 
+1) Pengolahan dengan komputer 
+Data entry dan penghitungan indeks dapat dilakukan dengan program 
+komputer/sistem data base. 
+2) Pengolahan secara manual  
+Bobot nilai rata–rata tertimbang (N) = Jumlah Bobot
+Jumlah Unsur =  1
+X 
+SKM = Total dari Nilai Persepsi Per Unsur
+Total Unsur yang terisi ×  Nilai Penimbang 
+SKM Unit Pelayanan ×  25 
+--PAGE32--
+Survei Kepuasan Masyarakat Bidang Pekerjaan Umum dan Perhubungan  
+Kabupaten Jember  
+ 
+LAPORAN AKHIR | H a l a m a n  | 22 
+i. Data Isian kuesioner dari setiap responden dimasukkan ke dalam formulir 
+mulai dari unsur 1 (U1) sampai dengan unsur X (UX);  
+ii. Langkah selanjutnya,  untuk mendapatkan nilai ra ta-rata per unsur 
+pelayanan dan nilai indeks unit pelayanan, sebagai berikut:  
+➢ Nilai rata -rata per unsur pelayanan.  Nilai masing -masing unsur 
+pelayanan dijumlahkan sesuai dengan jumlah kuesioner yang diisi oleh 
+responden. Selanjutnya, untuk  mendapatkan nilai rata-rata per unsur 
+pelayanan, maka jumlah nilai  masing-masing unsur pelayanan dibagi 
+dengan jumlah responden yang mengisi. 
+Contoh: Untuk mendapatkan nilai rata -rata tertimbang per unsur  
+pelayanan, maka jumlah nilai rata -rata per unsur pelayanan  dikalikan 
+dengan 0,11 (apabila 9 unsur) sebagai nilai bobot rata-rata tertimbang.  
+➢ Nilai indeks pelayanan , Untuk mendapatkan nilai survei unit 
+pelayanan, dengan cara menjumlahkan X unsur  
+➢ Pengujian Kualitas Data , Data pendapat masyarakat yang telah 
+dimasukkan dal am masing-masing kuesioner, disusun dengan 
+mengkompilasikan data  responden yang dihimpun berdasarkan 
+kelompok umur, jenis  kelamin, pendidikan terakhir dan pekerjaan 
+utama. Informasi ini  dapat digunakan untuk mengetahui profil 
+responden dan kecenderungan penerima layanan 
+3.2.4. GAP Analisis  
+Importance-Performance Analysis terdiri atas dua kemponen yaitu, analisis 
+kuadran dan analisis kesenjangan (gap). Dengan analisis kuadran dapat diketahui 
+respon konsumen terhadap produk layanan yang diplotkan berdasarkan tingkat 
+kepentingan dan kinerja dari produk layanan tersebut. Sedangkan analisis 
+kesenjangan (gap) digunakan untuk melihat kesenjangan antara kinerja suatu produk 
+layanan dengan harapan konsumen terhadap produk layanan tersebut. 
+Langkah pertama untuk analisis kuadran adalah menghitung rata -rata penilaian 
+kepentingan dan kinerja setiap produk layanan dengan rumus: 
+ 
+ 
+Di mana: 
+   =  Bobot rata-rata tingkat penilaian kinerja produk layanan ke-i 
+   =  Bobot rata-rata tingkat penilaian kepentingan produk layanan ke-i 
+ n  =  Jumlah responden 
+
+--PAGE33--
+Survei Kepuasan Masyarakat Bidang Pekerjaan Umum dan Perhubungan  
+Kabupaten Jember  
+ 
+LAPORAN AKHIR | H a l a m a n  | 23 
+ 
+Langkah selanjutnya adalah menghitung rata-rata tingkat kepentingan dan kinerja 
+untuk keseluruhan produk layanan dengan rumus: 
+ 
+Di mana: 
+  = Nilai rata-rata kinerja produk layanan 
+   = Nilai rata-rata kepentingan produk layanan 
+ n = Jumlah produk layanan 
+Nilai  ini memotong tegak lurus pada sumbu horizontal, yakni sumbu yang 
+mencerminkan kinerja produk layanan (X) sedangkan nilai  memotong tegak lurus 
+pada sumbu vertikal, yakni sumbu yang mencerminkan kepentingan produk layanan 
+(Y). setelah diperoleh bobot kinerja dan kepentingan produk layanan serta nilai rata -
+rata kinerja dan kepentingan produk layanan, kemudian nilai -nilai tersebut diplotkan 
+ke dalam diagram kartesius seperti yang ditunjukkan pada Gambar 3.1. 
+ 
+ 
+Gambar 3.1 Kuadran Importance-Performance Analysis 
+ 
+Diagram ini terdiri atas empat kuadran : Kuadran I (Prioritas Utama). Kuadran ini 
+memuat pelayanan yang dianggap kurang penting oleh masyarakat dan dirasakan 
+terlalu berlebihan. Peningkatan kinerja pada pelayanan yang terdapat pada kuadran 
+ini hanya akan menyebabkan terjadinya pemborosan sumber daya. Kuadran II 
+(Pertahankan Prestasi).  Pelayanan yang terdapat dalam kuadran ini menunjukkan 
+Kepuasan (Y) 
+Kuadran I 
+(Berlebihan) 
+Kuadran II 
+(Pertahankan 
+Prestasi) 
+Kuadran III 
+(Prioritas Rendah) 
+ 
+Kuadran IV 
+(Prioritas Utama) 
+ 
+Tingkat Kepentingan (Y) 
+ 
+
+--PAGE34--
+Survei Kepuasan Masyarakat Bidang Pekerjaan Umum dan Perhubungan  
+Kabupaten Jember  
+ 
+LAPORAN AKHIR | H a l a m a n  | 24 
+bahwa produk layanan tersebut p enting dan memiliki kinerja yang tinggi. Produk 
+layanan ini perlu dipertahankan untuk waktu selanjutnya. Kuadran III (Prioritas 
+Rendah). Pelayanan yang terdapat dalam kuadran ini dianggap kurang penting oleh 
+masyarakat dan pada kenyataannya kinerjanya tida k terlalu istimewa. Peningkatan 
+terhadap produk layanan yang masuk dalam kuadran ini dapat dipertimbangkan 
+kembali karena pengaruhnya terhadap manfaat yang dirasakan oleh masyarakat 
+sangat kecil. Kuadran IV (Perbaikan dengan Prioritas Tinggi) . Kuadran ini memuat 
+pelayanan yang dianggap penting oleh masyarakat tetapi pada kenyataannya layanan 
+tersebut belum sesuai dengan harapan masyarakat. Tingkat kinerja dari pelayanan 
+tersebut lebih rendah daripada tingkat harapan masyarakat terhadap pelayanan 
+tersebut. P elayanan yang terdapat dalam kuadran ini harus lebih ditingkatkan lagi 
+kinerjanya agar dapat memuaskan masyarakat 
+3.3. Diagram Alir Kegiatan 
+Tahapan proses yang akan dilakukan dalam penelitian ini digambarkan dalam 
+diagram alir kegiatan pada gambar 3.2 sebagai berikut : 
+ 
+Gambar 3.2 Diagram Alir Kegiatan 
+ 
+ 
+  
+ 
+
+--PAGE35--
+Survei Kepuasan Masyarakat Bidang Pekerjaan Umum dan Perhubungan  
+Kabupaten Jember  
+ 
+25 
+ 
+BAB IV Teknis Pelaksanaan Survei 
+4.1. Pembuatan dan Perbaikan Bahan Survei  
+Pembuatan bahan survei yang dimaksud adalah pembuatan kuesioner 
+sebagai pembantu petugas lapangan dalam melaksanakan survei kepuasan. 
+Kuesioner yang dibuat berupa kuesioner via online berupa google form dan kuesioner 
+via offline berupa kuesioner fo rmulir kertas apabila sampel sasaran tidak bisa 
+mengakses via online. Bahan kuesioner dibuat sesuai dengan Permenpan RB No. 14 
+tahun 2017, namun pada pekerjaan ini, kuesioner tersebut dibagi lebih detail menjadi 
+17 sesuai dengan layanan setiap dinas pelayanan publik yang dituju. 
+ 
+Gambar 4.1 Contoh Kuesioner Survei Kepuasan Masyarakat 
+Setelah dilakukan pembuatan kuesioner, dilakukan pengecekan kembali 
+kepada dinas yang terkait sesuai dengan bidang layanan nya masing masing. Tujuan 
+dilakukan pengecekan ini sebagai penyesuaian kuesioner terhadap layanan yang 
+dilakukan oleh  dinas terkait, agar tidak terjadi kesalahpahaman atau ketidaktauan  
+responder saat pengisian kuesioner. 
+
+--PAGE36--
+Survei Kepuasan Masyarakat Bidang Pekerjaan Umum dan Perhubungan  
+Kabupaten Jember  
+ 
+26 
+ 
+4.2. Penentuan Responder 
+Pada kegiatan ini,  terdapat 17 populasi yang akan dilakukan survei, dimana 
+populasi pada 10 layanan publik dinas meliputi air irigasi, kerusakan dan perbaikan 
+jalan, ari bersih, penerangan jalan umum, izin mendirikan bangunan, izin tata ruang 
+dan lokasi, limbah domestik, jalan lingkungan serta kinerja lalu lintas. Untuk 10 layanan 
+ini ditujukan pada tokoh masyarakat yang merupakan perangkat desa ( kepala desa 
+dan jajarannya) di seluruh kantor desa Kabupaten Jember yang sebanyak 248 desa. 
+Pemilihan responder kepada tokoh masyarakat desa dikarenakan mereka merupakan 
+pelayan masyarakat secara langsung dan s egala bentuk pe ngajuan, pengaduan, 
+masyarakat harus melaui tokoh masyarakat desa  (kantor desa) . Populasi pada 7 
+layanan publik dinas meliputi izin pemakaman, trotoar, pengujian kendaraan bermotor, 
+terminal, bandar udara, parkir, angkutan umum, dan per izinan angkutan dila kukan 
+pada l okasi langsung pada layanan . Tabel 4.1 merupakan daftar layanan beserta 
+populasi dan sampel responder. 
+Tabel 4.1 Penentuan Sampel responder terhadap populasi tokoh masyarakat desa di 
+Kab. Jember berdasarkan Tabel Krejie dan Morgan 
+Layanan Populasi Sampel (minimal) 
+Dinas Pekerjaan Umum, Bina Marga dan Sumber Daya Air 
+Air Irigasi 
+Kerusakan dan Perbaikan Jalan 
+248 
+248 
+152 
+152 
+Dinas Pekerjaan Rumah, Kawasn Pemukiman dan Cipta Karya 
+Air Bersih 
+Penerangan Jalan Umum 
+Izin Mendirikan Bangunan 
+Tata Ruang dan Izin Lokasi 
+Limbah Domestik 
+Jalan Lingkungan 
+Trotoar 
+Izin Makam 
+248 
+248 
+248 
+248 
+248 
+248 
+248 
+248 
+152 
+152 
+152 
+152 
+152 
+152 
+152 
+152 
+Dinas Perhubungan 
+Kinerja Lalu Lintas 
+Pengujian Kendaraan Bermotor 
+Terminal 
+Bandar Udara 
+Parkir 
+248 
+248 
+248 
+248 
+248 
+152 
+152 
+152 
+152 
+152 
+Angkutan Umum 
+Perizinan Angkutan 
+248 
+6 
+152 
+6 
+Pada tabel 4.1 menjelaskan Penentuan responden pada masing -masing 
+layanan publik dinas ditentukan dengan menggunakan rumus skala likert. Jumlah 
+--PAGE37--
+Survei Kepuasan Masyarakat Bidang Pekerjaan Umum dan Perhubungan  
+Kabupaten Jember  
+ 
+27 
+ 
+responden minimal ditentukan dengan penentuan populasi dan penyesuaian terhadap 
+sampel responder dengan menggunakan tabel krejie and morgan  (terlampir pada 
+lampiran). Pada pelaksanaan survei ini,  terdapat layanan yang tidak sesuai dengan 
+sampel dikarenakan pada beberapa desa tidak terlayani oleh pelayanan yang 
+diberikan oleh dinas terkait. Untuk daftar desa  
+ 
+4.3. Penentuan Pelaksana 
+Pada gambar 4.2 merupakan surat tugas dari kepala bapekab jember selama 
+kegiatan survei berlagsung . Survei yang dilakukan oleh tenaga lapang dari fakultas 
+Teknik Universitas Jember sebanyak 20 orang. 
+ 
+Gambar 4.2 Surat Tugas Tenaga Lapangan Survei Kepuasan Masyarakat 
+ 
+4.4. Sasaran Lokasi dan Jadwal Pelaksanaan Survei  
+Sasaran lokasi pada  kegiatan ini, 10 layanan publik dinas meliputi air irigasi, 
+kerusakan dan perbaikan jalan, ari bersih, penerangan jalan umum, izin mendirikan 
+
+--PAGE38--
+Survei Kepuasan Masyarakat Bidang Pekerjaan Umum dan Perhubungan  
+Kabupaten Jember  
+ 
+28 
+ 
+bangunan, izin tata ruang dan lokasi, limbah domestik, jalan lingkungan serta kinerja 
+lalu lintas. Untuk 10 layanan ini ditujukan pada tokoh masyarakat yang merupakan 
+perangkat desa (kepala desa dan jajarannya) di seluruh kantor desa Kabupaten 
+Jember yang sebanyak 248 desa.  
+ 
+Gambar 4.3  Salah satu sasaran lokasi kantor desa diluar daerah pusat kota Jember 
+Gambar 4.3 adalah pembagia lokasi dimana terdapat 31 kecamatan serta 248 
+desa di kabupaten Jember yang akan dituju dalam pengambilan data kuesioner SKM, 
+diantaranya: Kencong, Gumukmas, Puger, Wuluhan, Ambulu, Tempurejo, Silo, 
+Mayang, Mumbulsari, Jenggawah, Ajung, Ram bipuji, Balung, Umbulsari, Semboro, 
+Jombang, Sumberbaru, Tanggul, Bangsalsari, Panti, Sukorambi, Arjasa, Pakusari, 
+Kalisat, Ledokombo, Sumberjambe, Sukowono, Jelbuk, Kaliwates, Sumbersari, 
+Patrang. 
+Populasi pada 7 layanan publik dinas meliputi izin pemakam an, trotoar, 
+pengujian kendaraan bermotor, terminal, bandar udara, parkir, angkutan umum, dan 
+perizinan angkutan dilakukan pada lokasi langsung layanan. 
+Kegiatan pengambilan data kuesioner untuk Survei Kepuasan Masyarakat 
+Bidang Pekerjaan Umum dan Perhubungan Kabupaten Jember akan diselesaikan 
+dalam jangka waktu 4 minggu atau 48 (empat puluh delapan) hari sesuai dengan 
+jadwal pelaksanaan pekerjaan pada laporan pendahuluan. 
+ 
+4.5. Pengumpulan Data (Kegiatan Survei) 
+Pada gambar 4.4 t enaga lapangan saat p engumpulan data terkait survei 
+dilakukan dalam melakukan survei  yaitu menjelaskan kegiatan pelaksana Survei 
+
+--PAGE39--
+Survei Kepuasan Masyarakat Bidang Pekerjaan Umum dan Perhubungan  
+Kabupaten Jember  
+ 
+29 
+ 
+Kepuasan Masyarakat di pelayanan Publik pada dinas terkait latar belakang serta 
+pelaksanaanya. Kemudian memastikan responden telah memperoleh pelayanan dari 
+Dinas Pekerjaan Umum Bina Marga dan Sumber Daya Air, Dinas Perumahan Rakyat 
+Kawasan Permukiman dan Cipta Karya, serta Dinas Perhubungan Kabupaten Jember; 
+menanyakan jenis pelayanan yang telah dirasakan oleh masyarakat yaitu relevan 
+dengan objek pe layanan. Terakhir tenaga lapangan  mendampingi dan memandu 
+responden dalam melakukan pengisian kuesioner dengan tetap menjaga 
+independensinya. 
+  
+  
+Gambar 4.4 Kegiatan Tenaga Lapangan Memandu dan Menjelaskan Kepada Tokoh 
+Pada p elaksanaan survei ini, dinamika nya adalah, meski jumlah p opulasi 
+pengguna pelayanan banyak, bahkan dapat dikatakan memadai atau banyak,  
+penentuan sampel  survei sendiri sedikit. Hal tersebut dikarenakan kondisi pandemi 
+Covid dimana hampir layanan mengalami keterbatasan dalam memberikan layanan, 
+dan pengguna pelayanan hampir semua tidak ingin mengisi karena jarang hingga tidak 
+pernah menggunakan layanan publik pada masa kondisi pandemi. Ke depannya, perlu 
+dipikirkan strategi lain agar mampu menarik perhatian lebih banyak responden  
+terhadap layanan publik dengan masa kondisi pandemi covid. 
+ 
+ 

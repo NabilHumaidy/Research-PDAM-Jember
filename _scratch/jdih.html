@@ -1,0 +1,4313 @@
+<!DOCTYPE html>
+
+
+
+
+
+
+
+<html lang="en" data-color="light">
+
+
+
+
+
+
+
+<head>
+
+
+
+
+
+
+
+      <meta charset="utf-8">
+
+
+
+
+
+
+
+      <meta http-equiv="x-ua-compatible" content="ie=edge">
+
+
+
+
+
+
+
+      <meta name="csrf-token" content="Ndb7ZCsV5GAThFm1A3Y6LOUYJECHLjzRD7WCKtUC">
+
+
+
+
+
+
+
+      <title>Beranda -
+ JDIH KABUPATEN JEMBER</title>
+
+
+
+
+
+
+
+      <meta name="description" content="JDIH KABUPATEN JEMBER">
+
+
+
+
+
+
+
+      <meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+
+
+
+
+
+      
+
+
+
+
+
+
+      <link rel="shortcut icon" href="/File/showImage/eyJpdiI6Ik9zWkZjWjdMTW5TS0FpVjJSa2JuRmc9PSIsInZhbHVlIjoieERWcUIwMG80VmFCcVNwUmtCNnJQRWJldzJkNGtxK1BENU1vdlNZVmNuU21mMkZVUnhCRDYveVlsMnV2V1FSKyIsIm1hYyI6Ijk2M2ZjY2ZiYjMxMDY1MmUxOTliNDlmMTk4OTBmZTM0ZjZiOTM3NjZlMzU5ZTAyZDU3MjI1ZDVhNmFmZjQyMDUiLCJ0YWciOiIifQ==" type="images/x-icon" />
+
+
+
+
+
+
+
+     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+
+
+
+
+
+
+
+      <link rel="stylesheet" href="/assets/css/app.min.css">
+
+
+
+
+
+
+
+      <style>
+
+
+
+
+
+
+
+         @font-face{font-family:Poppins;src:url('/assets/font/Poppins-Regular.ttf') format('truetype')}div{font-family:Poppins}
+
+
+
+
+
+
+
+         .preloaders{position:fixed;left:0;top:0;width:100%;height:100%;background-color:#ffffffad;z-index:9999999}
+
+
+
+
+
+
+
+         .spinner{width:56px;height:56px;display:grid;animation:4s infinite spinner-plncf9;position:absolute;margin:auto;left:0;right:0;bottom:0;top:0}.spinner::after,.spinner::before{content:"";grid-area:1/1;border:9px solid;border-radius:50%;border-color: #ff74faff #0000 #0000;animation:1s linear infinite spinner-plncf9}.spinner::after{border-color:#0000 #0000 #dbdcef #dbdcef;animation-direction:reverse}@keyframes spinner-plncf9{100%{transform:rotate(1turn)}}
+
+
+
+
+
+
+
+      </style>
+
+
+
+
+
+
+
+      <style>
+
+
+
+
+
+
+
+#speech-reader-container{
+
+
+
+
+
+
+
+    position: fixed;
+
+
+
+
+
+
+
+    left: 20px;
+
+
+
+
+
+
+
+    bottom: 90px;
+
+
+
+
+
+
+
+    z-index: 999999;
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#speechToggle{
+
+
+
+
+
+
+
+    width: 60px;
+
+
+
+
+
+
+
+    height: 60px;
+
+
+
+
+
+
+
+    border-radius: 50%;
+
+
+
+
+
+
+
+    border: none;
+
+
+
+
+
+
+
+    cursor: pointer;
+
+
+
+
+
+
+
+    background: #ea1ad8;
+
+
+
+
+
+
+
+    color: white;
+
+
+
+
+
+
+
+    font-size: 24px;
+
+
+
+
+
+
+
+    box-shadow: 0 4px 10px rgba(0,0,0,.2);
+
+
+
+
+
+
+
+    transition: all .3s ease;
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#speechToggle:hover{
+
+
+
+
+
+
+
+    transform: scale(1.05);
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#speechToggle.active{
+
+
+
+
+
+
+
+    background: #16a34a;
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+</style>
+
+
+
+
+
+
+
+      
+
+
+
+
+
+
+   </head>
+
+
+
+
+
+
+
+   <body>
+
+
+
+
+
+
+
+      <div class="preloaders" style="display: none">
+
+
+
+
+
+
+
+         <div class="spinner"></div>
+
+
+
+
+
+
+
+      </div>
+
+
+
+
+
+
+
+      <div class="cursor-direction bg-teal-50"></div>
+
+
+
+
+
+
+
+      <main class="main-area overflow-hidden">
+
+
+
+
+
+
+
+         <!--  ====================== Header Area =============================  -->
+
+
+
+
+
+
+
+         <header class="header-area relative z-50 w-full py-4 lg:py-9">
+
+
+
+
+
+
+
+            <div class="header-area-inner relative px-4 z-20">
+
+
+
+
+
+
+
+               <nav class="header-nav flex items-center justify-between relative">
+
+
+
+
+
+
+
+                  <div class="header-logo">
+
+
+
+
+
+
+
+                     
+
+
+
+
+
+
+                     <a class='flex items-center flex-shrink-0 mr-6' href='/'>
+
+
+
+
+
+
+
+                        <img src="/File/showImage/eyJpdiI6IkxGNUJmRHY4aVNWSEpSYkhrb2tPd1E9PSIsInZhbHVlIjoiNnplcHBISkxiU0F5ckNUa0J5cFJOUWRhbnl2MG15OGpweVJ5djBya1czUXlZWmZSd0lIYVBQbFlDY090ZmU4VSIsIm1hYyI6IjllYWQ0NmYyOGRjMWM2Yjc3ZTIwMzZiYTYxZTkwZTA5Mjk5NTNlYjBiZjJjZDQ1ZDQ5NDc4ZTcyZWEyNTEyZWYiLCJ0YWciOiIifQ==" alt="" width="220px">
+
+
+
+
+
+
+
+                     </a>
+
+
+
+
+
+
+
+                  </div>
+
+
+
+
+
+
+
+                  <div class="flex-grow lg:flex lg:items-center lg:w-auto">
+
+
+
+
+
+
+
+                     <ul class="toggle-menu-class dropdown-menu bg-white lg:bg-transparent shadow lg:shadow-none absolute lg:relative inset-x-0 hidden lg:flex lg:flex-grow items-center mt-10 lg:mt-0 mobile-hover">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        <li class="relative lg:mr-4">
+
+
+
+
+
+
+
+                           <a class='px-5 py-2 lg:py-5 flex items-center text-coolGray-600 font-medium transition duration-500 hover:text-teal-400 arrow' href='/'> Beranda</a>
+
+
+
+
+
+
+
+                        </li>
+
+
+
+
+
+
+
+                        <li class="relative lg:mr-4">
+
+
+
+
+
+
+
+                           <a class='px-5 py-2 lg:py-5 flex items-center text-coolGray-600 font-medium transition duration-500 hover:text-teal-400 arrow' href="/Datainfo">Profil</a>
+
+
+
+
+
+
+
+                        </li>
+
+
+
+
+
+
+
+                        <li class="relative lg:mr-4">
+
+
+
+
+
+
+
+                           <button id="dropdownToggle" class="px-5 py-2 lg:py-5 flex items-center text-coolGray-600 font-medium transition duration-500 hover:text-teal-400 focus:outline-none">
+
+
+
+
+
+
+
+                              Dokumen
+
+
+
+
+
+
+
+                              <svg class="ml-1 w-4 h-4 text-coolGray-600 transition" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+
+
+
+
+
+
+
+                                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
+
+
+
+
+
+
+
+                              </svg>
+
+
+
+
+
+
+
+                           </button>
+
+
+
+
+
+
+
+                           
+
+
+
+
+
+
+
+                           <!-- Dropdown -->
+
+
+
+
+
+
+
+                           <ul id="dropdownMenu" class="hidden absolute left-0 mt-2 w-56 bg-white border border-gray-200 shadow-lg z-50">
+
+
+
+
+
+
+
+                              <li>
+
+
+
+
+
+
+
+                                    <a href="/Peraturan" class="px-5 flex items-center text-coolGray-600 font-medium transition duration-500 hover:text-teal-400 arrow">Peraturan</a>
+
+
+
+
+
+
+
+                              </li>
+
+
+
+
+
+
+
+                              <li>
+
+
+
+
+
+
+
+                                    <a href="/MonografiJdih" class="px-5 flex items-center text-coolGray-600 font-medium transition duration-500 hover:text-teal-400 arrow">Monografi Hukum</a>
+
+
+
+
+
+
+
+                              </li>
+
+
+
+
+
+
+
+                              <li>
+
+
+
+
+
+
+
+                                    <a href="/ArtikelJdih" class="px-5 flex items-center text-coolGray-600 font-medium transition duration-500 hover:text-teal-400 arrow">Artikel/Jurnal Hukum</a>
+
+
+
+
+
+
+
+                              </li>
+
+
+
+
+
+
+
+                              <li>
+
+
+
+
+
+
+
+                                    <a href="/PutusanJdih" class="px-5 flex items-center text-coolGray-600 font-medium transition duration-500 hover:text-teal-400 arrow">Putusan/Yurisprudensi</a>
+
+
+
+
+
+
+
+                              </li>
+
+
+
+
+
+
+
+                           </ul>
+
+
+
+
+
+
+
+                        </li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        <li class="relative lg:mr-4">
+
+
+
+
+
+
+
+                           <a class='px-5 py-2 lg:py-5 flex items-center text-coolGray-600 font-medium transition duration-500 hover:text-teal-400 arrow' href="/BeritaJdih">Berita </a>
+
+
+
+
+
+
+
+                        </li>
+
+
+
+
+
+
+
+                        <li class="relative lg:mr-4">
+
+
+
+
+
+
+
+                           <a class='px-5 py-2 lg:py-5 flex items-center text-coolGray-600 font-medium transition duration-500 hover:text-teal-400 arrow' href="/Statistik">Statistik</a>
+
+
+
+
+
+
+
+                        </li>
+
+
+
+
+
+
+
+                        <li class="relative lg:mr-4">
+
+
+
+
+
+
+
+                           <a class='px-5 py-2 lg:py-5 flex items-center text-coolGray-600 font-medium transition duration-500 hover:text-teal-400 arrow' href="/DokumenpuuJdih">Dokumen Pembentukan PUU</a>
+
+
+
+
+
+
+
+                        </li>
+
+
+
+
+
+
+
+                        
+
+
+
+
+
+
+
+                     </ul>
+
+
+
+
+
+
+
+                     <ul class="dropdown-menu right-side-menu flex flex-shrink-0">
+
+
+
+
+
+
+
+                        
+
+
+
+
+
+
+
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        <li class="hidden lg:flex relative dropdown ml-4">
+
+
+
+
+
+
+
+                           
+
+
+
+
+
+
+                              <a href="/Auth" class="btn-style-3 inline-flex justify-center items-center border border-teal-400 text-white font-medium rounded-full transition-all duration-500 bg-gradient-to-r from-teal-400 via-teal-100 to-teal-400 bg-size-200 bg-pos-0 hover:bg-pos-100 px-5 py-2">Masuk</a>
+
+
+
+
+
+
+
+                           
+
+
+
+
+
+
+                        </li>
+
+
+
+
+
+
+
+                        
+
+
+
+
+
+
+
+                        
+
+
+
+
+
+
+
+                        
+
+
+
+
+
+
+
+                        <li class="etheum-search-bar flex lg:hidden relative ml-auto mr-10">
+
+
+
+
+
+
+
+                           
+
+
+
+
+
+
+                              <a href="/Auth" class="btn-style-3 inline-flex justify-center items-center border border-teal-400 text-white font-medium rounded-full transition-all duration-500 bg-gradient-to-r from-teal-400 via-teal-100 to-teal-400 bg-size-200 bg-pos-0 hover:bg-pos-100 px-5 py-2">Masuk</a>
+
+
+
+
+
+
+
+                           
+
+
+
+
+
+
+                        </li>
+
+
+
+
+
+
+
+                     </ul>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                  </div>
+
+
+
+
+
+
+
+                  <button class="bg-coolGray-50 mobile-toggle block lg:hidden">
+
+
+
+
+
+
+
+                  <span class="bg-coolGray-600"></span>
+
+
+
+
+
+
+
+                  <span class="bg-coolGray-600"></span>
+
+
+
+
+
+
+
+                  <span class="bg-coolGray-600"></span>
+
+
+
+
+
+
+
+                  </button>
+
+
+
+
+
+
+
+               </nav>
+
+
+
+
+
+
+
+            </div>
+
+
+
+
+
+
+
+         </header>
+
+
+
+
+
+
+
+         
+    <section class="hero-area pb-20 2xl:pb-28 pt-10 2xl:pt-20 relative">
+        <div class="hero-bg-left absolute -bottom-52 left-0 -z-10">
+            <svg class="w-full" width="301" height="691" viewBox="0 0 301 691" fill="none"
+                xmlns="http://www.w3.org/2000/svg">
+
+            </svg>
+        </div>
+        <div class="hero-bg-right absolute -top-40 right-0 -z-10">
+            <svg class="w-full" width="1262" height="1356" viewBox="0 0 1262 1356" fill="none"
+                xmlns="http://www.w3.org/2000/svg">
+                <g filter="url(#filter0_f_1423_12669)">
+                    <ellipse rx="295.353" ry="293.376" transform="matrix(-1 0 0 1 973.353 275.376)" fill="#f8daf3" />
+                </g>
+                <circle cx="795.5" cy="440.5" r="253.5" stroke="white" stroke-width="50" />
+                <g filter="url(#filter1_f_1423_12669)">
+                    <ellipse cx="785.5" cy="572.5" rx="285.5" ry="283.5" fill="#f8daf3" />
+                </g>
+                <g filter="url(#filter2_f_1423_12669)">
+                    <circle cx="1008" cy="186" r="325" fill="#f8daf3" />
+                </g>
+                <defs>
+                    <filter id="filter0_f_1423_12669" x="178" y="-518" width="1590.71" height="1586.75"
+                        filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+                        <feFlood flood-opacity="0" result="BackgroundImageFix" />
+                        <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
+                        <feGaussianBlur stdDeviation="250" result="effect1_foregroundBlur_1423_12669" />
+                    </filter>
+                    <filter id="filter1_f_1423_12669" x="0" y="-211" width="1571" height="1567"
+                        filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+                        <feFlood flood-opacity="0" result="BackgroundImageFix" />
+                        <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
+                        <feGaussianBlur stdDeviation="250" result="effect1_foregroundBlur_1423_12669" />
+                    </filter>
+                    <filter id="filter2_f_1423_12669" x="560" y="-262" width="896" height="896"
+                        filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+                        <feFlood flood-opacity="0" result="BackgroundImageFix" />
+                        <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
+                        <feGaussianBlur stdDeviation="61.5" result="effect1_foregroundBlur_1423_12669" />
+                    </filter>
+                </defs>
+            </svg>
+        </div>
+        <div class="absolute z-10 hidden xl:block opacity-25 2xl:opacity-100 top-0 bottom-0 right-0 left-0">
+            <!
+            <span class="animate-2 absolute left-28 bottom-52"><svg width="20" height="20" viewBox="0 0 20 20"
+                    fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <circle cx="10" cy="10" r="10" fill="#ff69b4" />
+                </svg>
+            </span>
+            <span class="animate-3 absolute left-32 top-40"><svg width="38" height="38" viewBox="0 0 38 38"
+                    fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <path fill-rule="evenodd" clip-rule="evenodd"
+                        d="M0.651129 19.1367C10.928 19.0878 19.2461 10.8072 19.2657 0.592236C19.2849 10.6462 27.3431 18.8262 37.3956 19.1283L37.3951 19.1451C27.5222 19.442 19.5732 27.3379 19.2744 37.1447C19.2686 37.1449 19.2628 37.1451 19.257 37.1453C18.9536 27.1781 10.7477 19.1847 0.651129 19.1367ZM0.46822 19.1367C0.311684 19.1359 0.155604 19.1333 0 19.1288C0.000156532 19.134 0.00031529 19.1393 0.000476273 19.1446C0.155922 19.1401 0.311844 19.1374 0.46822 19.1367ZM19.2738 0.000481984C19.2687 0.172956 19.266 0.34602 19.2657 0.519642C19.2653 0.345857 19.2626 0.172632 19.2575 0L19.2738 0.000481984Z"
+                        fill="#ff69b4" />
+                </svg>
+            </span>
+            <span class="animate-2 absolute left-96 top-20"><svg width="20" height="20" viewBox="0 0 20 20"
+                    fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <circle cx="10" cy="10" r="10" fill="#ff69b4" />
+                </svg>
+            </span>
+            <span class="animate-1 absolute right-52 top-60"><svg width="38" height="38" viewBox="0 0 38 38"
+                    fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <path fill-rule="evenodd" clip-rule="evenodd"
+                        d="M0.651129 19.1367C10.928 19.0878 19.2461 10.8072 19.2657 0.592236C19.2849 10.6462 27.3431 18.8262 37.3956 19.1283L37.3951 19.1451C27.5222 19.442 19.5732 27.3379 19.2744 37.1447C19.2686 37.1449 19.2628 37.1451 19.257 37.1453C18.9536 27.1781 10.7477 19.1847 0.651129 19.1367ZM0.46822 19.1367C0.311684 19.1359 0.155604 19.1333 0 19.1288C0.000156532 19.134 0.00031529 19.1393 0.000476273 19.1446C0.155922 19.1401 0.311844 19.1374 0.46822 19.1367ZM19.2738 0.000481984C19.2687 0.172956 19.266 0.34602 19.2657 0.519642C19.2653 0.345857 19.2626 0.172632 19.2575 0L19.2738 0.000481984Z"
+                        fill="#ff69b4" />
+                </svg>
+            </span>
+            <span class="animate-3 absolute right-16 bottom-32"><svg width="20" height="20" viewBox="0 0 20 20"
+                    fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <circle cx="10" cy="10" r="10" fill="#ff69b4" />
+                </svg>
+            </span>
+        </div>
+        <div class="container relative z-20">
+            <div class="grid items-center grid-cols-1 lg:grid-cols-5 gap-8">
+                <div class="hero-content xl:pr-20 lg:col-span-3">
+                    <h2 class="text-3xl lg:text-4xl 2xl:text-6xl leading-tight font-bold text-coolGray-900">JDIH
+                        <br><span class="text-teal-400">Kabupaten Jember.</span></h2>
+                    <p class="text-lg md:text-xl leading-tight font-medium text-coolGray-600 my-6 2xl:my-12"> Jaringan dokumen dan informasi hukum Kabupaten Jember
+                    <form action="https://jdih.jemberkab.go.id/Beranda/pencarian" method="GET" class="w-full max-w-xl">
+                        <div class="flex items-center bg-white rounded-full shadow-md overflow-hidden">
+                            <input type="text" name="q" placeholder="Cari dokumen hukum..." 
+                                class="flex-grow px-4 py-3 text-sm text-coolGray-700 focus:outline-none" required>
+                            <button type="submit" 
+                                    class="bg-teal-400 hover:bg-teal-500 text-white px-6 py-3 rounded-r-full transition">
+                                Cari
+                            </button>
+                        </div>
+                    </form>
+                 <div class="mt-4">
+                    <a href="https://jdih.jemberkab.go.id/Peraturan" class="how-it-work-excerpt text-coolGray-600 font-normal text-center hover:underline">
+                    Pencarian Lebih Lanjut
+                    </a>
+                </div>
+                </div>
+                                <div class="lg:col-span-2" data-aos="fade-up">
+                    <img class="w-full max-w-xl hidden lg:block" src="/File/showImage/eyJpdiI6IjROdGZtWjF0WUhlUjZNVUlRQzY4NlE9PSIsInZhbHVlIjoieHBOdUlQSVlicm8wbHJUVTE0V0YzdlRmbURUS09EN0Rsai96Y1FUa0dQV3UwcFNjR3lWSDJwYldJWWFuUEdiMCIsIm1hYyI6ImJiMmJlZTg2Njc1MTYxNTRkMWVkZDQ5OGUxZWU5NmZmNjU5YWJmY2YzZDQwYmM2ZDkxNTZjN2QwMmY1MDE2MjciLCJ0YWciOiIifQ==" alt="title">
+                </div>
+            </div>
+        </div>
+    </section>
+    <section>
+    <div class="container">
+        <div class="grid grid-cols-1 md:grid-cols-4 gap-6 mt-6">
+            <div class="text-white rounded-lg shadow p-6 text-center" style="background-color:#FD9EFF;">
+                <p class="text-lg font-medium">Total Peraturan Perundang Undangan</p>
+                <h3 class="text-2xl font-bold">662</h3>
+            </div>
+
+            <div class="text-white rounded-lg shadow p-6 text-center" style="background-color:#FC5EFF;">
+                <p class="text-lg font-medium">Total Monografi</p>
+                <h3 class="text-2xl font-bold">6</h3>
+            </div>
+
+            <div class="text-white rounded-lg shadow p-6 text-center" style="background-color:#FD9EFF;">
+                <p class="text-lg font-medium">Total Artikel</p>
+                <h3 class="text-2xl font-bold">7</h3>
+            </div>
+            <div class="text-white rounded-lg shadow p-6 text-center" style="background-color:#FC5EFF;">
+                <p class="text-lg font-medium">Total Putusan</p>
+                <h3 class="text-2xl font-bold">2</h3>
+            </div>
+        </div>
+    </div>
+<br>
+<br>
+    </section>
+    <!--  ====================== Product Area =============================  -->
+    <section class="">
+        <div class="container">
+            <div class="section-title mb-10">
+                <span
+                    class="label-before-2 inline-block relative pl-10 text-teal-400 text-lg font-bold mb-2">Produk Hukum</span>
+                <h2 class="text-coolGray-900 leading-10 text-3xl lg:text-4xl font-bold">Produk Hukum Terbaru</h2>
+            </div>
+            <div id="card-peraturan-no-data"></div>
+            <div class="product-infinite grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6" id="card-peraturan">
+            </div>
+            <div class="flex items-center justify-center mt-10 lg:mt-16">
+                <a href="/Peraturan" class="btn-style-3 inline-flex justify-center items-center border border-teal-400 text-white font-medium rounded-full transition-all duration-500 bg-gradient-to-r from-teal-400 via-teal-100 to-teal-400 bg-size-200 bg-pos-0 hover:bg-pos-100 px-8 py-3">Lihat Lebih Banyak</a>
+            </div>
+        </div>
+    </section>
+
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+         
+
+
+
+
+
+
+
+         <!--  ====================== Footer Area =============================  -->
+
+
+
+
+
+
+
+         <footer class="footer-area py-16 bg-cover bg-top bg-no-repeat relative">
+
+
+
+
+
+
+
+            <div class="absolute z-10 hidden xl:block opacity-25 2xl:opacity-100 top-0 bottom-0 right-0 left-0">
+
+
+
+
+
+
+
+               <span class="animate-1 absolute right-32 bottom-40">
+
+
+
+
+
+
+
+                 
+
+
+
+
+
+
+
+               </span>
+
+
+
+
+
+
+
+               <span class="animate-3 absolute right-72 top-96">
+
+
+
+
+
+
+
+                  <svg width="21" height="20" viewBox="0 0 21 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+
+
+
+
+
+
+                     <ellipse cx="10.0674" cy="10" rx="10.0674" ry="10" fill="#fbccef"/>
+
+
+
+
+
+
+
+                  </svg>
+
+
+
+
+
+
+
+               </span>
+
+
+
+
+
+
+
+               <span class="animate-2 absolute right-20 top-80">
+
+
+
+
+
+
+
+                  <svg width="38" height="38" viewBox="0 0 38 38" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+
+
+
+
+
+
+                     <path fill-rule="evenodd" clip-rule="evenodd" d="M0.651129 19.1367C10.928 19.0878 19.2461 10.8072 19.2657 0.592236C19.2849 10.6462 27.3431 18.8262 37.3956 19.1283L37.3951 19.1451C27.5222 19.442 19.5732 27.3379 19.2744 37.1447C19.2686 37.1449 19.2628 37.1451 19.257 37.1453C18.9536 27.1781 10.7477 19.1847 0.651129 19.1367ZM0.46822 19.1367C0.311684 19.1359 0.155604 19.1333 0 19.1288C0.000156532 19.134 0.00031529 19.1393 0.000476273 19.1446C0.155922 19.1401 0.311844 19.1374 0.46822 19.1367ZM19.2738 0.000481984C19.2687 0.172956 19.266 0.34602 19.2657 0.519642C19.2653 0.345857 19.2626 0.172632 19.2575 0L19.2738 0.000481984Z" fill="#FF69B4"/>
+
+
+
+
+
+
+
+                  </svg>
+
+
+
+
+
+
+
+               </span>
+
+
+
+
+
+
+
+               <span class="animate-3 absolute right-16 top-52">
+
+
+
+
+
+
+
+                  <svg width="60" height="59" viewBox="0 0 60 59" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+
+
+
+
+
+
+                     <ellipse cx="29.6988" cy="29.5" rx="29.6988" ry="29.5" fill="#fbccef"/>
+
+
+
+
+
+
+
+                  </svg>
+
+
+
+
+
+
+
+               </span>
+
+
+
+
+
+
+
+               <span class="animate-2 absolute right-32 top-52">
+
+
+
+
+
+
+
+                  <svg width="18" height="18" viewBox="0 0 18 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+
+
+
+
+
+
+                     <rect width="18" height="18" fill="#fbccef"/>
+
+
+
+
+
+
+
+                  </svg>
+
+
+
+
+
+
+
+               </span>
+
+
+
+
+
+
+
+               <span class="animate-1 absolute right-20 top-96">
+
+
+
+
+
+
+
+                  <svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+
+
+
+
+
+
+                     <circle cx="10" cy="10" r="10" fill="#ff69b4"/>
+
+
+
+
+
+
+
+                  </svg>
+
+
+
+
+
+
+
+               </span>
+
+
+
+
+
+
+
+               
+
+
+
+
+
+
+
+               <span class="animate-2 absolute left-20 top-52">
+
+
+
+
+
+
+
+                  <svg width="38" height="38" viewBox="0 0 38 38" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+
+
+
+
+
+
+                     <path fill-rule="evenodd" clip-rule="evenodd" d="M0.651129 19.1367C10.928 19.0878 19.2461 10.8072 19.2657 0.592236C19.2849 10.6462 27.3431 18.8262 37.3956 19.1283L37.3951 19.1451C27.5222 19.442 19.5732 27.3379 19.2744 37.1447C19.2686 37.1449 19.2628 37.1451 19.257 37.1453C18.9536 27.1781 10.7477 19.1847 0.651129 19.1367ZM0.46822 19.1367C0.311684 19.1359 0.155604 19.1333 0 19.1288C0.000156532 19.134 0.00031529 19.1393 0.000476273 19.1446C0.155922 19.1401 0.311844 19.1374 0.46822 19.1367ZM19.2738 0.000481984C19.2687 0.172956 19.266 0.34602 19.2657 0.519642C19.2653 0.345857 19.2626 0.172632 19.2575 0L19.2738 0.000481984Z" fill="#ff69b4"/>
+
+
+
+
+
+
+
+                  </svg>
+
+
+
+
+
+
+
+               </span>
+
+
+
+
+
+
+
+               <span class="animate-3 absolute left-32 top-40">
+
+
+
+
+
+
+
+                  <svg width="21" height="20" viewBox="0 0 21 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+
+
+
+
+
+
+                     <ellipse cx="10.0674" cy="10" rx="10.0674" ry="10" fill="#fbccef"/>
+
+
+
+
+
+
+
+                  </svg>
+
+
+
+
+
+
+
+               </span>
+
+
+
+
+
+
+
+               <span class="animate-2 absolute left-28 top-80">
+
+
+
+
+
+
+
+                  <svg width="38" height="38" viewBox="0 0 38 38" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+
+
+
+
+
+
+                     <ellipse cx="18.706" cy="18.5808" rx="18.706" ry="18.5808" fill="#fbccef"/>
+
+
+
+
+
+
+
+                  </svg>
+
+
+
+
+
+
+
+               </span>
+
+
+
+
+
+
+
+               <span class="animate-1 absolute left-16 top-96">
+
+
+
+
+
+
+
+                  <svg width="38" height="38" viewBox="0 0 38 38" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+
+
+
+
+
+
+                     <ellipse cx="18.706" cy="18.5808" rx="18.706" ry="18.5808" fill="#FF69B4"/>
+
+
+
+
+
+
+
+                  </svg>
+
+
+
+
+
+
+
+               </span>
+
+
+
+
+
+
+
+            </div>
+
+
+
+
+
+
+
+            <div class="container z-20 relative">
+
+
+
+
+
+
+
+               <div class="flex flex-col items-center justify-center text-center">
+
+
+
+
+
+
+
+                  
+
+
+
+
+
+
+
+                  <!-- Judul dan Icon -->
+
+
+
+
+
+
+
+                  <div class="flex flex-col items-center justify-center">
+
+
+
+
+
+
+
+                     <div class="icon mb-2">
+
+
+
+
+
+
+
+                     <span class="icon-call-calling">
+
+
+
+
+
+
+
+                        <span class="path1"></span>
+
+
+
+
+
+
+
+                        <span class="path2"></span>
+
+
+
+
+
+
+
+                        <span class="path3"></span>
+
+
+
+
+
+
+
+                        <span class="path4"></span>
+
+
+
+
+
+
+
+                     </span>
+
+
+
+
+
+
+
+                     </div>
+
+
+
+
+
+
+
+                     <div class="content">
+
+
+
+
+
+
+
+                     <h6 class="text-lg font-semibold">Tautan Luar Terkait</h6>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                     <!-- Logo Tautan -->
+
+
+
+
+
+
+
+                     <div class="tautan-luar-terkait w-full mt-8">
+
+
+
+
+
+
+
+                        <div class="flex flex-wrap justify-center gap-6">
+
+
+
+
+
+
+
+                           <div class="text-center">
+
+
+
+
+
+
+
+                           
+
+
+
+
+
+
+                           <a href="https://jdih.jatimprov.go.id" target="_blank" rel="noopener noreferrer">
+
+
+
+
+
+
+
+                              <img src="/File/showImage/eyJpdiI6Im9DL1FidWMwdkhzbHFTK1hkVTR4Nmc9PSIsInZhbHVlIjoiMXJnaGtFcmpkNDhsUlYxdjRlajA4RCtLaUdEbXVKNHZmSFFXRUMzUkk3TFJvQVhTVFZiSGhVMmdsZENLb1AyMyIsIm1hYyI6ImM4NzEzOWRlMTEyMDVlMWNkN2JlMDM1Mzk3ZDczOTY1ODBmNTM3ZmM2ZDM5MTZiNjVkMjI1YjU0NDE0ZDM0YWMiLCJ0YWciOiIifQ==" alt="JDIH JATIM" class="h-8  mx-auto">  
+
+
+
+
+
+
+
+                           </a>
+
+
+
+
+
+
+
+                           </div>
+
+
+
+
+
+
+
+                           <div class="text-center">  
+
+
+
+
+
+
+
+                           
+
+
+
+
+
+
+                           <a href="https://ppid.jemberkab.go.id/ppidpelaksana/detail/bagianhukum" target="_blank" rel="noopener noreferrer">
+
+
+
+
+
+
+
+                              <img src="/File/showImage/eyJpdiI6IjdjTzlzaEl2enZXSE5yZDcxbG9VQkE9PSIsInZhbHVlIjoiRy9ENmJKdFdpSDJrcER1NFNRNUhHZDdHb0lvM1kzdU9ldEF6S0pNSnBlMFIxdFpJWmJ0U25PTkVJSUF3L3Z1cCIsIm1hYyI6IjBkMjZjZjEyZWU4MjExOWYxNzBiMDQ1NWI4MzI5ZmQ1ZTcwYzQ4MzkxNDQzZDkyNDRhMzA1YTI1YWJlNzM2ZTkiLCJ0YWciOiIifQ==" alt="PPID" class="h-8  mx-auto">
+
+
+
+
+
+
+
+                           </a>
+
+
+
+
+
+
+
+                           </div>
+
+
+
+
+
+
+
+                           <div class="text-center">  
+
+
+
+
+
+
+
+                           
+
+
+
+
+
+
+                           <a href="https://jdihn.go.id" target="_blank" rel="noopener noreferrer">
+
+
+
+
+
+
+
+                              <img src="/File/showImage/eyJpdiI6Ik9ndjk2M1FiRW8yNEZiM3Y4Mkdpa0E9PSIsInZhbHVlIjoidTJCcWdKVFVQc2ZvcGNITUFCRmdNZnBaS1RXV1RxbC9OQ2s1emx5V0NETHR3M1d3bGFGZjBScTgyaVE1QzNzTCIsIm1hYyI6IjA0MzQ0OWU3YTk3YmNlYWQ1ZjdiZGQ5NjA0YjEzN2UzZjRmZTgyMjE4NDFjNTJiMjNkMjNkYTJmNDYyMmU4OTciLCJ0YWciOiIifQ==" alt="JDIHN PUSAT" class="h-8  mx-auto">
+
+
+
+
+
+
+
+                           </a>
+
+
+
+
+
+
+
+                           </div>
+
+
+
+
+
+
+
+                           <div class="text-center">
+
+
+
+
+
+
+
+                           
+
+
+
+
+
+
+                           <a href="https://kemendagri.go.id" target="_blank" rel="noopener noreferrer">
+
+
+
+
+
+
+
+                              <img src="/File/showImage/eyJpdiI6ImJTdzl4OGdCTFMra1lYeVJ6SlJPbnc9PSIsInZhbHVlIjoiYUJPR1BadVg0ZENrd0oyT0M4eFVBZ1VPckU0d1FSN2hnb3JqUzhTUEdHNGNrU3FsS3E0eHJ3K2oyckI4VUl6MSIsIm1hYyI6IjFjNTYwNGY0MzEyNTgzMDMxNGQ0MzZhZjQ1NTU3NGY2ZDhlZjdmZTZhYWJhMmU0YWZiZGI3ZTM1YmU4OGZkNTUiLCJ0YWciOiIifQ==" alt="Kemendagri" class="h-8  mx-auto">
+
+
+
+
+
+
+
+                           </a>
+
+
+
+
+
+
+
+                           </div>
+
+
+
+
+
+
+
+                           <div class="text-center">
+
+
+
+
+
+
+
+                           
+
+
+
+
+
+
+                           <a href="https://kemenkum.go.id/" target="_blank" rel="noopener noreferrer">
+
+
+
+
+
+
+
+                              <img src="/File/showImage/eyJpdiI6IlY0S0xHZVYvRDYycnVpNEtLeGIrclE9PSIsInZhbHVlIjoibHdFdzNHUloxN2tWVFk5dmhvSXRBaUxma1RSZW1wcndkMnB5SEMrOUFEdTRuYTNzcHQzZWVXNkxCVy9uSEVUcyIsIm1hYyI6IjNiMmRmYzZlZTQ1YjJhNjU1ZmIwM2NjYzE2MzQzMWI0Njg0MGZhMTI0N2E5ZjgxOGZkNDAzZjc4YjA0ODE4MjQiLCJ0YWciOiIifQ==" alt="Kemenkum" class="h-8  mx-auto">
+
+
+
+
+
+
+
+                           </a>
+
+
+
+
+
+
+
+                           </div>
+
+
+
+
+
+
+
+                           <div class="text-center">
+
+
+
+
+
+
+
+                           
+
+
+
+
+
+
+                           <a href="https://www.jemberkab.go.id" target="_blank" rel="noopener noreferrer">
+
+
+
+
+
+
+
+                              <img src="/File/showImage/eyJpdiI6ImtMSzhoNDRZYWlXclpzbnBMalJmaXc9PSIsInZhbHVlIjoiK3QweTMzL3VHVFFuV2tuL2RDazJ0ZTNhUmtoVFJueW5uMG52RWx3RGZVcUcyRzhGSWdoanNTREpwTkF2SEJjTyIsIm1hYyI6IjRlNGViMDE3Y2I4YjU5YzI4Yzk5Y2EwNWY0ZTg2MDVmN2QzNGMxM2JkNGU3ZTdhNmNiNDQyZTUzMGEwYTA5ZmUiLCJ0YWciOiIifQ==" alt="Pemkab Jember" class="h-8  mx-auto">
+
+
+
+
+
+
+
+                           </a>
+
+
+
+
+
+
+
+                           </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        </div>
+
+
+
+
+
+
+
+                     </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                     </div>
+
+
+
+
+
+
+
+                  </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+               </div>
+
+
+
+
+
+
+
+               </div>
+
+
+
+
+
+
+
+               <br><br>
+
+
+
+
+
+
+
+               
+
+
+
+
+
+
+
+            <div id="speech-reader-container">
+
+
+
+
+
+
+
+    <button id="speechToggle" title="Pembaca Layar">
+
+
+
+
+
+
+
+        🔊
+
+
+
+
+
+
+
+    </button>
+
+
+
+
+
+
+
+</div>
+
+
+
+
+
+
+
+            <br><br>
+
+
+
+
+
+
+
+             <div class="container z-20 relative"> 
+
+
+
+
+
+
+
+               <div class="lg:flex justify-between items-center">
+
+
+
+
+
+
+
+                  <div class="flex items-center justify-center">
+
+
+
+
+
+
+
+                            <div class="icon">
+
+
+
+
+
+
+
+                                <span class="icon-call-calling"><span class="path1"></span><span class="path2"></span><span class="path3"></span><span class="path4"></span></span>
+
+
+
+
+
+
+
+                            </div>
+
+
+
+
+
+
+
+                            <div class="content">
+
+
+
+
+
+
+
+                                <h6>Kontak Kami</h6>
+
+
+
+
+
+
+
+                                <p><a class="inline-flex leading-3 text-center items-center text-coolGray-600 font-medium border-coolGray-900 transition duration-500 hover:text-teal-400 pr-2 mb-2 mr-2" href="">(0331) 424044</a></p>
+
+
+
+
+
+
+
+                                <p><a class="inline-flex leading-3 text-center items-center text-coolGray-600 font-medium border-coolGray-900 transition duration-500 hover:text-teal-400 pr-2 mb-2 mr-2" href=""><span class="__cf_email__" data-cfemail="e2808385cc8a9789978fa288878f808790898380cc858dcc8b86">[email&#160;protected]</span></a></p>
+
+
+
+
+
+
+
+                                <p><a class="inline-flex leading-3 text-center items-center text-coolGray-600 font-medium border-coolGray-900 transition duration-500 hover:text-teal-400 pr-2 mb-2 mr-2" href="">Jl. Sudarman No.1 Jemberlor,</a></p>
+
+
+
+
+
+
+
+                                <p><a class="inline-flex leading-3 text-center items-center text-coolGray-600 font-medium border-coolGray-900 transition duration-500 hover:text-teal-400 pr-2 mb-2 mr-2" href="">Patrang, Jember, Jawa Timur 68118</a></p>
+
+
+
+
+
+
+
+                                 <a href="https://www.facebook.com/share/16zXSLBa8c/" target="_blank" class="text-gray-600 hover:text-blue-600 text-2xl">
+
+
+
+
+
+
+
+                                    <i class="fab fa-facebook-f"></i>
+
+
+
+
+
+
+
+                                 </a>
+
+
+
+
+
+
+
+                                 <a href="https://www.youtube.com/@bagianhukumsetdakab.jember8153" target="_blank" class="text-gray-600 hover:text-red-600 text-2xl">
+
+
+
+
+
+
+
+                                    <i class="fab fa-youtube"></i>
+
+
+
+
+
+
+
+                                 </a>
+
+
+
+
+
+
+
+                                 <a href="https://www.instagram.com/jdih.kabjember" target="_blank" class="text-gray-600 hover:text-pink-500 text-2xl">
+
+
+
+
+
+
+
+                                    <i class="fab fa-instagram"></i>
+
+
+
+
+
+
+
+                                 </a>
+
+
+
+
+
+
+
+                              </div>
+
+
+
+
+
+
+
+                        </div>
+
+
+
+
+
+
+
+                        <div class="flex items-center justify-center">
+
+
+
+
+
+
+
+                            <div class="icon">
+
+
+
+
+
+
+
+                                <span class="icon-call-calling"><span class="path1"></span><span class="path2"></span><span class="path3"></span><span class="path4"></span></span>
+
+
+
+
+
+
+
+                            </div>
+
+
+
+
+
+
+
+                            <div class="content">
+
+
+
+
+
+
+
+                                <h6>Survei pelayanan</h6>
+
+
+
+
+
+
+
+                                 
+
+
+
+
+
+
+                                 <a class='flex items-center justify-center' href='/'>
+
+
+
+
+
+
+
+                                    <img src="/File/showImage/eyJpdiI6Ik1HQktmOTBGQVRJK0VzdWhzTGxYcUE9PSIsInZhbHVlIjoiQ2dyQ21mczhsU2diQnluVGx5WkV2U3lvNnpPZWY1TzF4Kzl5Y3lGOHpia1ZtckVJVFM3d1RaRmxneWIxRUNXViIsIm1hYyI6ImMyM2YwOGM1ZTk4ODM4YjAyNWUyMTY3YWYyNGJjYzE5N2ZmNzg2ZDAzYzk3MjU4NDE4ZWFiYzIyYWU5ODZiMGMiLCJ0YWciOiIifQ==" alt="" width="100px">
+
+
+
+
+
+
+
+                                 </a>
+
+
+
+
+
+
+
+                                 <div class="flex items-center justify-center">
+
+
+
+
+
+
+
+                                    <a href="https://sukma.jatimprov.go.id/fe/survey?idUser=681" class="btn-style-3 inline-flex justify-center items-center border border-teal-400 text-white font-medium rounded-full transition-all duration-500 bg-gradient-to-r from-teal-400 via-teal-300 to-teal-400 px-3 py-1 text-sm hover:from-teal-500 hover:to-teal-300">Ikuti Survei</a>
+
+
+
+
+
+
+
+                                 </div>
+
+
+
+
+
+
+
+                            </div>
+
+
+
+
+
+
+
+                        </div>
+
+
+
+
+
+
+
+                  <ul class="flex items-center justify-center">
+
+
+
+
+
+
+
+                     <li><a class='' href='#'>
+
+
+
+
+
+
+
+                        <div class="footer-cl-4">
+
+
+
+
+
+
+
+                        <h6 class="ft-title">
+
+
+
+
+
+
+
+                            Statistik Pengunjung
+
+
+
+
+
+
+
+                        </h6>
+
+
+
+
+
+
+
+                        <ul class="navigation-menu-footer">
+
+
+
+
+
+
+
+                           <li>
+
+
+
+
+
+
+
+                              <a href="#">Pengunjung Hari Ini : </a>
+
+
+
+
+
+
+
+                              2319
+
+
+
+
+
+
+
+                           </li>
+
+
+
+
+
+
+
+                           <li>
+
+
+
+
+
+
+
+                              <a href="#">Pengunjung Bulan Ini :</a>
+
+
+
+
+
+
+
+                              106153
+
+
+
+
+
+
+
+                           </li>
+
+
+
+
+
+
+
+                           <li>
+
+
+
+
+
+
+
+                              <a href="#">Pengunjung Tahun Ini : </a>
+
+
+
+
+
+
+
+                              788121
+
+
+
+
+
+
+
+                           </li>
+
+
+
+
+
+
+
+                        </ul>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        </div>
+
+
+
+
+
+
+
+                     </a></li>
+
+
+
+
+
+
+
+                  </ul>
+
+
+
+
+
+
+
+               </div>
+
+
+
+
+
+
+
+            </div>
+
+
+
+
+
+
+
+            <div class="container z-20 relative">
+
+
+
+
+
+
+
+               <div class="block lg:grid justify-items-center border-b border-coolGray-300 items-center justify-center py-3 mb-10">
+
+
+
+
+
+
+
+               </div>
+
+
+
+
+
+
+
+               <div class="lg:flex justify-between items-center">
+
+
+
+
+
+
+
+                  <p class="text-center lg:text-left">&copy; Copyright - <span id="spanYear"></span>  Version 1.0 | SEKRETARIAT DAERAH, BAGIAN HUKUM</p>
+
+
+
+
+
+
+
+                  <ul class="flex items-center justify-center">
+
+
+
+
+
+
+
+                     <li>
+
+
+
+
+
+
+
+                        <a class='inline-flex leading-3 text-center items-center text-coolGray-600 font-medium border-coolGray-900 transition duration-500 hover:text-teal-400 pr-2 mb-2 mr-2' href='#'>JDIH KABUPATEN JEMBER</a>
+
+
+
+
+
+
+
+                     </li>
+
+
+
+
+
+
+
+                     
+
+
+
+
+
+
+
+                  </ul>
+
+
+
+
+
+
+
+               </div>
+
+
+
+
+
+
+
+            </div>
+
+
+
+
+
+
+
+            <a href="#" class="footer-back w-10 h-10 opacity-0 invisible fixed bottom-2 right-2 z-50 bg-coolGray-600 rounded-lg flex items-center justify-center transition duration-500">
+
+
+
+
+
+
+
+               <svg width="18" height="10" viewBox="0 0 18 10" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+
+
+
+
+
+
+                  <path d="M1 9L9 1L17 9" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+
+
+
+
+
+
+
+               </svg>
+
+
+
+
+
+
+
+            </a>
+
+
+
+
+
+
+
+         </footer>
+
+
+
+
+
+
+
+      </main>
+
+
+
+
+
+
+
+      <!-- gulp:js -->
+
+
+
+
+
+
+
+      
+
+
+
+
+
+
+
+      <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="/assets/js/build.min.js"></script>
+
+
+
+
+
+
+
+      <script>
+
+
+
+
+
+
+
+         const dropdownToggle = document.getElementById('dropdownToggle');
+
+
+
+
+
+
+
+         const dropdownMenu = document.getElementById('dropdownMenu');
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+         dropdownToggle.addEventListener('click', function (e) {
+
+
+
+
+
+
+
+            e.preventDefault();
+
+
+
+
+
+
+
+            dropdownMenu.classList.toggle('hidden');
+
+
+
+
+
+
+
+         });
+
+
+
+
+
+
+
+         document.addEventListener('click', function (e) {
+
+
+
+
+
+
+
+            if (!dropdownToggle.contains(e.target) && !dropdownMenu.contains(e.target)) {
+
+
+
+
+
+
+
+                  dropdownMenu.classList.add('hidden');
+
+
+
+
+
+
+
+            }
+
+
+
+
+
+
+
+         });
+
+
+
+
+
+
+
+      </script>
+
+
+
+
+
+
+
+      <script>
+
+
+
+
+
+
+
+         const dropdownToggle1 = document.getElementById('dropdownToggle1');
+
+
+
+
+
+
+
+         const dropdownMenu1 = document.getElementById('dropdownMenu1');
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+         dropdownToggle1.addEventListener('click', function (e) {
+
+
+
+
+
+
+
+            e.preventDefault();
+
+
+
+
+
+
+
+            dropdownMenu1.classList.toggle('hidden');
+
+
+
+
+
+
+
+         });
+
+
+
+
+
+
+
+         document.addEventListener('click', function (e) {
+
+
+
+
+
+
+
+            if (!dropdownToggle1.contains(e.target) && !dropdownMenu1.contains(e.target)) {
+
+
+
+
+
+
+
+                  dropdownMenu1.classList.add('hidden');
+
+
+
+
+
+
+
+            }
+
+
+
+
+
+
+
+         });
+
+
+
+
+
+
+
+      </script>
+
+
+
+
+
+
+
+      <script>
+
+
+
+
+
+
+
+      document.addEventListener("DOMContentLoaded", function(){
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+         let readerActive = false;
+
+
+
+
+
+
+
+         let currentText = "";
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+         const toggleBtn = document.getElementById("speechToggle");
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+         function getIndonesianVoice() {
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            const voices = speechSynthesis.getVoices();
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            return voices.find(v => v.lang === "id-ID")
+
+
+
+
+
+
+
+                  || voices.find(v => v.name.includes("Indonesia"))
+
+
+
+
+
+
+
+                  || voices[0];
+
+
+
+
+
+
+
+         }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+         function speakText(text){
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            if(!text || text.length < 5){
+
+
+
+
+
+
+
+                  return;
+
+
+
+
+
+
+
+            }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            if(currentText === text){
+
+
+
+
+
+
+
+                  return;
+
+
+
+
+
+
+
+            }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            currentText = text;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            speechSynthesis.cancel();
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            const utterance = new SpeechSynthesisUtterance(text);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            utterance.lang = "id-ID";
+
+
+
+
+
+
+
+            utterance.rate = 1;
+
+
+
+
+
+
+
+            utterance.pitch = 1;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            const voice = getIndonesianVoice();
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            if(voice){
+
+
+
+
+
+
+
+                  utterance.voice = voice;
+
+
+
+
+
+
+
+            }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            speechSynthesis.speak(utterance);
+
+
+
+
+
+
+
+         }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+         toggleBtn.addEventListener("click", function(){
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            readerActive = !readerActive;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            if(readerActive){
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                  toggleBtn.classList.add("active");
+
+
+
+
+
+
+
+                  toggleBtn.innerHTML = "🔊";
+
+
+
+
+
+
+
+                  toggleBtn.title = "Pembaca Aktif";
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                  speakText(
+
+
+
+
+
+
+
+                     "Pembaca layar aktif. Arahkan kursor ke teks yang ingin dibacakan."
+
+
+
+
+
+
+
+                  );
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            }else{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                  toggleBtn.classList.remove("active");
+
+
+
+
+
+
+
+                  toggleBtn.innerHTML = "🔇";
+
+
+
+
+
+
+
+                  toggleBtn.title = "Pembaca Nonaktif";
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                  currentText = "";
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                  speechSynthesis.cancel();
+
+
+
+
+
+
+
+            }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+         });
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+         document.addEventListener("mouseover", function(e){
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            if(!readerActive){
+
+
+
+
+
+
+
+                  return;
+
+
+
+
+
+
+
+            }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            const tag = e.target.tagName;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            const allowedTags = [
+
+
+
+
+
+
+
+                  "H1","H2","H3","H4","H5","H6",
+
+
+
+
+
+
+
+                  "P","A","SPAN","LI",
+
+
+
+
+
+
+
+                  "TD","TH","BUTTON",
+
+
+
+
+
+
+
+                  "LABEL"
+
+
+
+
+
+
+
+            ];
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            if(!allowedTags.includes(tag)){
+
+
+
+
+
+
+
+                  return;
+
+
+
+
+
+
+
+            }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            const text = (
+
+
+
+
+
+
+
+                  e.target.innerText ||
+
+
+
+
+
+
+
+                  e.target.textContent ||
+
+
+
+
+
+
+
+                  ""
+
+
+
+
+
+
+
+            ).trim();
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            if(text.length < 5){
+
+
+
+
+
+
+
+                  return;
+
+
+
+
+
+
+
+            }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            speakText(text);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+         });
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      });
+
+
+
+
+
+
+
+      </script>
+
+
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      <!-- endgulp -->
+
+
+
+
+
+
+
+          <script>
+         function truncateText(text, maxLength) {
+        if (!text) return '';
+        return text.length > maxLength ? text.substring(0, maxLength) + '...' : text;
+    }
+        $.ajax({
+            url: '/Beranda/getDataPeraturan',
+            type: 'GET',
+            dataType: 'json',
+            beforeSend: function() {
+                $('.preloader').attr("style", "display:block");
+            },
+        })
+        .done(function(data) {
+            $('#card-peraturan-no-data').html('');
+            $('#card-peraturan').html('');
+            if (data.length <= 0) {
+                $('#card-peraturan-no-data').append('<h2 class="text-coolGray-900 leading-10 text-2xl lg:text-1xl font-bold text-center">Postingan Tidak Tersedia</h2>');
+            }else{
+                $.each(data, function (index, val) {
+                    $('#card-peraturan').append(`<div class="card-product-style bg-white rounded transition duration-500 hover:shadow-lg">
+                        
+                        <div class="card-product-content px-4 py-6">
+                            <a class='card-product-collection' href='item-collection.html'>
+                                <p class="text-teal-400 font-medium text-sm flex items-center mb-2">
+                                    ${val.singkatan}
+                                    
+                                </p>
+                            </a>
+                            <h2 class="text-coolGray-900 text-lg font-bold transition duration-500 hover:text-teal-400 mb-2"><a href='/Peraturan/Detail/${val.kode}'>${truncateText(val.judul, 150)}</a></h2>
+                            <div class="card-porduct-price text-sm flex items-center mb-6">
+                               <p class="text-coolGray-600 font-medium flex items-center">${val.tgl_penetapan_formatted}</p>
+                            </div>
+                            <a class='btn-style-1 inline-flex items-center justify-center border border-teal-400 text-coolGray-600 text-sm font-medium rounded-full transition-all duration-500 hover:text-white px-4 py-1.5' href='/Peraturan/Detail/${val.kode}'>Selengkapnya</a>
+                        </div>
+                    </div>`);
+                });
+            };
+        })
+        .fail(function(jqXHR, textStatus, errorThrown) {
+            alert(errorThrown+' : '+textStatus );
+        })
+        .always(function() {
+            $('.preloaders').attr("style", "display:none");
+        });
+    </script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      <!-- Accessibility Widget -->
+
+
+
+
+
+
+
+      <script src="/assets/js/sienna-accessibility.umd.js"></script>
+
+
+
+
+
+
+
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      <style>
+
+
+
+
+
+
+
+      /* Posisi tombol aksesibilitas */
+
+
+
+
+
+
+
+      .sienna-accessibility-button,
+
+
+
+
+
+
+
+      #sienna-accessibility-button,
+
+
+
+
+
+
+
+      [data-sienna-accessibility] {
+
+
+
+
+
+
+
+         position: fixed !important;
+
+
+
+
+
+
+
+         left: 20px !important;
+
+
+
+
+
+
+
+         bottom: 20px !important;
+
+
+
+
+
+
+
+         z-index: 999999 !important;
+
+
+
+
+
+
+
+      }
+
+
+
+
+
+
+
+      </style>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      <script>(function(){function c(){var b=a.contentDocument||(a.contentWindow&&a.contentWindow.document);if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'a5003841ea929e34',t:'MTc5MjkyMDgwNg=='};var a=document.createElement('script');a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+
+
+
+
+
+
+
+      </html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

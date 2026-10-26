@@ -1,0 +1,16 @@
+{
+  "env": {
+    "ANTHROPIC_BASE_URL": "https://discovery-api.intern-ai.org.cn",
+    "ANTHROPIC_AUTH_TOKEN": "sk-bfd8e780a1477b29d00d30898b9f0c4ca5cd26fd385bd5c9551532d74fbcf977",
+    "ANTHROPIC_API_KEY": "",
+    "ANTHROPIC_DEFAULT_OPUS_MODEL": "Atria-Dawn-Preview",
+    "ANTHROPIC_DEFAULT_SONNET_MODEL": "Atria-Dawn-Preview",
+    "ANTHROPIC_DEFAULT_HAIKU_MODEL": "Atria-Dawn-Preview"
+  },
+  "permissions": {
+    "allow": [
+      "Bash(python pilot_anomalies.py)",
+      "Bash(echo \"EXIT: $?\")"
+    ]
+  }
+}
