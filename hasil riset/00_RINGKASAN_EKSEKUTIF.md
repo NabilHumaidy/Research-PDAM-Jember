@@ -124,6 +124,43 @@ Sosial Umum 1–3, Sosial Khusus 1–2, Rumah Tangga 1–3, Pemerintah, Niaga Ke
 
 ---
 
+## 🌱 ANGKA SUSTAINABILITY (SESUAI TEMA LOMBA — WAJIB HAFAL)
+
+> Tema final: *"Innovate to Sustain: Bridging Green Technology, Data Intelligence, and Social Equity for a Resilient Economy"*. Setiap solusi di pitch deck **wajib menyentuh minimal 2 dari 3 pilar**.
+
+**Green Technology**
+- Biaya listrik **Rp 5,79 M/thn (10% pendapatan)** → target potong **15–25%** = Rp 0,9–1,45 M/thn
+- Quick-win: **VSD pompa** (Rp 580–870 jt/thn) · **PLTS 100–200 kWp** (Rp 180–360 jt/thn, 113–226 tCO₂e) · **NRW→17%** (Rp 130–220 jt/thn)
+- Benchmark: **EPA** energi 25–30% O&M air minum, hemat 15–30%; **PT KAI** potong energi 15,39% (2025); **Pertamina NRE SEB** PLTS 2,8 kWp + sumur bor (hibah); **BRI Peduli** 600 kWp; **PT SMI → Tirta Pakuan Bogor Rp 170,4 M**; **WTJJ** ESG S&P 52 (top-3 dunia sektor air); **IDXCarbon** Rp 78,37 M (Agustus 2025)
+
+**Data Intelligence**
+- NRW **20,78% memburuk** (18,49% di 2022) & **kolom NRW kosong di LK audited 2025** = data governance gap
+- Nasional: NRW **33,90% (2023) = 1,74 miliar m³ rugi Rp 9,7 T/thn**; BPS 2024: **17,49 juta pelanggan / 428 Perumda**
+- Preseden: **Bima Sakti Alterra** (100+ PDAM, "PDAM Pintar" + SWGM real-time, 6 BUMD Bali); **Surya Sembada Surabaya + WI Plat/KOICA** AI leak detection; **Denpasar + K-Water** (sistem blok/DMA, 89.000→160.000 SR, NRW 38%→maks 10%); **PAM Jaya** NRW 46,2%→9% (2029) via DMA
+- **BRIN smart water meter IoT** (+ Telkom, 5 lokasi uji, Kedaireka 2022); isu **tera ulang meter** (Antara Telaah Sep 2026)
+- Aset digital: aplikasi **TPJ Inside** (Sep 2025); janji **dashboard real-time NRW** (Jan 2026)
+- Ekosistem: **Unej AI Center for Industrial Agriculture** (Nov 2025), sensor RFID tanah Unmuh Jember, Unej–BMKG
+
+**Social Equity**
+- **Stunting 30,4%** — tertinggi Jatim; **30 desa kantong kemiskinan ekstrem**; **DAK Air Minum-Stunting Rp 3,18 M (2026)**
+- ⚠️ Verifikasi: yang terverifikasi web = **34,9% (SSGI 2022, ~35.000 balita)** — gunakan ini jika tidak ada angka dari case; **jika case memberi angka, ikuti angka case**
+- Preseden emas: **Master Meter Surakarta** (TCCF + PDAM Surakarta) — 50 KK miskin, **tarif subsidi Rp 2.850/m³ vs Rp 5.200/m³**, hemat ~70% belanja air, **RW 10 zero stunting (Agustus 2026)**
+- Piutang RT-1 **63,5% tak tertagih** → bukti kebutuhan skema pro-miskin, bukan hanya menagih
+- Mitra siap pakai: **Homecare Jember** (Wamenkes: percontohan nasional), **UHC 98,61%** (35% PBI APBD), **PTPN CSR stunting**, **Forum CSR Jember**, **PMI Jember** (WASH 814 KK)
+- **Water Credit (Danone–Water.org–Bank UMKM Jatim, Nganjuk):** 123 pinjaman, Rp 5,5 M, +1.500 SR, ~6.000 orang — model kredit desa yang berkelanjutan
+
+**Agritech & Environmental Stewardship**
+- Jember: **~70% penduduk dari pertanian**, sektor pertanian **26,91% ekonomi**, **118.490 ha panen padi → 607.370 ton GKG (2022)**, 86.000 ha lahan abadi; tembakau cerutu ~45 negara, edamame 6.000 ton/thn, kopi robusta organik 1.069 ha, tebu 793.000 ton
+- **Unej AI Center for Industrial Agriculture** (Nov 2025) + sensor RFID tanah Unmuh Jember + Unej–BMKG = ekosistem riset agritech lokal siap jadi mitra
+- **DAS Bedadung: tutupan lahan hulu 16,25% vs ideal 30%** (pakar Unej) → banjir Feb 2026 **3.944 KK**, 9 sungai pendangkalan; mitra reboisasi **Perhutani** (15,3 juta bibit Jatim)
+- **PATS Samosir** (Bappenas + UK FCDO): Rp 5,7 M, 82 ha sawah, 749 petani, tekan biaya petani **sampai nol rupiah**, potong 10,18 tCO₂e/thn
+- **PES DAS Cidanau** (Banten, Mei 2026) — model "hulu-hilir" untuk DAS Bedadung/Mayang
+- Kemenhut: **12,3 juta ha lahan kritis** nasional perlu rehabilitasi
+
+> **Rumus hafalan:** "Satu investasi, empat dampak — air untuk stunting (social equity), energi untuk biaya (green tech), data untuk NRW (data intelligence), jaringan untuk pertanian (agritech)."
+
+---
+
 ## ⚠️ GAPS DATA (jangan klaim di final!)
 
 Tidak ditemukan: tarif Rp/m³ per golongan · jumlah SR per golongan · HPP per m³ & NRW audited (kolom dikosongkan di LK 2025 — temuan governance!) · Renstra resmi · rating BPPSPAM · visi-misi/logo perusahaan. **Jika case memberi data tambahan, anggap itu sebagai "data eksklusif" yang harus dipakai — di situlah pembeda tim.**
