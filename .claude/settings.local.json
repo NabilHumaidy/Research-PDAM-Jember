@@ -1,0 +1,17 @@
+{
+  "env": {
+    "ANTHROPIC_BASE_URL": "https://discovery-api.intern-ai.org.cn",
+    "ANTHROPIC_AUTH_TOKEN": "sk-bfd8e780a1477b29d00d30898b9f0c4ca5cd26fd385bd5c9551532d74fbcf977",
+    "ANTHROPIC_API_KEY": "",
+    "ANTHROPIC_DEFAULT_OPUS_MODEL": "Atria-Dawn-Preview",
+    "ANTHROPIC_DEFAULT_SONNET_MODEL": "Atria-Dawn-Preview",
+    "ANTHROPIC_DEFAULT_HAIKU_MODEL": "Atria-Dawn-Preview",
+    "GITHUB_PERSONAL_ACCESS_TOKEN": "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"
+  },
+  "permissions": {
+    "allow": [
+      "Bash(python pilot_anomalies.py)",
+      "Bash(echo \"EXIT: $?\")"
+    ]
+  }
+}

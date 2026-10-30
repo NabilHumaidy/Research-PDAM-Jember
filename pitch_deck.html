@@ -1,0 +1,917 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="utf-8">
+<title>Tirta Pandalungan 2030 — Business Case Deck (Consulting Structure)</title>
+<style>
+  :root{
+    --navy:#0E2A47; --blue:#175B8F; --green:#2E9E5B; --crimson:#B5446E;
+    --amber:#E8A33D; --purple:#6B4FA0;
+    --ink:#16232E; --mut:#5D6E7E; --line:#DCE4EB; --bg:#F6F8FA;
+  }
+  *{margin:0;padding:0;box-sizing:border-box}
+  html,body{background:#1D2530;font-family:"Segoe UI",system-ui,-apple-system,sans-serif}
+  @page{size:13.333in 7.5in;margin:0}
+  .slide{position:relative;width:1280px;height:720px;margin:14px auto;background:#fff;overflow:hidden;color:var(--ink);box-shadow:0 4px 24px rgba(0,0,0,.35)}
+  .slide.dark{background:var(--navy);color:#F4F8FB}
+  .kicker{position:absolute;top:28px;left:52px;display:flex;align-items:center;gap:10px;font-size:12px;font-weight:800;letter-spacing:.14em;text-transform:uppercase;color:var(--blue)}
+  .kicker .num{display:inline-flex;align-items:center;justify-content:center;width:25px;height:25px;border-radius:13px;background:var(--blue);color:#fff;font-size:11.5px;letter-spacing:0}
+  .dark .kicker{color:#7FB2DE}.dark .kicker .num{background:#7FB2DE;color:var(--navy)}
+  .foot{position:absolute;bottom:20px;left:52px;right:52px;display:flex;justify-content:space-between;font-size:10.5px;color:var(--mut);border-top:1px solid var(--line);padding-top:7px}
+  .dark .foot{color:#8FA6BC;border-color:#27496E}
+  .pageno{font-weight:800;color:var(--blue)}.dark .pageno{color:#7FB2DE}
+  h1{font-size:36px;line-height:1.12;font-weight:800;letter-spacing:-.01em}
+  h2{font-size:29px;line-height:1.14;font-weight:800;letter-spacing:-.01em}
+  h3{font-size:17px;font-weight:800}
+  .sub{font-size:15.5px;color:var(--mut);line-height:1.45}
+  .dark .sub{color:#A9BED2}
+  .lede{font-size:17px;line-height:1.42}
+  .body{font-size:13px;line-height:1.48;color:#33465A}.body b{color:var(--ink)}
+  .small{font-size:10.5px;color:var(--mut);line-height:1.4}.dark .small{color:#8FA6BC}
+  .accent{color:var(--blue)}.grn{color:#1E7142}.amb{color:#8A5E0B}.cr{color:var(--crimson)}
+  .pad{position:absolute;inset:74px 52px 56px}
+  .row{display:flex;gap:18px}.col{flex:1}
+  .card{background:var(--bg);border:1px solid var(--line);border-radius:12px;padding:14px 16px;position:relative}
+  .card.white{background:#fff}
+  .card h3{margin-bottom:5px}
+  .card .tag{position:absolute;top:-10px;left:14px;font-size:9.5px;font-weight:800;letter-spacing:.1em;text-transform:uppercase;color:#fff;padding:2.5px 9px;border-radius:9px;background:var(--blue)}
+  .card .tag.g{background:var(--green)}.card .tag.a{background:var(--amber);color:#3A2A05}.card .tag.c{background:var(--crimson)}.card .tag.n{background:var(--navy)}.card .tag.p{background:var(--purple)}
+  .stat{background:#fff;border:1px solid var(--line);border-radius:12px;padding:12px 14px}
+  .stat .v{font-size:27px;font-weight:800;letter-spacing:-.02em;color:var(--navy);line-height:1.05}
+  .stat .v small{font-size:13.5px;font-weight:700}
+  .stat .l{font-size:10.5px;font-weight:800;color:var(--mut);text-transform:uppercase;letter-spacing:.06em;margin-top:4px}
+  .stat .d{font-size:10.5px;color:var(--mut);margin-top:3px;line-height:1.3}
+  .stat.warn .v{color:var(--crimson)}.stat.good .v{color:#1E7142}
+  .bignum{font-size:44px;font-weight:800;letter-spacing:-.03em;line-height:1;color:var(--navy)}
+  .hr{height:3px;width:52px;background:var(--blue);border-radius:2px;margin:10px 0 14px}
+  .hr.g{background:var(--green)}.hr.a{background:var(--amber)}.hr.c{background:var(--crimson)}.hr.p{background:var(--purple)}
+  .pill{display:inline-block;font-size:10.5px;font-weight:700;padding:2.5px 9px;border-radius:8px;background:#E7EEF6;color:var(--blue);margin:2px 3px 2px 0}
+  .pill.g{background:#E2F2E8;color:#1E7142}.pill.a{background:#FBF0D9;color:#8A5E0B}.pill.c{background:#F8E3EA;color:#8E3253}.pill.n{background:#E3E8EE;color:var(--navy)}
+  table{border-collapse:collapse;width:100%;font-size:11.5px}
+  th{background:var(--navy);color:#fff;text-align:left;padding:6px 9px;font-size:10px;letter-spacing:.05em;text-transform:uppercase}
+  td{padding:6px 9px;border-bottom:1px solid var(--line);vertical-align:top;line-height:1.35}
+  tr:nth-child(even) td{background:#F8FAFC}
+  td.r,th.r{text-align:right}
+  .tbl-note{font-size:10px;color:var(--mut);margin-top:5px;line-height:1.35}
+  ul.tick{list-style:none}
+  ul.tick li{position:relative;padding-left:18px;margin-bottom:6px;font-size:12.5px;line-height:1.42}
+  ul.tick li:before{content:"";position:absolute;left:0;top:5px;width:8px;height:8px;border-radius:2px;background:var(--blue)}
+  ul.tick li.gr:before{background:var(--green)} ul.tick li.am:before{background:var(--amber)} ul.tick li.cr:before{background:var(--crimson)} ul.tick li.pu:before{background:var(--purple)}
+  .chart{background:#fff;border:1px solid var(--line);border-radius:12px;padding:12px 14px 8px}
+  .chart .ct{font-size:12px;font-weight:800;color:var(--ink);margin-bottom:2px}
+  .chart .cs{font-size:10px;color:var(--mut);margin-bottom:4px}
+  .legend{display:flex;gap:12px;font-size:10px;color:var(--mut);margin:2px 0 4px;flex-wrap:wrap}
+  .legend span{display:inline-flex;align-items:center;gap:4px}.legend i{width:14px;height:3px;border-radius:2px;display:inline-block}
+  .axis{stroke:#C9D5E0;stroke-width:1}.grid{stroke:#E9EFF5;stroke-width:1}
+  .lbl{font-size:9.5px;fill:#33465A;font-weight:700}.lblm{font-size:9px;fill:#7B8C9B}
+  .dlbl{font-size:10px;fill:#16232E;font-weight:800}
+  /* divider */
+  .divider{position:absolute;inset:0;background:radial-gradient(900px 480px at 80% 25%,#13447B 0%,var(--navy) 62%)}
+  .divider .in{position:absolute;left:90px;top:225px;right:90px}
+  .divider .sn{font-size:110px;font-weight:800;color:#1E4472;line-height:1;letter-spacing:-.04em}
+  .divider .st{font-size:44px;font-weight:800;color:#fff;margin-top:6px}
+  .divider .sd{font-size:17px;color:#A9BED2;margin-top:14px;max-width:820px;line-height:1.45}
+  .divider .bar{width:88px;height:5px;border-radius:3px;margin-top:22px}
+  .cover{position:absolute;inset:0;background:radial-gradient(1000px 500px at 78% 28%,#13447B 0%,var(--navy) 60%)}
+  /* PRINT: one slide per page — slides must never split across pages */
+  @media print{
+    html,body{background:#fff}
+    .slide{margin:0;box-shadow:none;page-break-after:always;break-after:page;page-break-inside:avoid;break-inside:avoid}
+    .slide:last-child{page-break-after:auto;break-after:auto}
+  }
+</style>
+</head>
+<body>
+
+<!-- 01 COVER -->
+<section class="slide dark">
+  <div class="cover">
+    <svg width="1280" height="720" style="position:absolute;inset:0" viewBox="0 0 1280 720">
+      <path d="M0 560 C 160 520, 320 590, 480 560 C 640 530, 760 610, 920 575 C 1080 540, 1180 600, 1280 565 L1280 720 L0 720 Z" fill="#0A2138" opacity=".85"/>
+      <path d="M0 610 C 200 575, 380 640, 560 610 C 740 580, 900 650, 1080 620 C 1180 603, 1240 630, 1280 615 L1280 720 L0 720 Z" fill="#081B2F" opacity=".9"/>
+      <g opacity=".5"><circle cx="1030" cy="130" r="92" fill="none" stroke="#2E5982" stroke-width="1.5"/><circle cx="1112" cy="130" r="92" fill="none" stroke="#2E5982" stroke-width="1.5" opacity=".55"/></g>
+    </svg>
+    <div style="position:absolute;left:84px;top:150px;right:84px">
+      <div style="font-size:12.5px;font-weight:800;letter-spacing:.22em;text-transform:uppercase;color:#7FB2DE">Business Case Competition · Final Round · 2026</div>
+      <h1 style="font-size:54px;margin-top:16px;max-width:1000px">Tirta Pandalungan 2030:<br>Air sebagai Jembatan Ketahanan Jember</h1>
+      <div style="font-size:18.5px;color:#BFD4E6;margin-top:16px;max-width:940px;line-height:1.45">Strategi pertumbuhan berkelanjutan berbasis <b style="color:#fff">Water–Energy–Food Nexus</b> — mengoptimalkan profitabilitas BUMD sambil menghasilkan dampak ekonomi, sosial, dan lingkungan yang terukur</div>
+      <div style="margin-top:24px;display:flex;gap:10px">
+        <span style="font-size:12px;font-weight:700;padding:6px 13px;border-radius:15px;border:1px solid #2E5982;color:#CFE2F2;background:rgba(255,255,255,.05)">Case Collaborator: Perumdam Tirta Pandalungan Kab. Jember</span>
+        <span style="font-size:12px;font-weight:700;padding:6px 13px;border-radius:15px;border:1px solid #2E5982;color:#CFE2F2;background:rgba(255,255,255,.05)">“Innovate to Sustain”</span>
+      </div>
+    </div>
+    <div style="position:absolute;bottom:58px;left:84px;color:#8FA6BC;font-size:12.5px">Disusun dari data audited TA 2025 (WTP), riset 60+ sumber, dan framework analisis BUMD</div>
+  </div>
+</section>
+
+<!-- 02 AGENDA -->
+<section class="slide">
+  <div class="kicker"><span class="num">02</span> Agenda</div>
+  <div class="pad">
+    <h1>Alur analisis: dari fakta lapangan ke peta jalan 5 tahun</h1>
+    <div class="hr"></div>
+    <div style="display:flex;flex-direction:column;gap:11px;margin-top:6px">
+      <div style="display:flex;align-items:center;gap:18px;background:var(--bg);border:1px solid var(--line);border-radius:12px;padding:12px 18px">
+        <div style="font-size:26px;font-weight:800;color:#C9D5E0;width:44px">01</div>
+        <div style="flex:1"><b style="font-size:15.5px">Background</b><div class="small">Profil Perumdam Tirta Pandalungan &amp; struktur industri air minum Indonesia</div></div>
+        <div style="font-size:11px;color:var(--mut)">Slide 03–04</div>
+      </div>
+      <div style="display:flex;align-items:center;gap:18px;background:var(--bg);border:1px solid var(--line);border-radius:12px;padding:12px 18px">
+        <div style="font-size:26px;font-weight:800;color:#C9D5E0;width:44px">02</div>
+        <div style="flex:1"><b style="font-size:15.5px">Problem</b><div class="small">Identifikasi masalah inti via <b>Issue Tree</b> (MECE) + kuantifikasi biaya diam</div></div>
+        <div style="font-size:11px;color:var(--mut)">Slide 05–06</div>
+      </div>
+      <div style="display:flex;align-items:center;gap:18px;background:var(--bg);border:1px solid var(--line);border-radius:12px;padding:12px 18px">
+        <div style="font-size:26px;font-weight:800;color:#C9D5E0;width:44px">03</div>
+        <div style="flex:1"><b style="font-size:15.5px">Analysis</b><div class="small"><b>PESTEL · Porter’s Five Forces · SWOT · VRIO · Value Chain &amp; Profitability · Market Sizing</b></div></div>
+        <div style="font-size:11px;color:var(--mut)">Slide 07–12</div>
+      </div>
+      <div style="display:flex;align-items:center;gap:18px;background:var(--bg);border:1px solid var(--line);border-radius:12px;padding:12px 18px">
+        <div style="font-size:26px;font-weight:800;color:#C9D5E0;width:44px">04</div>
+        <div style="flex:1"><b style="font-size:15.5px">Solution</b><div class="small">Penilaian 4 opsi strategi → strategi terpilih: 3 pilar solusi + <b>triple bottom line impact</b></div></div>
+        <div style="font-size:11px;color:var(--mut)">Slide 13–18</div>
+      </div>
+      <div style="display:flex;align-items:center;gap:18px;background:var(--bg);border:1px solid var(--line);border-radius:12px;padding:12px 18px">
+        <div style="font-size:26px;font-weight:800;color:#C9D5E0;width:44px">05</div>
+        <div style="flex:1"><b style="font-size:15.5px">Implementation</b><div class="small">Roadmap 100 hari–5 tahun, proyeksi profitabilitas, pendanaan, KPI &amp; manajemen risiko</div></div>
+        <div style="font-size:11px;color:var(--mut)">Slide 19–22</div>
+      </div>
+    </div>
+  </div>
+  <div class="foot"><span>Perumdam Tirta Pandalungan Kab. Jember</span><span class="pageno">02 / 22</span></div>
+</section>
+
+<!-- 03 DIVIDER: BACKGROUND -->
+<section class="slide dark">
+  <div class="divider">
+    <div class="in">
+      <div class="sn">01</div><div class="st">Background</div>
+      <div class="sd">Siapa Perumdam Tirta Pandalungan dan di industri apa ia bermain — termasuk kerangka regulasi yang menentukan ruang gerak strateginya.</div>
+      <div class="bar" style="background:#7FB2DE"></div>
+    </div>
+  </div>
+  <div class="foot"><span>Background</span><span class="pageno">03 / 22</span></div>
+</section>
+
+<!-- 04 BACKGROUND: COMPANY -->
+<section class="slide">
+  <div class="kicker"><span class="num">04</span> Background · Profil Perusahaan</div>
+  <div class="pad">
+    <h2>BUMD air minum kategori kecil dengan balance sheet kelas atas</h2>
+    <div class="hr"></div>
+    <div class="row" style="gap:18px">
+      <div class="col" style="flex:1.15">
+        <table>
+          <tr><th>Dimensi</th><th>Fakta (audited TA 2025, opini WTP)</th></tr>
+          <tr><td>Bentuk &amp; dasar hukum</td><td>Perumda milik Pemkab Jember · Perda 3/2022 · raperda pembaruan 2026</td></tr>
+          <tr><td>Skala bisnis</td><td>46.693 SR aktif · 13 dari 31 kecamatan · 178 karyawan · 510 l/detik kapasitas</td></tr>
+          <tr><td>Keuangan 2025</td><td>Pendapatan Rp 59,4 M · laba Rp 5,09 M (margin 8,6%) · BOBO 88,9% (batas 90%)</td></tr>
+          <tr><td>Balance sheet</td><td>Aset Rp 95,4 M · ekuitas Rp 85,2 M · <b>utang bank Rp 0</b> · rasio lancar 6,79×</td></tr>
+          <tr><td>Arus kas</td><td>CFO Rp 15,86 M − capex Rp 11,09 M = <b>surplus Rp 4,76 M</b></td></tr>
+          <tr><td>Unit usaha</td><td>Air perpipaan · AMDK “Hazora” (Rp 2,21 M, 2025) · suplai air Unej Cool</td></tr>
+          <tr><td>Golongan tarif</td><td>14 golongan (Sosial, Rumah Tangga 1–3, Niaga, Industri) — skema cross-subsidi</td></tr>
+          <tr><td>Tata kelola 2026</td><td>Direksi baru (Ardani Yusuf, dsb.) dilantik 20 Juli 2026 — 5× perubahan pemimpin dalam 1 tahun</td></tr>
+        </table>
+        <div class="tbl-note">Kategori PDAM “kecil” (Permendagri): BOBO maks 90%, rasio operasional maks 40%.</div>
+      </div>
+      <div class="col">
+        <div class="chart">
+          <div class="ct">Pendapatan vs laba bersih (Rp M, audited)</div>
+          <div class="legend"><span><i style="background:#175B8F"></i>Pendapatan</span><span><i style="background:#B5446E"></i>Laba bersih</span></div>
+          <svg viewBox="0 0 440 200" width="100%" height="190">
+            <line class="grid" x1="38" y1="26" x2="428" y2="26"/><line class="grid" x1="38" y1="60" x2="428" y2="60"/><line class="grid" x1="38" y1="94" x2="428" y2="94"/><line class="grid" x1="38" y1="128" x2="428" y2="128"/>
+            <line class="axis" x1="38" y1="162" x2="428" y2="162"/>
+            <text class="lblm" x="32" y="30" text-anchor="end">60</text><text class="lblm" x="32" y="64" text-anchor="end">45</text><text class="lblm" x="32" y="98" text-anchor="end">30</text><text class="lblm" x="32" y="132" text-anchor="end">15</text>
+            <!-- scale 60 -> y26, 0 -> y162, y = 162 - v*2.267 -->
+            <rect x="58" y="27.9" width="42" height="134" rx="3" fill="#175B8F"/><rect x="104" y="144.7" width="42" height="17.3" rx="3" fill="#B5446E"/>
+            <text class="dlbl" x="79" y="22" text-anchor="middle">59,2</text><text class="dlbl" x="125" y="139" text-anchor="middle">7,7</text>
+            <rect x="168" y="22.9" width="42" height="139" rx="3" fill="#175B8F"/><rect x="214" y="150.4" width="42" height="11.6" rx="3" fill="#B5446E"/>
+            <text class="dlbl" x="189" y="17" text-anchor="middle">61,4</text><text class="dlbl" x="235" y="145" text-anchor="middle">5,1</text>
+            <rect x="278" y="27.7" width="42" height="134" rx="3" fill="#175B8F"/><rect x="324" y="150.5" width="42" height="11.5" rx="3" fill="#B5446E"/>
+            <text class="dlbl" x="299" y="22" text-anchor="middle">59,4</text><text class="dlbl" x="345" y="145" text-anchor="middle">5,1</text>
+            <text class="lbl" x="79" y="178" text-anchor="middle">2023</text><text class="lbl" x="189" y="178" text-anchor="middle">2024</text><text class="lbl" x="299" y="178" text-anchor="middle">2025</text>
+            <text class="lblm" x="233" y="194" text-anchor="middle">Pendapatan −3,3% (2024→2025) meski SR bertambah → konsumsi/SR turun &amp; NRW memburuk</text>
+          </svg>
+        </div>
+        <div class="card" style="margin-top:12px;border-left:5px solid var(--green)">
+          <h3 class="grn">Implikasi awal</h3>
+          <p class="body" style="margin-top:5px">Perusahaan ini <b>sehat secara likuiditas, tapi mandek secara pertumbuhan</b>: 3 tahun hanya +3.000 SR; ekspansi tidak pernah dibiayai instrumen selain APBD.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="foot"><span>Background · Profil Perusahaan</span><span class="pageno">04 / 22</span></div>
+</section>
+
+<!-- 05 BACKGROUND: INDUSTRY -->
+<section class="slide">
+  <div class="kicker"><span class="num">05</span> Background · Industri &amp; Regulasi</div>
+  <div class="pad">
+    <h2>Industri yang dijamin regulasi, ditandai kebocoran dan kekurangan dana</h2>
+    <div class="hr"></div>
+    <div class="row" style="gap:18px">
+      <div class="col">
+        <div class="card" style="height:212px">
+          <span class="tag n">Struktur pasar</span>
+          <h3 style="margin-top:8px">Monopoli wilayah, kompetisi via substitusi</h3>
+          <ul class="tick" style="margin-top:6px">
+            <li>Hanya <b>~22% warga Indonesia</b> terlayani air minum perpipaan (KemenPU); target 100% pada 2045</li>
+            <li><b>428 Perumda</b> melayani 17,49 juta pelanggan (BPS 2024); 60% PDAM berstatus “sakit”</li>
+            <li>Pasar pengganti dominan: air kemasan/galon, sumur pribadi, Pamsimas desa</li>
+            <li>Regulator sekaligus pemilik: Bupati &amp; DPRD → alignment politik menentukan ruang gerak</li>
+          </ul>
+        </div>
+        <div class="card" style="margin-top:14px;height:150px">
+          <span class="tag">Kerangka regulasi kunci</span>
+          <h3 style="margin-top:8px">Aturan main yang membuka (dan menutup) opsi</h3>
+          <ul class="tick" style="margin-top:6px">
+            <li><b>UU 17/2019</b> — hak air 60 l/orang/hari · <b>PP 122/2015</b> — penyelenggaraan SPAM</li>
+            <li><b>Permendagri 71/2016 §27(5)</b> — PM <b>wajib memberi subsidi</b> bila tarif di bawah full cost recovery → legal basis skema pro-miskin</li>
+          </ul>
+        </div>
+      </div>
+      <div class="col">
+        <div class="card" style="height:212px">
+          <span class="tag c">Kinerja industri</span>
+          <h3 class="cr" style="margin-top:8px">NRW adalah penyakit utama sektor</h3>
+          <ul class="tick" style="margin-top:6px">
+            <li class="cr">NRW nasional <b>33,90% (2023)</b> = 1,74 miliar m³ air hilang ≈ <b>Rp 9,7 T/tahun</b></li>
+            <li class="cr">Mentri PUPR: kebocoran ±40% — teknis &amp; administratif (“perusahaan di dalam perusahaan”)</li>
+            <li class="cr">Tirta Pandalungan: <b>NRW 20,78%</b> — di atas rata-rata nasional, tapi memburuk dari 18,49%</li>
+          </ul>
+        </div>
+        <div class="card" style="margin-top:14px;height:150px;border-left:5px solid var(--green)">
+          <span class="tag g">Gelombang pendanaan</span>
+          <h3 class="grn" style="margin-top:8px">Gap Rp 70 T → instrumen baru terbuka</h3>
+          <ul class="tick" style="margin-top:6px">
+            <li class="gr"><b>PT SMI</b> (Tirta Pakuan Bogor Rp 170,4 M, +40.000 SR) · <b>KPBU</b> · <b>DAK Stunting</b> · <b>GCF via IIF</b> (US$250 juta/proposal) · green loan (BNI Rp 197 T portofolio)</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="foot"><span>Background · Industri &amp; Regulasi</span><span class="pageno">05 / 22</span></div>
+</section>
+
+<!-- 06 DIVIDER: PROBLEM -->
+<section class="slide dark">
+  <div class="divider">
+    <div class="in">
+      <div class="sn">02</div><div class="st">Problem</div>
+      <div class="sd">Masalah inti dipecah dengan <b style="color:#CFE2F2">Issue Tree (MECE)</b> — empat cabang penyebab yang saling bebas — lalu dikuantifikasi menjadi “biaya diam” (cost of inaction).</div>
+      <div class="bar" style="background:#7FB2DE"></div>
+    </div>
+  </div>
+  <div class="foot"><span>Problem</span><span class="pageno">06 / 22</span></div>
+</section>
+
+<!-- 07 PROBLEM: ISSUE TREE -->
+<section class="slide">
+  <div class="kicker"><span class="num">07</span> Problem · Issue Tree</div>
+  <div class="pad">
+    <h2>Masalah inti: perusahaan sehat yang tidak tumbuh</h2>
+    <div class="hr c"></div>
+    <svg viewBox="0 0 1180 388" width="100%" height="384">
+      <!-- root -->
+      <rect x="6" y="120" width="250" height="150" rx="14" fill="#B5446E"/>
+      <text x="131" y="158" text-anchor="middle" font-size="14" font-weight="800" fill="#fff">PERTUMBUHAN &amp; PAD</text>
+      <text x="131" y="178" text-anchor="middle" font-size="14" font-weight="800" fill="#fff">TERTAHAN</text>
+      <text x="131" y="202" text-anchor="middle" font-size="10.5" fill="#F8E3EA">SR +3.000 / 3 tahun,</text>
+      <text x="131" y="217" text-anchor="middle" font-size="10.5" fill="#F8E3EA">PAD Rp 1,5 M vs target</text>
+      <text x="131" y="232" text-anchor="middle" font-size="10.5" fill="#F8E3EA">Rp 10 M — gap 6,7×</text>
+      <text x="131" y="252" text-anchor="middle" font-size="10" fill="#F8E3EA" font-style="italic">Akar: 4 cabang MECE ↓</text>
+      <!-- connectors -->
+      <path d="M256 170 C 300 170, 300 62, 346 62" fill="none" stroke="#175B8F" stroke-width="2.5"/>
+      <path d="M256 180 C 300 180, 300 162, 346 162" fill="none" stroke="#2E9E5B" stroke-width="2.5"/>
+      <path d="M256 210 C 300 210, 300 262, 346 262" fill="none" stroke="#6B4FA0" stroke-width="2.5"/>
+      <path d="M256 240 C 300 240, 300 362, 346 362" fill="none" stroke="#E8A33D" stroke-width="2.5"/>
+      <!-- branch headers -->
+      <g>
+        <rect x="346" y="30" width="190" height="64" rx="10" fill="#175B8F"/>
+        <text x="441" y="55" text-anchor="middle" font-size="11.5" font-weight="800" fill="#fff">CABANG 1 · REVENUE</text>
+        <text x="441" y="76" text-anchor="middle" font-size="10" fill="#DCEBF6">Pertumbuhan SR &amp; konsumsi</text>
+        <rect x="556" y="16" width="614" height="92" rx="10" fill="#F4F8FC" stroke="#C7DAEA"/>
+        <text class="lbl" x="574" y="40">▸ Cakupan layanan ±10% penduduk — 90% pasar tak tersentuh</text>
+        <text class="lbl" x="574" y="60">▸ +15.000 SR direncanakan (2026), pendanaan belum jelas</text>
+        <text class="lbl" x="574" y="80">▸ Konsumsi/SR turun: pendapatan −3,3% meski SR naik</text>
+        <text class="lbl" x="574" y="100">▸ Mix stagnan: dominasi segmen margin tipis</text>
+      </g>
+      <g>
+        <rect x="346" y="130" width="190" height="64" rx="10" fill="#2E9E5B"/>
+        <text x="441" y="155" text-anchor="middle" font-size="11.5" font-weight="800" fill="#fff">CABANG 2 · COST</text>
+        <text x="441" y="176" text-anchor="middle" font-size="10" fill="#E2F2E8">Efisiensi operasional</text>
+        <rect x="556" y="116" width="614" height="92" rx="10" fill="#F5FAF7" stroke="#C7E7D2"/>
+        <text class="lbl" x="574" y="140">▸ NRW 20,8% &amp; memburuk — 2,23 juta m³/tahun tak terjual</text>
+        <text class="lbl" x="574" y="160">▸ Listrik Rp 5,79 M (10% pendapatan) — pompa tanpa VSD, tanpa PLTS</text>
+        <text class="lbl" x="574" y="180">▸ Aset 65% terdepresiasi → kebocoran &amp; gangguan kontinuitas</text>
+        <text class="lbl" x="574" y="200">▸ Biaya produksi naik saat sedimentasi DAS memburuk (turbiditas)</text>
+      </g>
+      <g>
+        <rect x="346" y="230" width="190" height="64" rx="10" fill="#6B4FA0"/>
+        <text x="441" y="255" text-anchor="middle" font-size="11.5" font-weight="800" fill="#fff">CABANG 3 · CAPITAL</text>
+        <text x="441" y="276" text-anchor="middle" font-size="10" fill="#E9E2F5">Sumber pendanaan</text>
+        <rect x="556" y="216" width="614" height="92" rx="10" fill="#F7F5FB" stroke="#D8CEEA"/>
+        <text class="lbl" x="574" y="240">▸ PMOD APBD stagnan Rp 41,3 M (PM terakhir 2020)</text>
+        <text class="lbl" x="574" y="260">▸ Belum pernah memakai PT SMI / KPBU / green finance / DAK</text>
+        <text class="lbl" x="574" y="300">▸ Investasi infrastruktur: benchmark PT SMI Bogor Rp 170,4 M</text>
+      </g>
+      <g>
+        <rect x="346" y="330" width="190" height="52" rx="10" fill="#E8A33D"/>
+        <text x="441" y="353" text-anchor="middle" font-size="11.5" font-weight="800" fill="#3A2A05">CABANG 4 · ORGANIZATION</text>
+        <text x="441" y="372" text-anchor="middle" font-size="10" fill="#5A4310">Data &amp; tata kelola</text>
+        <rect x="556" y="316" width="614" height="66" rx="10" fill="#FCF7EC" stroke="#EDDDB4"/>
+        <text class="lbl" x="574" y="340">▸ Kolom % Air Hilang KOSONG di LK audited 2025 — NRW tidak diukur per zona</text>
+        <text class="lbl" x="574" y="360">▸ 3 sistem data belum terintegrasi · piutang RT-1 63,5% tak tertagih</text>
+        <text class="lbl" x="574" y="378" font-size="8.5" fill="#8A5E0B">▸ Politisasi: 5× ganti direksi 2026 — tidak ada kontinuitas program jangka panjang</text>
+      </g>
+    </svg>
+    <div class="tbl-note" style="margin-top:4px">Cara baca Issue Tree: cabang dipertahankan saling bebas (Mutually Exclusive) dan secara bersama mencakup seluruh penyebab (Collectively Exhaustive). Cabang 1–2 = sisi laba-rugi; cabang 3–4 = sisi modal &amp; organisasi.</div>
+  </div>
+  <div class="foot"><span>Problem · Issue Tree</span><span class="pageno">07 / 22</span></div>
+</section>
+
+<!-- 08 PROBLEM: COST OF INACTION -->
+<section class="slide">
+  <div class="kicker"><span class="num">08</span> Problem · Biaya Diam</div>
+  <div class="pad">
+    <h2>“Cost of inaction”: apa yang hilang setiap tahun strategi tidak berubah</h2>
+    <div class="hr c"></div>
+    <div class="row" style="gap:16px">
+      <div class="col"><div class="stat warn"><div class="v">Rp 9–10 M</div><div class="l">Air hilang / tahun</div><div class="d">2,23 juta m³ × ~Rp 4.700/m³ (upper bound, sebelum disesuaikan demand)</div></div></div>
+      <div class="col"><div class="stat warn"><div class="v">Rp 0,87 M</div><div class="l">Biaya listrik berlebih</div><div class="d">Potensi hemat VSD 15% dari Rp 5,79 M (EPA benchmark)</div></div></div>
+      <div class="col"><div class="stat warn"><div class="v">Rp 8,5 M</div><div class="l">Gap PAD tahunan</div><div class="d">Target Rp 10 M vs realisasi Rp 1,5 M (2025)</div></div></div>
+      <div class="col"><div class="stat warn"><div class="v">2,6 juta</div><div class="l">Warga tanpa layanan</div><div class="d">Termasuk 12.000 keluarga 1.000 HPK di locus stunting</div></div></div>
+    </div>
+    <div class="chart" style="margin-top:18px">
+      <div class="ct">Posisi NRW: unggul dari rata-rata, tapi tren memburuk dan tidak diukur jujur</div>
+      <svg viewBox="0 0 1080 190" width="100%" height="180">
+        <line class="grid" x1="46" y1="22" x2="1060" y2="22"/><line class="grid" x1="46" y1="60" x2="1060" y2="60"/><line class="grid" x1="46" y1="98" x2="1060" y2="98"/><line class="grid" x1="46" y1="136" x2="1060" y2="136"/>
+        <line class="axis" x1="46" y1="160" x2="1060" y2="160"/>
+        <text class="lblm" x="40" y="26" text-anchor="end">45%</text><text class="lblm" x="40" y="64" text-anchor="end">35%</text><text class="lblm" x="40" y="102" text-anchor="end">25%</text><text class="lblm" x="40" y="140" text-anchor="end">15%</text>
+        <!-- scale y = 160 - v*3.067 -->
+        <rect x="120" y="56" width="130" height="104" rx="3" fill="#C9D5E0"/><text class="dlbl" x="185" y="50" text-anchor="middle">33,9%</text>
+        <text class="lbl" x="185" y="176" text-anchor="middle">Nasional (2023)</text>
+        <rect x="340" y="97" width="130" height="63" rx="3" fill="#175B8F"/><text class="dlbl" x="405" y="91" text-anchor="middle">20,8%</text>
+        <text class="lbl" x="405" y="176" text-anchor="middle">Tirta Pandalungan</text>
+        <rect x="560" y="83" width="130" height="77" rx="3" fill="#2E9E5B"/><text class="dlbl" x="625" y="77" text-anchor="middle">25%</text>
+        <text class="lbl" x="625" y="176" text-anchor="middle">Target nasional</text>
+        <rect x="780" y="108" width="130" height="52" rx="3" fill="#B5446E"/><text class="dlbl" x="845" y="102" text-anchor="middle">17%</text>
+        <text class="lbl" x="845" y="176" text-anchor="middle">Target kami 2029</text>
+        <text class="lblm" x="1000" y="80" text-anchor="middle">Tren TPJ: 18,49% (2022)</text>
+        <text class="lblm" x="1000" y="98" text-anchor="middle">→ 20,78% (2023)</text>
+        <text class="lblm" x="1000" y="116" text-anchor="middle">→ dikosongkan di</text>
+        <text class="lblm" x="1000" y="134" text-anchor="middle">LK audited 2025</text>
+      </svg>
+    </div>
+    <div class="lede" style="margin-top:14px">Penyebab-penyebab di Issue Tree saling <b>memperkuat</b>: data yang tidak diukur (cabang 4) membuat kebocoran (cabang 2) tidak dikelola, yang menelan margin yang seharusnya mendanai ekspansi (cabang 1) — sementara pendanaan eksternal (cabang 3) tidak pernah diakses karena tidak ada kredibilitas data.</div>
+  </div>
+  <div class="foot"><span>Problem · Biaya Diam</span><span class="pageno">08 / 22</span></div>
+</section>
+
+<!-- 09 DIVIDER: ANALYSIS -->
+<section class="slide dark">
+  <div class="divider">
+    <div class="in">
+      <div class="sn">03</div><div class="st">Analysis</div>
+      <div class="sd">Enam kerangka analisis untuk menguji setiap cabang masalah: <b style="color:#CFE2F2">PESTEL, Porter’s Five Forces, SWOT, VRIO, Value Chain &amp; Profitability, Market Sizing</b>.</div>
+      <div class="bar" style="background:#7FB2DE"></div>
+    </div>
+  </div>
+  <div class="foot"><span>Analysis</span><span class="pageno">09 / 22</span></div>
+</section>
+
+<!-- 10 ANALYSIS: PESTEL -->
+<section class="slide">
+  <div class="kicker"><span class="num">10</span> Analysis · PESTEL</div>
+  <div class="pad">
+    <h2>Lingkungan eksternal: tekanan dari segala arah sekaligus peluang besar</h2>
+    <div class="hr p"></div>
+    <div style="display:grid;grid-template-columns:1fr 1fr 1fr;gap:12px">
+      <div class="card" style="border-top:4px solid var(--blue)"><span class="tag">POLITICAL</span>
+        <h3 style="margin-top:8px">Politik</h3>
+        <ul class="tick"><li>Bupati Fawait: kemandirian fiskal, target PAD Rp 10 M, ultimatum 2 pekan ke direksi baru</li><li>Raperda Perumdam 2026 — momentum kristalisasi tata kelola</li><li>DPRD (PKS) menuntut turunnya NRW &amp; perluasan layanan</li></ul></div>
+      <div class="card" style="border-top:4px solid var(--green)"><span class="tag g">ECONOMIC</span>
+        <h3 class="grn" style="margin-top:8px">Ekonomi</h3>
+        <ul class="tick"><li class="gr">Jember tumbuh 6,35% (Q1 2026) — di atas Jatim 5,96%</li><li class="gr">PAD kabupaten tembus Rp 1 T (+32%); RAPBD 2027 Rp 5,5 T</li><li class="gr">Garis kemiskinan Jatim Rp 609.732/kapita/bln — daya beli MBR tipis</li></ul></div>
+      <div class="card" style="border-top:4px solid var(--amber)"><span class="tag a">SOCIAL</span>
+        <h3 class="amb" style="margin-top:8px">Sosial</h3>
+        <ul class="tick"><li class="am">Stunting 30,4% — tertinggi Jatim (34,9% SSGI 2022, terverifikasi)</li><li class="am">2.456 KK krisis air setiap kemarau; 200.770 jiwa miskin</li><li class="am">Homecare &amp; UHC 98,61% — infrastruktur sosial sudah ada</li></ul></div>
+      <div class="card" style="border-top:4px solid var(--purple)"><span class="tag p">TECHNOLOGICAL</span>
+        <h3 style="color:var(--purple);margin-top:8px">Teknologi</h3>
+        <ul class="tick"><li class="pu">Unej AI Center for Industrial Agriculture (Nov 2025) — presisi irigasi, prediksi panen</li><li class="pu">BRIN–Telkom smart meter IoT; BSA “PDAM Pintar” dipakai 100+ PDAM</li><li class="pu">TPJ Inside (Sep 2025) sudah di tangan pelanggan</li></ul></div>
+      <div class="card" style="border-top:4px solid var(--green)"><span class="tag g">ENVIRONMENTAL</span>
+        <h3 class="grn" style="margin-top:8px">Lingkungan</h3>
+        <ul class="tick"><li class="gr">Kemarau ekstrem tahunan (BMKG: 482 ZOM lebih kering); banjir feb 2026 menimpa 3.944 KK</li><li class="gr">Tutupan lahan hulu DAS Bedadung 16,25% vs ideal 30%; 9 sungai pendangkalan</li><li class="gr">Listrik Rp 5,79 M/tahun — biaya &amp; emisi sekaligus</li></ul></div>
+      <div class="card" style="border-top:4px solid var(--crimson)"><span class="tag c">LEGAL</span>
+        <h3 class="cr" style="margin-top:8px">Hukum</h3>
+        <ul class="tick"><li class="cr">UU 17/2019: hak air 60 l/orang/hari; PP 122/2015: SPAM</li><li class="cr">Permendagri 71/2016 §27(5): PM wajib mensubsidi tarif di bawah full cost recovery</li><li class="cr">RUU BUMD: pemisahan KPI finansial vs pelayanan publik</li></ul></div>
+    </div>
+    <div class="lede" style="margin-top:12px">Sintesis: tekanan politik (PAD), sosial (stunting), dan lingkungan (iklim) mengarah ke <b>satu jenis strategi</b> — pertumbuhan yang dampak sosial-lingkungannya terukur. Regulasi (§27(5)) bahkan <b>mewajibkan</b> skema pro-miskin.</div>
+  </div>
+  <div class="foot"><span>Analysis · PESTEL</span><span class="pageno">10 / 22</span></div>
+</section>
+
+<!-- 11 ANALYSIS: PORTER -->
+<section class="slide">
+  <div class="kicker"><span class="num">11</span> Analysis · Porter’s Five Forces</div>
+  <div class="pad">
+    <h2>Daya tawar tertinggi ada di regulator, ancaman tertinggi di substitusi</h2>
+    <div class="hr"></div>
+    <svg viewBox="0 0 1160 390" width="100%" height="382">
+      <!-- top: new entrants -->
+      <rect x="355" y="18" width="450" height="66" rx="12" fill="#F8E3EA" stroke="#B5446E"/>
+      <text x="580" y="44" text-anchor="middle" font-size="13" font-weight="800" fill="#8E3253">ANCAMAN ENTRASI BARU — RENDAH</text>
+      <text x="580" y="64" text-anchor="middle" font-size="10.5" fill="#5A3A48">Padat modal, izin regulasi, aset spesifik. Pengecualian: Pamsimas/IBM di desa (alternatif komunitas)</text>
+      <!-- left: suppliers -->
+      <rect x="20" y="172" width="430" height="66" rx="12" fill="#FBF0D9" stroke="#E8A33D"/>
+      <text x="235" y="198" text-anchor="middle" font-size="13" font-weight="800" fill="#8A5E0B">KEKUATAN PEMASOK — TINGGI</text>
+      <text x="235" y="218" text-anchor="middle" font-size="10.5" fill="#5A4310">Listrik PLN tak tergantikan jangka pendek (Rp 5,79 M/thn); sumber air bergantung kondisi DAS</text>
+      <!-- right: buyers -->
+      <rect x="710" y="172" width="430" height="66" rx="12" fill="#E7EEF6" stroke="#175B8F"/>
+      <text x="925" y="198" text-anchor="middle" font-size="13" font-weight="800" fill="#175B8F">KEKUATAN PEMBELI — SEDANG↗</text>
+      <text x="925" y="218" text-anchor="middle" font-size="10.5" fill="#33506B">Pelanggan terfragmentasi, tapi <tspan font-weight="800">regulator (Bupati–DPRD) menetapkan tarif &amp; KPI</tspan></text>
+      <!-- bottom: substitutes -->
+      <rect x="355" y="316" width="450" height="66" rx="12" fill="#B5446E"/>
+      <text x="580" y="342" text-anchor="middle" font-size="13" font-weight="800" fill="#fff">TEKANAN PRODUK SUBSTITUSI — TINGGI</text>
+      <text x="580" y="362" text-anchor="middle" font-size="10.5" fill="#F8E3EA">Air galon/kemasan, sumur pribadi, tangki — mayoritas warga Jember belum “terkunci” pada jaringan</text>
+      <!-- center -->
+      <rect x="460" y="156" width="240" height="100" rx="14" fill="#0E2A47"/>
+      <text x="580" y="188" text-anchor="middle" font-size="13" font-weight="800" fill="#fff">PERSAINGAN INDUSTRI</text>
+      <text x="580" y="206" text-anchor="middle" font-size="10.5" fill="#9FBBD8">Monopoli wilayah (lokal)</text>
+      <text x="580" y="222" text-anchor="middle" font-size="10.5" fill="#9FBBD8">Ancaman: SPAM regional</text>
+      <text x="580" y="240" text-anchor="middle" font-size="10.5" fill="#9FBBD8">(Jember–Bondowoso ternotasi)</text>
+      <!-- arrows -->
+      <g stroke="#8E3253" stroke-width="2.5" fill="none"><path d="M580 84 L580 148"/><path d="M572 140 L580 152 L588 140"/></g>
+      <g stroke="#8A5E0B" stroke-width="2.5" fill="none"><path d="M450 205 L452 205"/><path d="M618 205 L702 205"/><path d="M694 197 L706 205 L694 213"/></g>
+      <g stroke="#175B8F" stroke-width="2.5" fill="none"><path d="M710 205 L706 205"/><path d="M542 205 L468 205"/><path d="M476 197 L464 205 L476 213"/></g>
+      <g stroke="#B5446E" stroke-width="2.5" fill="none"><path d="M580 316 L580 268"/><path d="M572 276 L580 264 L588 276"/></g>
+    </svg>
+    <div class="lede" style="margin-top:6px">Kesimpulan: industri <b>menarik secara struktur</b> (monopoli, permintaan tidak elastis), tapi nilai ditahan oleh regulator &amp; substitusi. Strategi yang menang = <b>align dengan agenda pemerintah</b> (PAD &amp; stunting) + <b>mengurangi kebocoran</b> agar harga per m³ kompetitif vs galon.</div>
+  </div>
+  <div class="foot"><span>Analysis · Porter’s Five Forces</span><span class="pageno">11 / 22</span></div>
+</section>
+
+<!-- 12 ANALYSIS: SWOT -->
+<section class="slide">
+  <div class="kicker"><span class="num">12</span> Analysis · SWOT</div>
+  <div class="pad">
+    <h2>SWOT: kekuatan finansial adalah aset, lemahnya data adalah leher botol</h2>
+    <div class="hr"></div>
+    <div style="display:grid;grid-template-columns:1fr 1fr;gap:14px">
+      <div class="card" style="border-top:5px solid var(--green);min-height:178px">
+        <span class="tag g">STRENGTHS</span>
+        <ul class="tick" style="margin-top:10px">
+          <li class="gr">Zero utang bank · rasio lancar 6,79× · surplus kas Rp 4,76 M (2025)</li>
+          <li class="gr">Laporan keuangan audited WTP — kredibilitas pendanaan</li>
+          <li class="gr">46.693 SR basis pelanggan + kapasitas 510 l/detik</li>
+          <li class="gr">NRW 20,8% masih di bawah rata-rata nasional 33,9%</li>
+        </ul>
+      </div>
+      <div class="card" style="border-top:5px solid var(--crimson);min-height:178px">
+        <span class="tag c">WEAKNESSES</span>
+        <ul class="tick" style="margin-top:10px">
+          <li class="cr">NRW kosong di LK audited — tidak diukur per zona</li>
+          <li class="cr">BOBO 88,9% (batas 90%) — margin tipis</li>
+          <li class="cr">Aset 65% terdepresiasi; 3 sistem data tak terintegrasi</li>
+          <li class="cr">Piutang RT-1 63,5% tak tertagih</li>
+        </ul>
+      </div>
+      <div class="card" style="border-top:5px solid var(--blue);min-height:178px">
+        <span class="tag">OPPORTUNITIES</span>
+        <ul class="tick" style="margin-top:10px">
+          <li>Gelombang dana: PT SMI, DAK Stunting Rp 3,18 M, GCF–IIF, hibah CSR PLTS</li>
+          <li>90% pasar belum terlayani; target APBN +15.000 SR sudah ada di meja</li>
+          <li>Regulasi memaksa subsidi pro-miskin (§27(5)) → DAK jadi kanal wajar</li>
+          <li>Kemitraan kampus (Unej AI Center, Unmuh, BMKG) gratis</li>
+        </ul>
+      </div>
+      <div class="card" style="border-top:5px solid var(--amber);min-height:178px">
+        <span class="tag a">THREATS</span>
+        <ul class="tick" style="margin-top:10px">
+          <li class="am">Kemarau ekstrem tahunan (2.456 KK) + banjir (3.944 KK) kebenturan iklim</li>
+          <li class="am">Politisasi BUMD — 5× ganti direksi 2026</li>
+          <li class="am">Substitusi galon/sumur mencuri pasar potensial</li>
+          <li class="am">Kenaikan tarif memicu inflasi (2022: 7,39% — tertinggi Jatim)</li>
+        </ul>
+      </div>
+    </div>
+    <div class="lede" style="margin-top:12px"> Strategi SO/ST: gunakan <b>kekuatan balance sheet</b> untuk menangkap <b>peluang dana eksternal</b> (SO), dan meredam <b>ancaman iklim &amp; politik</b> dengan kredibilitas data &amp; diversifikasi pendapatan (ST).</div>
+  </div>
+  <div class="foot"><span>Analysis · SWOT</span><span class="pageno">12 / 22</span></div>
+</section>
+
+<!-- 13 ANALYSIS: VRIO -->
+<section class="slide">
+  <div class="kicker"><span class="num">13</span> Analysis · VRIO</div>
+  <div class="pad">
+    <h2>Sumber daya apa yang benar-benar menjadi keunggulan kompetitif?</h2>
+    <div class="hr p"></div>
+    <table>
+      <tr><th style="width:22%">Sumber daya</th><th class="r" style="width:7%">Valuable</th><th class="r" style="width:8%">Rare</th><th class="r" style="width:9%">Inimitable</th><th class="r" style="width:12%">Organized</th><th>Implikasi strategi</th></tr>
+      <tr><td><b>Balance sheet bersih</b> (zero debt, rasio lancar 6,79×)</td><td class="r">✓</td><td class="r">✓</td><td class="r">✓</td><td class="r">✓</td><td><b>Keunggulan kompetitif berkelanjutan</b> — kapasitas mendanai transisi &amp; jaminan pendanaan eksternal</td></tr>
+      <tr><td><b>Lisensi &amp; jaringan wilayah</b> (monopoli 13 kecamatan)</td><td class="r">✓</td><td class="r">✓</td><td class="r">✓</td><td class="r">✓</td><td><b>Berkelanjutan</b> — sebagai platform untuk ekspansi 18 kecamatan</td></tr>
+      <tr><td><b>Data pelanggan &amp; operasional</b> (SIMPEL, Simbio, TPJ Inside)</td><td class="r">✓</td><td class="r">✕</td><td class="r">✕</td><td class="r"><b>✕</b></td><td><b>Keunggulan kompetitif potensial</b> — hari ini tidak dikelola (NRW kosong); jika diorganisasi → nilai ekonomi langsung</td></tr>
+      <tr><td><b>Relasi ekosistem</b> (BPBD–PMI, Unej, PTPN, Forum CSR)</td><td class="r">✓</td><td class="r">✓</td><td class="r">✓</td><td class="r">✕</td><td><b>Keunggulan sementara</b> — harus diformalkan (MoU PPCP) sebelum dimanfaatkan kompetitor (regional SPAM)</td></tr>
+      <tr><td><b>Brand Hazora</b> (AMDK Rp 2,21 M)</td><td class="r">✓</td><td class="r">✕</td><td class="r">✕</td><td class="r">✓</td><td>Paritas kompetitif — butuh skala (target Rp 5 M) untuk berkontribusi pada PAD</td></tr>
+      <tr><td><b>Aset fisik tua</b> (65% terdepresiasi)</td><td class="r">✓</td><td class="r">✕</td><td class="r">✕</td><td class="r">✕</td><td><b>Kelemahan struktural</b> — membutuhkan retro-fit &amp; pendanaan eksternal, bukan hanya tukar ganti</td></tr>
+    </table>
+    <div class="card" style="margin-top:14px;border-left:5px solid var(--purple);background:#F7F5FB;border-color:#D8CEEA">
+      <h3 style="color:var(--purple)">Kesimpulan VRIO</h3>
+      <p class="body" style="margin-top:5px">Dua sumber daya memberi keunggulan <b>berkelanjutan</b>: balance sheet bersih dan lisensi wilayah. Namun <b>data — sumber daya yang paling murah diperbaiki — justru belum jadi keunggulan</b>. Konversi “data tidak terorganisasi” menjadi “data terorganisasi” adalah investasi dengan ROI tertinggi: ia membuka akses pendanaan eksternal yang membutuhkan kredibilitas (rating, audit, KPI terukur).</p>
+    </div>
+  </div>
+  <div class="foot"><span>Analysis · VRIO</span><span class="pageno">13 / 22</span></div>
+</section>
+
+<!-- 14 ANALYSIS: VALUE CHAIN & PROFITABILITY -->
+<section class="slide">
+  <div class="kicker"><span class="num">14</span> Analysis · Value Chain &amp; Profitability</div>
+  <div class="pad">
+    <h2>Rantai nilai &amp; struktur laba: kebocoran terjadi di tengah, bukan di ujung</h2>
+    <div class="hr"></div>
+    <div class="chart">
+      <div class="ct">Value chain air minum — di mana nilai hilang &amp; di mana biaya terbesar</div>
+      <svg viewBox="0 0 1160 150" width="100%" height="146">
+        <defs><marker id="ah" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto"><path d="M0,0 L6,3 L0,6" fill="none" stroke="#175B8F" stroke-width="1.5"/></marker></defs>
+        <g>
+          <rect x="10" y="30" width="170" height="58" rx="10" fill="#E7EEF6" stroke="#175B8F"/>
+          <text x="95" y="55" text-anchor="middle" font-size="12" font-weight="800" fill="#175B8F">1. SUMBER AIR</text>
+          <text x="95" y="74" text-anchor="middle" font-size="9.5" fill="#33506B">DAS Bedadung · 6 titik · 15 sumur bor</text>
+          <line x1="180" y1="59" x2="196" y2="59" stroke="#175B8F" stroke-width="2" marker-end="url(#ah)"/>
+          <rect x="200" y="30" width="170" height="58" rx="10" fill="#E7EEF6" stroke="#175B8F"/>
+          <text x="285" y="55" text-anchor="middle" font-size="12" font-weight="800" fill="#175B8F">2. PRODUKSI (IPA)</text>
+          <text x="285" y="74" text-anchor="middle" font-size="9.5" fill="#33506B">5 unit IPA · kimia Rp 1,52 M</text>
+          <line x1="370" y1="59" x2="386" y2="59" stroke="#175B8F" stroke-width="2" marker-end="url(#ah)"/>
+          <rect x="390" y="30" width="170" height="58" rx="10" fill="#B5446E"/>
+          <text x="475" y="55" text-anchor="middle" font-size="12" font-weight="800" fill="#fff">3. DISTRIBUSI</text>
+          <text x="475" y="74" text-anchor="middle" font-size="9.5" fill="#F8E3EA">⚠ NRW 20,8% — 2,23 juta m³ hilang</text>
+          <line x1="560" y1="59" x2="576" y2="59" stroke="#175B8F" stroke-width="2" marker-end="url(#ah)"/>
+          <rect x="580" y="30" width="170" height="58" rx="10" fill="#E7EEF6" stroke="#175B8F"/>
+          <text x="665" y="55" text-anchor="middle" font-size="12" font-weight="800" fill="#175B8F">4. METER &amp; TAGIHAN</text>
+          <text x="665" y="74" text-anchor="middle" font-size="9.5" fill="#33506B">⚠ piutang RT-1 63,5% macet</text>
+          <line x1="750" y1="59" x2="766" y2="59" stroke="#175B8F" stroke-width="2" marker-end="url(#ah)"/>
+          <rect x="770" y="30" width="170" height="58" rx="10" fill="#E7EEF6" stroke="#175B8F"/>
+          <text x="855" y="55" text-anchor="middle" font-size="12" font-weight="800" fill="#175B8F">5. LAYANAN PELANGGAN</text>
+          <text x="855" y="74" text-anchor="middle" font-size="9.5" fill="#33506B">⚠ CSI 74,61 “Kurang Baik”</text>
+        </g>
+        <!-- support -->
+        <rect x="10" y="104" width="930" height="30" rx="8" fill="#0E2A47"/>
+        <text x="475" y="124" text-anchor="middle" font-size="10.5" fill="#9FBBD8">SUPPORT: SDM (Rp 17,15 M · 29% biaya) · Energi pompa (Rp 5,79 M · 10%) · Penyusutan aset (Rp 9,65 M · 16%) · Sistem data (SIMPEL/Simbio/TPJ Inside)</text>
+        <!-- side note -->
+        <rect x="960" y="30" width="190" height="104" rx="10" fill="#F5FAF7" stroke="#2E9E5B"/>
+        <text x="1055" y="52" text-anchor="middle" font-size="10.5" font-weight="800" fill="#1E7142">AIR TERJUAL 77,2%</text>
+        <text x="1055" y="72" text-anchor="middle" font-size="9.5" fill="#2E5440">dari produksi 9,79 juta m³</text>
+        <text x="1055" y="92" text-anchor="middle" font-size="9.5" fill="#2E5440">Margin tipis Rp 387/m³</text>
+        <text x="1055" y="110" text-anchor="middle" font-size="9.5" fill="#2E5440">(Rp 7.067 jual − Rp 5.233 HPP)</text>
+      </svg>
+    </div>
+    <div class="row" style="gap:16px;margin-top:14px">
+      <div class="card white" style="flex:1.3;border-left:5px solid var(--crimson)">
+        <h3 class="cr">Profitability driver: di mana margin disita</h3>
+        <ul class="tick" style="margin-top:5px">
+          <li class="cr">Harga jual kotor Rp 7.067/m³ vs HPP Rp 5.233/m³ → <b>margin Rp 387/m³</b>; NRW 20,8% berarti 1 dari 5 m³ dipompa dengan biaya penuh tanpa pendapatan</li>
+          <li class="cr">Energi pompa 10% dari biaya — <b>biaya terbesar yang masih bisa dikendalikan</b> (EPA: hemat 15–30%)</li>
+          <li class="cr">Biaya penyusutan 16% — aset tua butuh retro-fit, bukan hanya perawatan</li>
+        </ul>
+      </div>
+      <div class="card white" style="flex:1;border-left:5px solid var(--green)">
+        <h3 class="grn">Lever keuntungan terbesar</h3>
+        <ul class="tick" style="margin-top:5px">
+          <li class="gr">Turunkan NRW 20,8%→17%: air yang sama, omzet +Rp 1,6 M/thn (asumsi 60% air pulihan terjual)</li>
+          <li class="gr">VSD + PLTS: Rp 0,9–1,45 M/thn langsung ke laba</li>
+          <li class="gr">+15.000 SR dengan biaya modal eksternal: revenue +Rp 12,8 M tanpa beban bunga</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class="foot"><span>Analysis · Value Chain &amp; Profitability</span><span class="pageno">14 / 22</span></div>
+</section>
+
+<!-- 15 ANALYSIS: MARKET SIZING -->
+<section class="slide">
+  <div class="kicker"><span class="num">15</span> Analysis · Market Sizing &amp; Segmentasi</div>
+  <div class="pad">
+    <h2>90% pasar belum tersentuh — tapi bukan berarti 100% bisa dimenangi</h2>
+    <div class="hr"></div>
+    <div class="row" style="gap:20px">
+      <div class="col" style="flex:1">
+        <div class="chart">
+          <div class="ct">TAM · SAM · SOM pasar air minum Jember (estimasi)</div>
+          <svg viewBox="0 0 440 250" width="100%" height="238">
+            <circle cx="220" cy="128" r="112" fill="#E7EEF6"/>
+            <circle cx="220" cy="138" r="76" fill="#B3CFE3"/>
+            <circle cx="220" cy="146" r="40" fill="#175B8F"/>
+            <text x="220" y="32" text-anchor="middle" font-size="10.5" font-weight="800" fill="#175B8F">TAM — 2,6 juta jiwa</text>
+            <text x="220" y="47" text-anchor="middle" font-size="9" fill="#33506B">~650.000 KK · ~Rp 470 M/tahun (nominal penuh)</text>
+            <text x="220" y="106" text-anchor="middle" font-size="10.5" font-weight="800" fill="#0E2A47">SAM — kota + 18 kecamatan prioritas</text>
+            <text x="220" y="121" text-anchor="middle" font-size="9" fill="#23364A">termasuk 10 kecamatan rawan krisis air</text>
+            <text x="220" y="146" text-anchor="middle" font-size="11" font-weight="800" fill="#fff">SOM 2029</text>
+            <text x="220" y="162" text-anchor="middle" font-size="10.5" font-weight="800" fill="#fff">64.693 SR</text>
+            <text x="220" y="176" text-anchor="middle" font-size="9" fill="#DCEBF6">~11,1 juta m³/thn</text>
+            <text x="220" y="238" text-anchor="middle" font-size="9" fill="#5D6E7E">Asumsi: 12 m³/KK/bulan × Rp 5.000/m³ untuk TAM; SOM dari rencana +15.000 SR + organik</text>
+          </svg>
+        </div>
+      </div>
+      <div class="col" style="flex:1.15">
+        <div class="card white" style="margin-bottom:12px">
+          <h3>Segmentasi pelanggan &amp; logika prioritasisasi</h3>
+          <table style="margin-top:6px">
+            <tr><th>Segmen</th><th class="r">Karakter</th><th>Strategi</th></tr>
+            <tr><td><b>Rumah Tangga 1–3</b> (mayoritas)</td><td class="r">Margin tipis; RT-1 piutang 63,5%</td><td>Blok 1 Rp 0 untuk MBR tersertifikasi + tera ulang meter</td></tr>
+            <tr><td><b>Niaga &amp; Industri</b></td><td class="r">Tarif 2–4× RT (cross-subsidi engine)</td><td>Kembangkan di Ajung, Puger, Semboro (pabrik)</td></tr>
+            <tr><td><b>Sosial/Pemerintah</b></td><td class="r">0% piutang macet</td><td>Kanal pembayaran via APBD → kas stabil</td></tr>
+            <tr><td><b>MBR desa &amp; keluarga 1000 HPK</b></td><td class="r">Daya beli rendah, dampak gizi tinggi</td><td>Master Meter Rp 2.850–Rp 0/m³ dibiayai DAK</td></tr>
+            <tr><td><b>Kelompok tani</b> (pelanggan baru)</td><td class="r">BUTUH Air irigasi musiman</td><td>Layanan irigasi mikro + PATS surya</td></tr>
+          </table>
+        </div>
+        <div class="card" style="border-left:5px solid var(--blue)">
+          <h3>Logika urutan: kota dulu, desa mengikuti dengan dana orang lain</div>
+          <p class="body" style="margin-top:5px">Market penetration (kota: DMA, NRW, intensitas layanan) → <b>market development</b> (desa locus stunting, dibiayai DAK/Water Credit) → <b>diversifikasi</b> (Hazora, air irigasi, jasa tangki) — mengikuti matriks Ansoff, bukan ekspansi buta.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="foot"><span>Analysis · Market Sizing &amp; Segmentasi</span><span class="pageno">15 / 22</span></div>
+</section>
+
+<!-- 16 DIVIDER: SOLUTION -->
+<section class="slide dark">
+  <div class="divider">
+    <div class="in">
+      <div class="sn">04</div><div class="st">Solution</div>
+      <div class="sd">Empat opsi strategi dinilai dengan matriks tertimbang. Yang terpilih: <b style="color:#CFE2F2">Nexus Sustainability Strategy</b> — tiga pilar yang dampaknya dihitung dalam triple bottom line.</div>
+      <div class="bar" style="background:#7FB2DE"></div>
+    </div>
+  </div>
+  <div class="foot"><span>Solution</span><span class="pageno">16 / 22</span></div>
+</section>
+
+<!-- 17 SOLUTION: OPTIONS MATRIX -->
+<section class="slide">
+  <div class="kicker"><span class="num">17</span> Solution · Evaluasi Opsi Strategi</div>
+  <div class="pad">
+    <h2>Empat opsi strategi, satu yang memenuhi kriteria tema &amp; keuangan</h2>
+    <div class="hr g"></div>
+    <table>
+      <tr><th style="width:19%">Opsi strategi</th><th class="r" style="width:9%">Profitabilitas (30%)</th><th class="r" style="width:8%">Sosial (20%)</th><th class="r" style="width:8%">Lingkungan (15%)</th><th class="r" style="width:8%">Feasibilitas (20%)</th><th class="r" style="width:8%">Kecepatan (15%)</th><th class="r" style="width:9%">Skor</th><th>Catatan</th></tr>
+      <tr><td><b>A. Bisnis seperti biasa</b> + kenaikan tarif</td><td class="r">3</td><td class="r">1</td><td class="r">1</td><td class="r">3</td><td class="r">3</td><td class="r"><b>2,35</b></td><td>Tarif 2022 memicu inflasi 7,39% — tertinggi Jatim; DPRD menolak berulang</td></tr>
+      <tr><td><b>B. Ekspansi agresif</b> berbiaya utang bank</td><td class="r">4</td><td class="r">2</td><td class="r">2</td><td class="r">2</td><td class="r">3</td><td class="r"><b>2,80</b></td><td>Zero-debt adalah keunggulan VRIO; utang menghancurkan keunggulan itu &amp; BOBO sudah 88,9%</td></tr>
+      <tr><td><b>C. JV regional SPAM</b> (Jember–Bondowoso)</td><td class="r">3</td><td class="r">3</td><td class="r">3</td><td class="r">2</td><td class="r">2</td><td class="r"><b>2,75</b></td><td>Skala besar, tapi BUMD kecil jadi minoritas; keputusan lambat</td></tr>
+      <tr style="background:#E2F2E8"><td><b>D. Nexus Sustainability Strategy</b> (blended finance, 3 pilar)</td><td class="r"><b>4</b></td><td class="r"><b>5</b></td><td class="r"><b>5</b></td><td class="r"><b>4</b></td><td class="r"><b>3</b></td><td class="r"><b>4,30</b></td><td><b>Terpilih</b> — memenuhi 3 pilar tema lomba, pendanaan eksternal, zero new debt</td></tr>
+    </table>
+    <div class="row" style="gap:16px;margin-top:14px">
+      <div class="card" style="flex:1;border-left:5px solid var(--green)">
+        <h3 class="grn">Kenapa D menang</h3>
+        <ul class="tick" style="margin-top:5px">
+          <li class="gr">Hanya opsi yang menyentuh <b>kedua tujuan</b>: profitabilitas (NRW, energi, +SR) <i>dan</i> tema lomba (green tech, data intelligence, social equity)</li>
+          <li class="gr">Modal internal Rp 2,5–5 M saja (&lt; 5% aset) — sisanya dana eksternal yang sudah terbukti</li>
+          <li class="gr">Risiko manageable: quick-win payback 2–4 tahun</li>
+        </ul>
+      </div>
+      <div class="chart" style="flex:1">
+        <div class="ct">Skor akhir (tertimbang, skala 1–5)</div>
+        <svg viewBox="0 0 440 130" width="100%" height="124">
+          <line class="axis" x1="30" y1="100" x2="430" y2="100"/>
+          <rect x="46" y="53" width="60" height="47" rx="3" fill="#C9D5E0"/><text class="dlbl" x="76" y="47" text-anchor="middle">2,35</text><text class="lblm" x="76" y="114" text-anchor="middle">A</text>
+          <rect x="136" y="44" width="60" height="56" rx="3" fill="#C9D5E0"/><text class="dlbl" x="166" y="38" text-anchor="middle">2,80</text><text class="lblm" x="166" y="114" text-anchor="middle">B</text>
+          <rect x="226" y="45" width="60" height="55" rx="3" fill="#C9D5E0"/><text class="dlbl" x="256" y="39" text-anchor="middle">2,75</text><text class="lblm" x="256" y="114" text-anchor="middle">C</text>
+          <rect x="316" y="14" width="60" height="86" rx="3" fill="#2E9E5B"/><text class="dlbl" x="346" y="8" text-anchor="middle" fill="#1E7142">4,30</text><text class="lblm" x="346" y="114" text-anchor="middle">D ✓</text>
+        </svg>
+      </div>
+    </div>
+  </div>
+  <div class="foot"><span>Solution · Evaluasi Opsi Strategi</span><span class="pageno">17 / 22</span></div>
+</section>
+
+<!-- 18 SOLUTION: THEORY OF CHANGE -->
+<section class="slide">
+  <div class="kicker"><span class="num">18</span> Solution · Strategi Terpilih</div>
+  <div class="pad">
+    <h2>“Nexus Sustainability Strategy” — Water–Energy–Food sebagai mesin pertumbuhan</h2>
+    <div class="hr g"></div>
+    <svg viewBox="0 0 1160 150" width="100%" height="146">
+      <defs><marker id="ah2" markerWidth="9" markerHeight="9" refX="7" refY="3.5" orient="auto"><path d="M0,0 L7,3.5 L0,7" fill="none" stroke="#2E9E5B" stroke-width="1.5"/></marker></defs>
+      <g font-size="10.5" text-anchor="middle">
+        <rect x="10" y="42" width="200" height="60" rx="10" fill="#E7EEF6" stroke="#175B8F"/><text x="110" y="68" font-weight="800" fill="#175B8F">KREDIBILITAS DATA</text><text x="110" y="86" fill="#33506B">NRW diukur &amp; dipublikasi</text>
+        <line x1="210" y1="72" x2="226" y2="72" stroke="#2E9E5B" stroke-width="2.5" marker-end="url(#ah2)"/>
+        <rect x="230" y="42" width="200" height="60" rx="10" fill="#E2F2E8" stroke="#2E9E5B"/><text x="330" y="68" font-weight="800" fill="#1E7142">EFISIENSI OPERASIONAL</text><text x="330" y="86" fill="#2E5440">NRW turun · energi turun</text>
+        <line x1="430" y1="72" x2="446" y2="72" stroke="#2E9E5B" stroke-width="2.5" marker-end="url(#ah2)"/>
+        <rect x="450" y="42" width="200" height="60" rx="10" fill="#FBF0D9" stroke="#E8A33D"/><text x="550" y="68" font-weight="800" fill="#8A5E0B">AKSES MODAL EKSTERNAL</text><text x="550" y="86" fill="#5A4310">DAK · PT SMI · GCF · CSR</text>
+        <line x1="650" y1="72" x2="666" y2="72" stroke="#2E9E5B" stroke-width="2.5" marker-end="url(#ah2)"/>
+        <rect x="670" y="42" width="200" height="60" rx="10" fill="#F8E3EA" stroke="#B5446E"/><text x="770" y="68" font-weight="800" fill="#8E3253">PERTUMBUHAN INKLUSIF</text><text x="770" y="86" fill="#5A3A48">+18.000 SR · desa stunting</text>
+        <line x1="870" y1="72" x2="886" y2="72" stroke="#2E9E5B" stroke-width="2.5" marker-end="url(#ah2)"/>
+        <rect x="890" y="42" width="260" height="60" rx="10" fill="#0E2A47"/><text x="1020" y="68" font-weight="800" fill="#fff">PAD &amp; KETAHANAN</text><text x="1020" y="86" fill="#9FBBD8">PAD Rp 4,5 M · stunting turun · iklim tahan</text>
+      </g>
+    </svg>
+    <div class="row" style="gap:16px;margin-top:14px">
+      <div class="card" style="border-top:5px solid var(--blue)">
+        <span class="tag">PILAR 1 · DATA INTELLIGENCE</span>
+        <h3 style="margin-top:8px">Smart Water Grid</h3>
+        <p class="body" style="margin-top:4px">NRW jadi masalah data: DMA per zona, dashboard real-time, AI leak detection.</p>
+        <div style="margin-top:6px"><span class="pill">NRW 20,8%→17%</span><span class="pill">CSI 74,6→80+</span></div>
+      </div>
+      <div class="card" style="border-top:5px solid var(--green)">
+        <span class="tag g">PILAR 2 · GREEN TECHNOLOGY</span>
+        <h3 class="grn" style="margin-top:8px">Green Utility</h3>
+        <p class="body" style="margin-top:4px">Energi Rp 5,79 M dipotong 15–25%: VSD pompa, PLTS, kredit karbon.</p>
+        <div style="margin-top:6px"><span class="pill g">Hemat Rp 0,9–1,45 M/thn</span><span class="pill g">226 tCO₂e/thn</span></div>
+      </div>
+      <div class="card" style="border-top:5px solid var(--amber)">
+        <span class="tag a">PILAR 3 · SOCIAL EQUITY + AGRITECH</span>
+        <h3 class="amb" style="margin-top:8px">Tirta Setara</h3>
+        <p class="body" style="margin-top:4px">Ekspansi ke 30 desa kantong stunting &amp; lahan tani — dibiayai DAK &amp; CSR.</p>
+        <div style="margin-top:6px"><span class="pill a">+18.000 SR</span><span class="pill a">Zero stunting target</span></div>
+      </div>
+    </div>
+    <div class="lede" style="margin-top:14px">Setiap pilar menyentuh <b>minimal dua dari tiga kata kunci tema lomba</b> — dan setiap pilar punya preseden nyata: PAM Jaya (DMA), Pertamina NRE (PLTS+sumur bor), Master Meter Surakarta (zero stunting RW 10).</div>
+  </div>
+  <div class="foot"><span>Solution · Strategi Terpilih</span><span class="pageno">18 / 22</span></div>
+</section>
+
+<!-- 19 SOLUTION: PILLAR DETAIL -->
+<section class="slide">
+  <div class="kicker"><span class="num">19</span> Solution · Detail 3 Pilar</div>
+  <div class="pad">
+    <h2>Tiga pilar, delapan inisiatif — setiap inisiatif punya pemilik, angka, dan preseden</h2>
+    <div class="hr"></div>
+    <table>
+      <tr><th style="width:12%">Pilar</th><th style="width:24%">Inisiatif</th><th style="width:18%">Aksi kunci</th><th style="width:14%">KPI 2029</th><th>Preseden terverifikasi</th></tr>
+      <tr><td rowspan="3"><b style="color:var(--blue)">1 · Smart Water Grid</b><br><span class="small">(Data Intelligence)</span></td>
+          <td><b>1A. Data transparency</b></td><td>Isi kolom NRW di LK 2026; konsolidasi 3 sistem; dashboard kuartalan</td><td class="r">NRW terukur per zona</td><td>PAM Jaya (GCG 87,09, cakupan 83,15%)</td></tr>
+      <tr><td><b>1B. DMA digital + IoT</b></td><td>Pilot 3 zona kota Jember; sensor tekanan/aliran; sensus SR bersama Unej</td><td class="r">15 zona DMA</td><td>Denpasar + K-Water: 89→160 rb SR via DMA</td></tr>
+      <tr><td><b>1C. AI leak detection</b></td><td>Kemitraan vendor (BSA/Supra) atau hibah KOICA; AMI meter segmen niaga</td><td class="r">Pemadaman −50%</td><td>Surya Sembada + WI Plat/KOICA</td></tr>
+      <tr><td rowspan="3"><b class="grn">2 · Green Utility</b><br><span class="small">(Green Technology)</span></td>
+          <td><b>2A. Retro-fit pompa VSD</b></td><td>VSD/inverter 15–20 pompa; predictive maintenance</td><td class="r">Listrik −15%</td><td>EPA (hemat 15–30%); PT KAI (−15,39% energi)</td></tr>
+      <tr><td><b>2B. PLTS atap</b></td><td>100–200 kWp fase-1 via hibah Pertamina NRE/BRI Peduli</td><td class="r">226 tCO₂e/thn</td><td>Pertamina NRE SEB 2,8 kWp + sumur bor</td></tr>
+      <tr><td><b>2C. Carbon &amp; ESG</b></td><td>Registrasi IDXCarbon; disclosure ESG tahunan</td><td class="r">Rating ESG pertama</td><td>WTJJ Jatiluhur (S&amp;P 52, top-3 dunia)</td></tr>
+      <tr><td rowspan="2"><b class="amb">3 · Tirta Setara</b><br><span class="small">(Social Equity &amp; Agritech)</span></td>
+          <td><b>3A. Master Meter MBR</b></td><td>50–80 unit untuk 5.000 KK desil 1–4; blok 1 Rp 0 (kriteria Surabaya); restrukturisasi piutang RT-1</td><td class="r">5.000 KK; piutang &lt;25%</td><td>CCFI–PDAM Surakarta: Rp 2.850/m³, RW 10 zero stunting</td></tr>
+      <tr><td><b>3B. Air desa &amp; pertanian</b></td><td>Water Credit KPSPAMS (+3.000 SR); PATS surya irigasi; PES DAS Bedadung 16,25%→30%</td><td class="r">+8.000 SR total</td><td>Water Credit Nganjuk (Rp 5,5 M, +1.500 SR); PATS Samosir; PES Cidanau</td></tr>
+    </table>
+    <div class="tbl-note">Total inisiatif internal: Rp 2,5–5 M dalam 3 tahun; sisanya aktif dibiayai sumber eksternal terverifikasi pada kolom preseden.</div>
+  </div>
+  <div class="foot"><span>Solution · Detail 3 Pilar</span><span class="pageno">19 / 22</span></div>
+</section>
+
+<!-- 20 SOLUTION: TRIPLE BOTTOM LINE -->
+<section class="slide">
+  <div class="kicker"><span class="num">20</span> Solution · Triple Bottom Line</div>
+  <div class="pad">
+    <h2>Dampak terukur: ekonomi, sosial, lingkungan dalam satu neraca</h2>
+    <div class="hr g"></div>
+    <div class="row" style="gap:16px">
+      <div class="card" style="border-top:5px solid var(--blue);height:332px">
+        <span class="tag n">EKONOMI</span>
+        <h3 style="margin-top:8px">Profitabilitas &amp; ketahanan fiskal</h3>
+        <div class="bignum" style="margin-top:6px">+Rp 12,8 M</div>
+        <div class="small">pendapatan tambahan/tahun pada 2029 (+15.000 SR &amp; pemulihan NRW)</div>
+        <ul class="tick" style="margin-top:8px">
+          <li>Biaya energi turun <b>Rp 0,9–1,45 M/thn</b></li>
+          <li>Margin 8,6% → <b>11,5%</b></li>
+          <li>PAD Rp 1,5 M → <b>Rp 4,5 M</b> + Hazora Rp 5 M ≈ target Rp 10 M</li>
+          <li>Payback portofolio <b>3–5 tahun</b>, zero new debt</li>
+        </ul>
+      </div>
+      <div class="card" style="border-top:5px solid var(--amber);height:332px">
+        <span class="tag a">SOSIAL</span>
+        <h3 class="amb" style="margin-top:8px">Keadilan &amp; gizi</h3>
+        <div class="bignum" style="margin-top:6px">+18.000 KK</div>
+        <div class="small">akses air terjangkau pada 2029</div>
+        <ul class="tick" style="margin-top:8px">
+          <li class="am"><b>Rp 3,3 M/thn</b> dialihkan dari belanja galon ke gizi keluarga</li>
+          <li class="am">12.000 keluarga 1.000 HPK terlindungi air aman</li>
+          <li class="am">Stunting 30,4% → <b>~20%</b> (2029)</li>
+          <li class="am">2.456 KK krisis kemarau: tangki darurat → layanan permanen</li>
+        </ul>
+      </div>
+      <div class="card" style="border-top:5px solid var(--green);height:332px">
+        <span class="tag g">LINGKUNGAN</span>
+        <h3 class="grn" style="margin-top:8px">Iklim &amp; DAS</h3>
+        <div class="bignum" style="margin-top:6px">226 tCO₂e</div>
+        <div class="small">emisi terhindarkan per tahun + NRW reduction sebagai climate action</div>
+        <ul class="tick" style="margin-top:8px">
+          <li class="gr"><b>~0,9 juta m³ air/thn</b> diselamatkan (NRW 20,8%→17%)</li>
+          <li class="gr">Tutupan lahan DAS Bedadung 16,25% → <b>30%</b> via PES</li>
+          <li class="gr">Registrasi IDXCarbon + jalur ESG (benchmark WTJJ)</li>
+          <li class="gr">Banjir &amp; sedimentasi (3.944 KK, 9 sungai) diredam di hulu</li>
+        </ul>
+      </div>
+    </div>
+    <div class="lede" style="margin-top:12px">Inilah definisi <b>“Empowering Sustainable Growth”</b> dari tema lomba: pertumbuhan perusahaan, kesejahteraan warga, dan regenerasi lingkungan bergerak bersama — bukan saling menukar.</div>
+  </div>
+  <div class="foot"><span>Solution · Triple Bottom Line</span><span class="pageno">20 / 22</span></div>
+</section>
+
+<!-- 21 IMPLEMENTATION: ROADMAP -->
+<section class="slide">
+  <div class="kicker"><span class="num">21</span> Implementation · Roadmap</div>
+  <div class="pad">
+    <h2>Implementasi bertahap: quick-win dulu, skala kemudian</h2>
+    <div class="hr c"></div>
+    <div class="row" style="gap:16px">
+      <div class="card" style="border-top:5px solid var(--blue);height:286px">
+        <span class="tag">HORIZON 1 · 0–100 HARI</span>
+        <h3 style="margin-top:8px">“Berhenti bersembunyi dari data”</h3>
+        <ul class="tick" style="margin-top:6px">
+          <li>Isi &amp; publikasi NRW di laporan kuartalan</li>
+          <li>Konsolidasi SIMPEL · Simbio · TPJ Inside</li>
+          <li>MoU Unej AI Center — sensus SR 3 zona</li>
+          <li>Audit pompa &amp; spesifikasi VSD; pengajuan hibah PLTS</li>
+          <li>Dashboard NRW real-time (janji Jan 2026 → jadi)</li>
+        </ul>
+        <div style="margin-top:6px"><span class="pill">KPI: NRW terukur bulanan</span></div>
+      </div>
+      <div class="card" style="border-top:5px solid var(--green);height:286px">
+        <span class="tag g">HORIZON 2 · TAHUN 1–2</span>
+        <h3 class="grn" style="margin-top:8px">“Ukur, jangan asumsi”</h3>
+        <ul class="tick" style="margin-top:6px">
+          <li class="gr">DMA digital 3 zona + sensor IoT</li>
+          <li class="gr">Retro-fit VSD → hemat Rp 0,6–0,9 M/thn</li>
+          <li class="gr">PLTS fase-1 100 kWp (hibah CSR)</li>
+          <li class="gr">50 unit Master Meter pertama (DAK Stunting)</li>
+          <li class="gr">QRIS/VA + WhatsApp Center → CSI 78+</li>
+        </ul>
+        <div style="margin-top:6px"><span class="pill g">NRW 20,8%→19%</span><span class="pill g">+2.000 SR</span></div>
+      </div>
+      <div class="card" style="border-top:5px solid var(--crimson);height:286px">
+        <span class="tag c">HORIZON 3 · TAHUN 3–5</span>
+        <h3 class="cr" style="margin-top:8px">“Skala &amp; prediksi”</h3>
+        <ul class="tick" style="margin-top:6px">
+          <li class="cr">+15.000 SR via APBN/PT SMI (+150 l/detik)</li>
+          <li class="cr">AI leak detection seluruh DMA → NRW 17%</li>
+          <li class="cr">AMI smart meter; predictive maintenance</li>
+          <li class="cr">5.000 KK Master Meter + 3.000 SR desa (Water Credit)</li>
+          <li class="cr">PES DAS Bedadung &amp; IDXCarbon; rating ESG pertama</li>
+        </ul>
+        <div style="margin-top:6px"><span class="pill c">PAD Rp 4,5 M + Hazora Rp 5 M</span></div>
+      </div>
+    </div>
+    <div class="card" style="margin-top:14px;border-left:5px solid var(--purple)">
+      <h3 style="color:var(--purple)">Tata kelola implementasi</h3>
+      <p class="body" style="margin-top:5px">Kristalisasi dalam <b>raperda Perumdam 2026</b>: masa jabatan direksi tetap, KPI terukur, laporan publik kuartalan · Tim transformasi lintas-fungsi (Teknis–Umum–Keuangan) · <b>Dewan Pengawas</b> dengan representasi DPRD, akademisi Unej, dan unsur masyarakat · setiap KPI memiliki baseline audited yang bisa diaudit ulang.</p>
+    </div>
+  </div>
+  <div class="foot"><span>Implementation · Roadmap</span><span class="pageno">21 / 22</span></div>
+</section>
+
+<!-- 22 IMPLEMENTATION: FINANCIALS + RISK -->
+<section class="slide">
+  <div class="kicker"><span class="num">22</span> Implementation · Keuangan &amp; Risiko</div>
+  <div class="pad">
+    <h2>Proyeksi profitabilitas: pertumbuhan dibiayai eksternal, margin ditanam dalam</h2>
+    <div class="hr c"></div>
+    <div class="row" style="gap:16px">
+      <div class="col" style="flex:1.32">
+        <div class="chart">
+          <div class="ct">Proyeksi 2025–2029 (Rp M) — pendapatan, laba bersih, PAD</div>
+          <div class="legend"><span><i style="background:#175B8F"></i>Pendapatan</span><span><i style="background:#B5446E"></i>Laba bersih</span><span><i style="background:#E8A33D"></i>PAD (55% laba)</span></div>
+          <svg viewBox="0 0 560 210" width="100%" height="198">
+            <line class="grid" x1="44" y1="24" x2="548" y2="24"/><line class="grid" x1="44" y1="60" x2="548" y2="60"/><line class="grid" x1="44" y1="96" x2="548" y2="96"/><line class="grid" x1="44" y1="132" x2="548" y2="132"/>
+            <line class="axis" x1="44" y1="168" x2="548" y2="168"/>
+            <text class="lblm" x="38" y="28" text-anchor="end">75</text><text class="lblm" x="38" y="64" text-anchor="end">60</text><text class="lblm" x="38" y="100" text-anchor="end">45</text><text class="lblm" x="38" y="136" text-anchor="end">30</text>
+            <!-- y = 168 - v*1.92 -->
+            <polyline fill="none" stroke="#175B8F" stroke-width="2.5" points="64,54 171,49.5 278,44.3 385,39.4 492,33.7"/>
+            <g fill="#175B8F"><circle cx="64" cy="54" r="4"/><circle cx="171" cy="49.5" r="4"/><circle cx="278" cy="44.3" r="4"/><circle cx="385" cy="39.4" r="4"/><circle cx="492" cy="33.7" r="4"/></g>
+            <text class="dlbl" x="64" y="44" text-anchor="middle">59,4</text><text class="dlbl" x="171" y="39" text-anchor="middle">61,7</text>
+            <text class="dlbl" x="278" y="34" text-anchor="middle">64,6</text><text class="dlbl" x="385" y="29" text-anchor="middle">67,2</text>
+            <text class="dlbl" x="492" y="23" text-anchor="middle">70,1</text>
+            <!-- profit y: 5.09->158.2, 5.4->157.7, 5.9->156.7, 6.9->154.8, 8.1->152.5 -->
+            <polyline fill="none" stroke="#B5446E" stroke-width="2.5" points="64,158.2 171,157.7 278,156.7 385,154.8 492,152.5"/>
+            <g fill="#B5446E"><circle cx="64" cy="158.2" r="4"/><circle cx="171" cy="157.7" r="4"/><circle cx="278" cy="156.7" r="4"/><circle cx="385" cy="154.8" r="4"/><circle cx="492" cy="152.5" r="4"/></g>
+            <text class="dlbl" x="64" y="182" text-anchor="middle">5,1</text><text class="dlbl" x="171" y="182" text-anchor="middle">5,4</text>
+            <text class="dlbl" x="278" y="182" text-anchor="middle">5,9</text><text class="dlbl" x="385" y="182" text-anchor="middle">6,9</text>
+            <text class="dlbl" x="492" y="182" text-anchor="middle">8,1</text>
+            <!-- PAD y: 1.5->165.1, 2.2->163.8, 3.2->161.9, 3.8->160.7, 4.5->159.4 -->
+            <polyline fill="none" stroke="#E8A33D" stroke-width="2.5" stroke-dasharray="5 4" points="64,165.1 171,163.8 278,161.9 385,160.7 492,159.4"/>
+            <text x="492" y="151" text-anchor="middle" font-size="9.5" font-weight="800" fill="#8A5E0B">PAD 4,5</text>
+            <text class="lbl" x="64" y="198" text-anchor="middle">2025A</text><text class="lbl" x="171" y="198" text-anchor="middle">2026E</text>
+            <text class="lbl" x="278" y="198" text-anchor="middle">2027E</text><text class="lbl" x="385" y="198" text-anchor="middle">2028E</text>
+            <text class="lbl" x="492" y="198" text-anchor="middle">2029E</text>
+          </svg>
+        </div>
+      </div>
+      <div class="col">
+        <div class="row" style="gap:10px">
+          <div class="stat good"><div class="v">+18%</div><div class="l">CAGR revenue</div><div class="d">59,4 → 70,1 M</div></div>
+          <div class="stat good"><div class="v">+12%</div><div class="l">CAGR laba</div><div class="d">Margin 8,6% → 11,5%</div></div>
+        </div>
+        <div class="row" style="gap:10px;margin-top:10px">
+          <div class="stat"><div class="v">3×</div><div class="l">PAD</div><div class="d">Rp 1,5 → 4,5 M</div></div>
+          <div class="stat"><div class="v">3–5 thn</div><div class="l">Payback</div><div class="d">IRR proyksi 18–28%</div></div>
+        </div>
+        <table style="margin-top:12px">
+          <tr><th>Risiko utama</th><th>Mitigasi</th></tr>
+          <tr><td>Dana eksternal mundur</td><td>Quick-win jalan dari kas sendiri; preseden 2025–26</td></tr>
+          <tr><td>Direksi berganti lagi</td><td>Kristalisasi KPI di raperda; laporan publik</td></tr>
+          <tr><td>Kemarau ekstrem berulang</td><td>Aliansi BPBD–PMI + 6 titik sumber cadangan</td></tr>
+          <tr><td>Adopsi digital rendah</td><td>Mode SiGanteng: sosialisasi door-to-door</td></tr>
+        </table>
+      </div>
+    </div>
+    <div class="small" style="margin-top:8px">Asumsi: ekspansi &amp; NRW dibiayai dana eksternal; konsumsi 171 m³/SR/thn × Rp 5.000/m³ ≈ Rp 0,86 M per 1.000 SR; biaya operasional +3,5%/thn; hemat energi 2029 Rp 0,5 M; PAD = 55% laba sesuai ketentuan.</div>
+  </div>
+  <div class="foot"><span>Implementation · Keuangan &amp; Risiko</span><span class="pageno">22 / 22</span></div>
+</section>
+
+</body>
+</html>
